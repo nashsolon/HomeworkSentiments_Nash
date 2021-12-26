@@ -1,0 +1,6 @@
+Kenneth McNelly
+457250
+
+I enjoyed being able to code and run map reduce on an actual example, in this case Shakespeare, as opposed to simply solving for what it should do by hand. I also appreciated how we could find a template for setting up the driver with ToolRunner on the slide deck. Being able to copy a basic model then modifying it was really nice since it allowed me to connect the dots of understanding from the description in the slides to the actual process of how it can be set up, especially in code. I didn't really like question b of problem 2 a bit in which it asked for possible improvements since I didnt really know what to say and I wished I couldve gotten a bit more direction on improvements in what areas it was looking for.
+
+If I had started over on this assignment, I would have definitely started to work on it earlier and hopefully get more help from the TA earlier on since it was a bit of a struggle learning to upload code and work with it in hadoop.

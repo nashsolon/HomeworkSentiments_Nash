@@ -1,0 +1,6 @@
+1.What did you like/dislike about the assignment and why?
+
+I like the problem 1. This problem is closely related to knowledges and concepts mentioned in class. This problem can help me review the related knowledge and consolidate my memory. However I don't like problem 3 very much. It seems hard to find answers to the questions in the articles. It takes me about 3 hours to finish it.
+
+3. What surprised you, and why?
+By reading the article "The Unreasonable Effectiveness of Data", I'm surprised that even without elaborate artificial models, just by big data, many information can be acquired from the web. This shows the great power of big data.

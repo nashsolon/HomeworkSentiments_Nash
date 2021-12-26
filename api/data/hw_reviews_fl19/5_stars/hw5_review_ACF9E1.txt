@@ -1,0 +1,2 @@
+1.I love this assignment because it can let us learn more about how the map reduce program work.Also I learn some knowledge about the regex in java when parsing the input files.
+2.The most important thing I learn is how to get the name of file when executing a program.Because in many occassions we may need to know which file we are reading and it's very useful for debugging.

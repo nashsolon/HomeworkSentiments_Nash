@@ -1,0 +1,2 @@
+For this homework, I enjoyed actually going through the MapReduce operations as well as practice sketching the storage cluster. However I would have liked to see applications of MR with larger datasets than what we had. I also wish there were more interactive activities to be able to visualize the storage distribution. I was surprised by important of a role that tradeoffs played in HDFS storage system. If I could start over on the assignment, I would have arranged the file blocks in the datanodes differently.
+`

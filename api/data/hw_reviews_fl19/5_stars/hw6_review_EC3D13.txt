@@ -1,0 +1,1 @@
+In hw6, I like the second part of Problem 3 the best since it requires us to review course slides and get familiar with the Mapper and Reducer input/output. It also links with the previous class content of similarity calculation. Assuming I could start it over again, I will treat lab5 more seriously because it is important for understanding Job1 and Job2 better. 

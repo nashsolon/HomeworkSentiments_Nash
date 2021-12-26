@@ -1,0 +1,1 @@
+I like how this assignment helped me gain a clearer understanding of secondary sort and become more familiar with using custom WritableComparable types. It surprises me how we can also approach collaborative filtering problems by computing item-item similarities instead of user-user similarities. We can make recommendations to users using this approach as well.

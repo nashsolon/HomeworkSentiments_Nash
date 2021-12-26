@@ -1,0 +1,5 @@
+I like the example of mapreduce in this hw, solid example helps me remember concepts.
+The most important thing I learned from this hw is from the HTDG book about merits and drawbacks of HDFS. reading HTDG is much more fun than the last article.
+there's nothing really suprised me. Everything tested is lecture content relatedand presented in a very good way.
+
+if starting over i woud focus more on the concept part, replication factor and block size explanation see if what i understand differs much from the ref book explanation.

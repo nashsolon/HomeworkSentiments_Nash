@@ -1,0 +1,4 @@
+I liked to implement the secondary sort mapreduce in this assignment since this method can really be used in real world big data analysis. 
+The most important thing I learned from this assignment is the understanding of the secondary sort. 
+Along with that, I learned how to implement the secondary sort effectively.
+Overall, it was a really good assignment. 

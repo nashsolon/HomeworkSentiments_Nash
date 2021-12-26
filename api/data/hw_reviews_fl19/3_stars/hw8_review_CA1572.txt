@@ -1,0 +1,3 @@
+The instructions of problem 3 lack important information. Many people posted on piazza but I still can't see clear instructions for (d) and strange results for (c). Although I can imagine what the problem wants us to do, but it's still hard to see why the problem asks some questions that don't fit the data. 
+
+I spent quite a lot of time learning HIVE and sql. It's strange that the common way to find the max/min element is to use "order by" plus "limit". It's also worth noting that aggregated variables can't appear in "where" clause but can appear in "having" clause.

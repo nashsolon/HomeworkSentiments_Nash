@@ -1,0 +1,3 @@
+This week's homework was tough. I kinda realized that I really don't like Pig and its syntax; it's too clunky and has so many things that aren't in other languages. It took me ages to perform basic tasks, which was frustrating, and the slides were kind of vague, so I had to rely on Googling and a ton of trial and error. Eventually got it all done though. Glad this is the last one.
+
+Rating: 2

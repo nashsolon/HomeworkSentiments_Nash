@@ -1,0 +1,1 @@
+This homework is an excellent review of the previous materials I've learnt, which are pig and spark. Working on PageRank, I got deeper understanding of persist and its use in iterations. Working on best location for distribution center, I learnt how to work on multiple datasets, and the usefulness of join, cogroup, group,AVG, and how to use user defined functions in. Pig.

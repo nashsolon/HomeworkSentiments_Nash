@@ -1,0 +1,4 @@
+1. This homework tells me how to write code about creating inverted index. Therefore, I like it very much.
+2. The most important thing for this homework is the running time to implement the program. I have to wait nearly thirty minutes for completing the program.
+3. Calculating cosine similarity surprised me a lot.
+4. I will do this homework a little bit early.

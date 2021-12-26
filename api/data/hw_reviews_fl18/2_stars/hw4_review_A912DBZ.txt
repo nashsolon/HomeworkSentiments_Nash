@@ -1,0 +1,1 @@
+the running of this homework is nasty. There can be potential problem with eclipse that it does not recognize the package imformation from the setup. Even with reinstalling the workspace from the scripts in the package. It does not recognize the project  properly. Probably changing to a more robust ide or using text editor is a better option than eclipse.

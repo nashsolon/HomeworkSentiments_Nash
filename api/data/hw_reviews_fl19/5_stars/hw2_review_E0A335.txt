@@ -1,0 +1,4 @@
+What did you like/dislike about the assignment and why?
+I like to read with some questions and peoblem in my head, and problem 1 is exactly what I like, I think I read more carefully and concentrate better this way. plus the problem fits well with the content that shows in the book.
+What surprised you, and why?
+I actually suprised by the idea of Mapreduce, since it's the first time I get this idea. when we have that simple quiz during the class, I don't anderstand why it's working. after finishing problem 2 and problem 3. and a little bit of wikipedia, I understand mapreduce better now, and why it's used for large scale parallel computing.

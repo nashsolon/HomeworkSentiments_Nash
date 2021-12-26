@@ -1,0 +1,2 @@
+The thing I liked least about this homework was the repeated calculation of the various different kinds of similarity metrics. I thought that this didn't really contribute anything to my understanding of the topic, and was tedious and error prone. 
+I thought that the most useful part of this homework was learning how to access the name of an input file inside of the Mapper, and also how the different kinds of InputMappers worked, because that seems like it will be the most applicable to future projects.

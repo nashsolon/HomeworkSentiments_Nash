@@ -1,0 +1,1 @@
+hw9 has a fair work load and give us a pretty good insight of spark and the flume. I think it's a good one. Maybe better than the previous ones. The page-rank work is also good because it gives me a better understand of the kay value pairs storage and helps me to improve the key value pair design in my future work.

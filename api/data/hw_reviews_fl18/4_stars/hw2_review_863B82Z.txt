@@ -1,0 +1,1 @@
+I felt that questions two and three were fairly similar. It was not too difficult to answer each question, but there were some portions of question 1 that I felt were kind of vague. I felt that overall, questions two and three where good for getting a grasp of map reduce, but I think it would be beneficial to incorperate more hands on problems in the future.

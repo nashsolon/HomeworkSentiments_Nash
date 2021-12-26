@@ -1,0 +1,1 @@
+This homework gives us 2 weeks to write it ~ The first one is the word co-occurrence mapper reducer, after the fall break I almost forgot it. Thanks for helping me remember that~ The third one let me know more about the differences bewteen user user similarity and item item one, and how the collaborative filtering works. 

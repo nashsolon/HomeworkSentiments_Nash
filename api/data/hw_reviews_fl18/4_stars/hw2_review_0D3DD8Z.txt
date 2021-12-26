@@ -1,0 +1,2 @@
+I thought hw2 was pretty interesting. I do think that, like all the problems that reference the books, problem 1 was a bit boring. Although I learn more about the content, it just felt like unnecessary review because we already went over it during class. But, that's not to say that reviews don't help. 
+I enjoyed problem 2 and 3 a lot because I was doing MapReduce by hand, and that made me think about the intire process a lot more than I would have if I was just using the computer to do it. 

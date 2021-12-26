@@ -1,0 +1,1 @@
+I really like this assignment. It seems like it was a reasonable progression from the previous assignment as it was building off what we already know about MapReduce jobs while still leaving a solid amount for us to figure out on our own. If I could do this assignment over again, I would've started a few days earlier.

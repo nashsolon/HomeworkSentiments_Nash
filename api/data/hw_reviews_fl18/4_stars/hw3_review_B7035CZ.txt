@@ -1,0 +1,1 @@
+I feel better in this homework than previous ones, because after staring coding I feel easier to understand how Hadoop and MapReduce work. I can gradually visualize the process of running such a program. This homework helps me to review Yarn management and how data is transferred to DataNodes and written back to HDFS. I tried the word count program and it was fantastic.

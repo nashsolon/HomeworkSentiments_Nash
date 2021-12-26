@@ -1,0 +1,3 @@
+Overall I really enjoyed this hw assignment. It involved coding for the first time and it was fun to check my map reduce from the lab to see if it worked. It made me think about what the importance of tool runner by first applying it to my own code. I always learn better when I have to apply learning via a project. The second problem was a bit more tricky but it taught me about partitioners. The worst part of the labs are the write ups. I wish we could just submit our code and you check it for functional correctness.
+
+

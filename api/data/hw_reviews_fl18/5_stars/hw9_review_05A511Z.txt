@@ -1,0 +1,1 @@
+This homework is another set of problems for fast mapreduce. I think this gives us more practice for it. Also, it introduces how to submit a spark script, which may be more useful in practice than just shell commands. This homework also involves PageRank algorithm, which to me is an important algorithm to learn about.

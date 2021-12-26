@@ -1,0 +1,3 @@
+For this assignment, I like the problem 2. This problem helps me a lot to understand the difference between those similarity measures. Before doing this assignment, I felt confused about the implementations of different similarity measures. But now, I know the theories behind them, also have a sense of their advantages and disadvantages.
+
+One thing surprised me is that the results of those measures are kind of unmatched with my intuition. I’m not sure should I believe the mathematic analysis or not.

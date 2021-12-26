@@ -1,0 +1,4 @@
+1. The assignment makes me know better about job execution and the whole process of MapReduce program. Therefore, I like the assignment very much.
+2. I have learnt the meaning of skew and experience the process of MapReduce program executed in Linux system.
+3. The way to count the frequency of word surprise me.
+4. I will do this homework earlier.

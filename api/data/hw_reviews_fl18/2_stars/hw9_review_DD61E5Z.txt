@@ -1,0 +1,10 @@
+I rated this homework a 2/5. I like the technologies that were taught in this
+homework (spark) and I learned a lot about spark from completing the 
+assignment. I was a little confused about problem 1b and problem 2a because
+it looks like the exact same question and we are graded twice for our answer.
+Also, I was a little disappointed in the SQOOP setup file for this assignment.
+I had to change the permissions on the file in order to run it and I also had
+to edit the file to remove the "Drop Database" command because I didn't have
+the database on my machine and that line crashed the script. Also, there was 
+no indication in the homework to run the script before running the SQOOP 
+command. I didn't have any issues with problem 3 or 4. 

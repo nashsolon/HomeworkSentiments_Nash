@@ -1,0 +1,2 @@
+I enjoyed doing the homework assignment 8 beacuse it was different from what we have done so far. Till now it was only map and reduce problems in hadoop.From this assignment I got to know about Hive which is very close to sql and  Spark which is a extremely fast in processing large amounts of data.
+On the whole , the assignment provided insights into a very intresting concepts in spark such as pipelining etc.

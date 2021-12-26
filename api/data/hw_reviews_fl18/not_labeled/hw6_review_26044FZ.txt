@@ -1,0 +1,3 @@
+This homework is a great homework.
+The homework tests us how to make a program about N-top-list. And the second question is about combiner. The question is related to why we use combiner, what operation can we use combiner and the change after using combiner. 
+In a word, this homework is a meaningful homework.

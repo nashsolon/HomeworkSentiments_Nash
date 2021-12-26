@@ -1,0 +1,4 @@
+• What is the most important thing you learned and why do you think so?
+After finishing HW5 I learned how to implement an Inverted Index. Also, the practice of calculations of different similarity measures help me to better understand the pros and cons of Jaccard similarity, cosine similarity and Pearson correlation.
+• What surprised you, and why?
+Using different similarity measures we would get totally different results of similarity measurement.

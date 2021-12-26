@@ -1,0 +1,1 @@
+this homework is really helpful to me. in this homework I used pig to manipulate and analyze data output from hadoop. also i used spark to analyzed data. these are useful in practical problems. also by doing the last problem, i learnt how pipelining works in spark. This is a practical homework.

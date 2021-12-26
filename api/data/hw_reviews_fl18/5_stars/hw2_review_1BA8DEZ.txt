@@ -1,0 +1,1 @@
+Homework 2 is a good exercise for me. It helps me with the definition of Map function, Reduce function, and the HDFS. I also reviewed Lab 1 in this assignment. I can use what I have learned in the lab, like different commands in Linux and Hadoop, to manipulate data. It is really cool to me.

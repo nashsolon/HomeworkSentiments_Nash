@@ -1,0 +1,4 @@
+For this assignment, I like the problem 4. This problem helps me a lot to understand the structure of a spark job. I used to think it should be almost the same as the traditional Mapreduce jobs in previous homewok, but after doing this assignment, I understand that how convenient this framework is.
+
+If I could start over again, I would ask TA earlier to get some help.
+Also, I would like to read the book before starting the homework.

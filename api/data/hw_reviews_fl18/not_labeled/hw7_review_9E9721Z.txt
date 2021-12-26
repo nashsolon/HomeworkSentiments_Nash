@@ -1,0 +1,4 @@
+This time the code part is very easy, so I spend less time on the code.
+But the writeup part is a little bit difficult. There are more math things than before. 
+I think it's better to do more math things, because it will help us understand the material and would not be as boring as statement problem.
+Further more, I think problem 3 would be better if it need us to program the whole job.

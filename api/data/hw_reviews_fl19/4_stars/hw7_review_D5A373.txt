@@ -1,0 +1,3 @@
+For this assignment, I like the problem 2. This problem helps me a lot to understand what the combiner is. I used to think all the reducers can be reuse as combiners. But after doing this assignment, I understand it is not always true. However, I a bit dislike problem 1. I believe there are many ways to accomplish the goal, but the requirement has a kind of ambiguity. So, I'm not sure I'm correct or not.
+
+If I could start over again, I would ask TA earlier to get some help.

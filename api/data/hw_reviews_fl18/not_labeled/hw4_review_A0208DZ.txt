@@ -1,0 +1,1 @@
+this homework helps me know how to write mapreduce files in java using eclispe. this homework is hard but useful because by coding different files, i learnt how a map function and a reduce function work logically. also by, doing this homework, i learnt how to implement partitioner, which is useful in practical problems.

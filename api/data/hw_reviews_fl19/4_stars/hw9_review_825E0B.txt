@@ -1,0 +1,3 @@
+The problem 1 and problem 2 have a some duplicate steps. I think the problem 2 should be finished first, which will help us have a better understanding of the problem 1.
+Problem 3 ask us to run the program in local, client and cluster. The command lines are basically the same and the result is same. I think this problem will be better if we can just write the differences.
+I like problem 4. It helps us to have better understand of the memory complex.

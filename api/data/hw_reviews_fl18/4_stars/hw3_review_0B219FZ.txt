@@ -1,0 +1,3 @@
+1.	Homework 3 questions are relatively easy. Most of them are narration for the process, or can get the result directly from a file. No debugging is required.
+2.	I have to re-do Lab3 for homework 3 because during the lab I deleted result files as instructed! Please review lab instruction and homework requirements so in the future they are "compatible".
+

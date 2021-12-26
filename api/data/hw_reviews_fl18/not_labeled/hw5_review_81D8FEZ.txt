@@ -1,0 +1,1 @@
+This first problem ask us to write a new writecomparable. I have done lab 4 before so I imitate it to finish this job. The second one is related to lab4, too. The third one help me to understand the concept of index, and I complete a mapreduce job to create a inverted index. I run it on the local and hadoop both~

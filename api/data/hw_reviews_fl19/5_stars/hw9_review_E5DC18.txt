@@ -1,0 +1,4 @@
+1. I like it. Spark is so much efficient than hadoop. I love the feeling to write spark code.
+2. The orignal development document is always the best way to study a new technique.
+3. The clean and tidy to write spark code.
+4. I prefer to solo all assignment individually. I believe the group teamwork is not a good pratice for this class. Because everyone should know every points of all homework rather than one person knows some of points and the other one person knows the rest.

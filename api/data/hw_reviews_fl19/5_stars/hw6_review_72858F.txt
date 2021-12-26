@@ -1,0 +1,4 @@
+1. I like the homework very much. The homework makes me more familiar with Custom WritableComparable and Secondary Sort.
+2. The most important I have learned is how to write WritableComparable. I need to implement readFields, write, compareTo, hashCode and equals.
+3. The most thing surprised me that in WordCoMapper, we need to split up strings as arrays. The first element in the array is first name, the second element in the array in last name.
+4. I will do this homework a little bit earlier.

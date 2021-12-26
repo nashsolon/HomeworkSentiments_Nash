@@ -1,0 +1,1 @@
+This homework is the review of top N list of the most popular things. By doing this homework, I write my own mapreduce code totally without any given stubs. So it could be difficult at the first time. But after achieving it, I think it really help us understand the whole knowledge. And the two problem are all good.

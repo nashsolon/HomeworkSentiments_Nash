@@ -1,0 +1,1 @@
+This assignment was not as hard as I expected. It was fun sketching out the cluster and going through the MapReduce motions in our heads. Some of the advantage and disadvantage questions were too easily copy-pasted from the textbook though and while that makes life easy, is also not as fulfilling.

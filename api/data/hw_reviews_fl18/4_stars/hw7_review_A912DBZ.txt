@@ -1,0 +1,1 @@
+overall homework is ok. The second question a is a little bit confuse, and 3b requires to be solve by hand is ok, but probably solving by using hadoop can be better in pratice.

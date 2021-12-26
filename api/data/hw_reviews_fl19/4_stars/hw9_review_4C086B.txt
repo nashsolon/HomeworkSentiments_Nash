@@ -1,0 +1,1 @@
+I really enjoyed this assignment. Having more practice with Spark was definitely a good thing and the balance between learning Spark's practical applications and learning about how Spark actually works was good. If I could do this assignment again, I definitely would've started earlier. Also, I would've spent a little more time going over the slides before jumping into it.

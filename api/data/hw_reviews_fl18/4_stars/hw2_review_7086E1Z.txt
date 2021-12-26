@@ -1,0 +1,1 @@
+	The second homework is about HDFS and mapreduce. I am glad to say that by doing this homework, I learned more about cloud computing. And I like the difficulty of this homework, it allows us to solve the problem using the knowledge we learned from class or from reading the textbook.

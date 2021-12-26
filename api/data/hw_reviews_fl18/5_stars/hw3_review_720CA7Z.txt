@@ -1,0 +1,1 @@
+Now I'm more familiar with hadoop command line after finishing homework3, and the questions about the structure of hadoop mapreduce made me review the slides quite a bit thus I have a deeper comprehension of HDFS and mapreduce now, so I think homework3 is pretty good.

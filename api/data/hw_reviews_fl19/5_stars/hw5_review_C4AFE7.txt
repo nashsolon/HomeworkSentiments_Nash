@@ -1,0 +1,3 @@
+What I really liked about this homework was that we can actually learn coding part and statistics part in one bit. We have implemented our java classes to get how many words were used in Shakespeare's work and learned the difference between cosine similarity, Jaccard similarity, and Pearson similarity.
+
+Probably Collaborative Filtering, because there are so many things that we can use this filtering in many applications. Knowing this algorithm we can implement them into rating, comparing and etc sites. 

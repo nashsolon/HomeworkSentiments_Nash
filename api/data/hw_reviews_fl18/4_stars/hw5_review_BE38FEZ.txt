@@ -1,0 +1,1 @@
+In this homework, we implemented the sencondary sorting and global sorting. We can use partitioner to assign different mapper output to different reducer so that we can achieve the gloval sorting. Also, we can use function set up to reduce the redundant steps. Meanwhile, testing locally can reduce many time than testing in HDFS.

@@ -1,0 +1,2 @@
+In hw9, we deeply discussed how to use spark deal with long data strings by using different pyspark functions. Also, we need to consider the format that data read in. Since that, we need to do differnt data convert to achieve our determination. In problem3, we discussed about data localiy, location of storag
+e and also where do those processes take place. Finally, we conceptually talked about issues in PageRank where we know the advantages of two different methods of storages. 

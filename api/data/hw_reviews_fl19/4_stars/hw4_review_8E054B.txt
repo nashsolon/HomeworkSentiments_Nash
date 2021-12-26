@@ -1,0 +1,1 @@
+ I like this assignment because it has a lot of coding. We can use what we learn from classes to practise Mapreduce, driver and toolrunner. I think it's useful for us. The most important thing I learned from this homework is how to programm MapReduce in eclipse and how it works in Hadoop.

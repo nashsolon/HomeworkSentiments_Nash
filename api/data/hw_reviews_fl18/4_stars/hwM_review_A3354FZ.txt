@@ -1,0 +1,7 @@
+HWM Extra problem
+
+(1) First problem is really good review for learning lecture notes. I am really enjoy this problem, we can get a deep learning  of the pagerank and use the practice to consolidate what I have learned.
+
+(2) for problem 2, a really good practice, but ti take abour 2 hours to run the script.
+
+(3) very good practice based on real problems

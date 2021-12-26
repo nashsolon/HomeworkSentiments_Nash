@@ -1,0 +1,1 @@
+I thought that this homework assignment was fine. It helped me better conceptualize how a distributed file system works and how files in a distributed file system are stored. I found it enjoyable to sketch the cluster and even color-coded the drawing. This homework assignment was simpler than I expected and I am glad to be finishing it early.

@@ -1,0 +1,6 @@
+
+I believe that this was a reall solid homework assignment. I felt it was the perfect amount of time for an assignment with the right balance of content. I also felt that the problems were well documentent with the slides providing all the nessecary information without inheritantly giving away the answer. I disliked, however, the uncertainty behind problem 3 questions d). The prompt mentioned the brand and name would found in the comments themselves however I ended up having to find them in the products table of the dualcore database instead. 
+
+Through this homework assignment I got a much better understanding of tuples in relation to RDD's.Being asked to do the whole process from importing the data mapping it then exporting it gave me a much better understanding of how Spark works and how to use it.
+
+I was suprised by how the tuple stored the multifile data when importing to Spark. I did not expect it to store the path in the first part and all the data in the second but rather expected it to attempt to read the data.

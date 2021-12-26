@@ -1,0 +1,7 @@
+What did you like/dislike about the assignment and why?
+I like this assignment because it includes a lot of reading and theoritical problems, which I think is necessary for an engineer student, we not only have to know how we can do the job, we also have to know why this works. Also I like reading with a queston, like Hw1 and 2, we have a problem just like that.
+
+What is the most important thing you learned and why do you think so?
+I think the most important thing I learned from this assignment is the use of sombiner and how it could used to avoid data skew during the MapReduce process. Also I get a sence on how the numebr of Reduce task nodes affects the skew and other properities of the MapReduce tasks.
+
+

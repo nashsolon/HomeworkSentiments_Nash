@@ -1,0 +1,2 @@
+This time the homework is a little bit difficult. I need to read lots of materials like text books to finish it.
+The 1st problem need to use unix command. It is very helpful for us to do this operation problem. It help me a lot to be familiar with the unix system and understand the Hadoop System.

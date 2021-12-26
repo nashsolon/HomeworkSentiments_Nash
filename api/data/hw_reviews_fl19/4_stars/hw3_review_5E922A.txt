@@ -1,0 +1,1 @@
+The thing I most disliked about the homework was that I felt like many of the topics asked about on the homework weren't adequately covered in class beforehand, like skew and sentiment analysis. I think that the most important thing I learned was about the different use cases and analytical attributes for sentiment analysis, because this seems like a useful sort of knowledge.

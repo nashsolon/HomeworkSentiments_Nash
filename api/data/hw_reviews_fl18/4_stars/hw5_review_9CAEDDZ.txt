@@ -1,0 +1,1 @@
+I enjoyed this homework for the same reason that I enjoyed the previous one. Most of this homework involved coding implementations of map reduce. There was still a fair bit of purely conceptual material, but that was not a major portion. I do feel that this one was a little too long, though.

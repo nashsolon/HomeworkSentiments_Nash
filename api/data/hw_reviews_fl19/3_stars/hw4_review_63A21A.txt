@@ -1,0 +1,6 @@
+I like the assignment because it is build on previous code and implements partio
+ner and distributed cache. However I feel that we didn't cover much details in t
+he lecture and lab, so it's difficult for me to find out how to access distribut
+ed cache in the partitioner class. If I could start over again, I would test the
+code locally before run it on HDFS, because it is a waste of time to compile the
+code into jar and delete it.

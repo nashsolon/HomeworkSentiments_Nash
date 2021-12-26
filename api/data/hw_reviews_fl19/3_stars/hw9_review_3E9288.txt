@@ -1,0 +1,2 @@
+I like the part which we use spark to do some transformation and solve differentproblems, as we need to think about how the data is formatted in the RDD and try to find a way to transform it to a form which can be used to answer the questions.
+One of the things I don't really like is the last question in that part which we need to draw the graph. We can roughly draw a graph but feel it really hard to know which transformations require re-partitioning. We went over the slides and it was still not very clear and the TA we asked could not explain it in a clear way either.

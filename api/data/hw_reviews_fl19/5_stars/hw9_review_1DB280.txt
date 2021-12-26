@@ -1,0 +1,1 @@
+What I like most about this homework is that it shows us how to use spark correctly and fully practice it. And it provides a chance for us to construct a DAG graph for the whole process. If I'll do this again I'll read the piazza post first then I can know how to avoid getting stuck on the join command and redo all the process again lol.

@@ -1,0 +1,2 @@
+Hw9 is a little bit harder than the former homework.The second and third problems took me some time to find how to combine them in the rdd.By doing  this problem,it helps me understand the different between normal map recude tasks and how fast the spark can be implemented.This assignment also involved working with python which needed extra effort to write the jpcount program.On the whole i felt that this assignment was a little bit challenging than the others.
+

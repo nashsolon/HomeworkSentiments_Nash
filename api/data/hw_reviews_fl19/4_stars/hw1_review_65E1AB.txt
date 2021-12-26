@@ -1,0 +1,2 @@
+Although the assignment made sense to me due to my background in machine learning, I felt like the assignment might have been confusing for students without any machine learning experience (especially for question 3). I felt like the most important thing I learned through this homework is what makes big data “big,” more specifically the five characteristics of big data.
+

@@ -1,0 +1,12 @@
+• What did you like/dislike about the assignment and why?
+I consider this assignment a very good start for this cloud computing course for it provides me with an overview about the value of massive data especially the third problem. Even though it is not the first time I hear about big data, the sub-problems really make me think more thoroughly about the value and challenges towards big data. 
+
+• What is the most important thing you learned and why do you think so?
+The most important thing I learned about this course which is quite different from my previous knowledge. Instead of limited data with human cognitive knowledge, we can make the most of unlabeled data because sometimes data can tell the stories itself. I consider it valuable for it helps human being decrease time-consuming tasks by training model with large amount of data automatically.
+
+• What surprised you, and why?
+The thing surprised me is that in natural language processing, most of the progress is made in two topics, robot conversation and machine translation, which seem more difficult for me. More surprisingly, the main problems is addressed by big data, providing me with more confidence to technologies with big data.  
+
+• Assuming you could start over again (with working on the assignment), what would
+you do differently and why?
+If I can start over again, I will discuss more about the details in the problems with my teammate instead of solving them mainly on my own because I value some surprising points that I cannot encounter by individual work. After reflection, I hope I can make progress in the future and gain more outside the class.

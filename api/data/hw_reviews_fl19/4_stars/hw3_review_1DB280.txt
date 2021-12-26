@@ -1,0 +1,3 @@
+What I like most about this homework is that it gave me a chance to think all the process through not only about map reduce but also yarn, skew and so on. I got a chance to use them a lot but actually I didn't know much about how the data transferred and what kind of obstacles we'll meet.
+What could be improved not only in the homework but also in this course is that I think the most important part as a professional data science or something else, like, SDE, dealing with huge amount of data would be the most significant part. We should get more chance to practice on this.
+If I could do it again I'll read the textbook through first instead of looking for informations while writing answers.

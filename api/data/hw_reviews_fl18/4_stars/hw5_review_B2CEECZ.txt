@@ -1,0 +1,3 @@
+For problem 1 Custom WritableComparable, I get to write a simple problem that counts the number of occurrences of each full name in a list of names.
+For problem 2 Secondary Sort, I sorted the records first by last name in ascending order and then if the name is the same sort by birth year in descending order, so that the first entry per each last name is the youngest person of that last name.
+For problem 3 Creating an Inverted Index, I implemented an indexer that produces an index of all the words in the text.

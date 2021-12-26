@@ -1,0 +1,1 @@
+This homework assignment takes a lot of thoughts. Regarding problem 1, it is quite confusing that how the string pair comparator must be used. Is it used the same way as the  secondary sort or what? In addition, I think this homework consists of problems that can cover what we have learnt in class in a good way.

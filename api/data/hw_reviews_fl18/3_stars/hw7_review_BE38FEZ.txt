@@ -1,0 +1,1 @@
+In this assignment, we gained a deeper understanding in the MapReduce program. Also, according to compare different similarity measures, we learned their advantages and disadvantages. Using an appropriate similarity measure can help us do a better job in collaborative filtering to address recommendation problem. I have learned a lot from this assignment.

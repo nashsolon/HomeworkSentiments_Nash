@@ -1,0 +1,5 @@
+What did you like/dislike about the assignment and why?
+This is the first Assignment with code submission, I like writing code and see them running and getting all the results from my code. this is excited for me.
+I also like to answer the question like why sometimes this method won't work, and how you can improve them. this makes me think critically.
+Assuming you could start over again (with working on the assignment), what would you do differently and why?
+If I could start over I would go to the TA hour to ask about how to read the txt file line by line into the program. I spent almost an hour to figure this out.

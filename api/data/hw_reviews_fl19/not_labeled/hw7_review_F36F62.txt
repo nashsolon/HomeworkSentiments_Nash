@@ -1,0 +1,2 @@
+I learned that I should check the result manually even if the results seemed to be correct. My result were correct for the 4 given pairs. But I forgot to check if the words are empty strings. I find that by checking the output manually.
+I don’t like the last question of problem 3. The problem itself is confusing. I thought it was asking about words next to each other at the first time.

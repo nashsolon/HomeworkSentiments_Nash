@@ -1,0 +1,4 @@
+1. I like this assignment because it gives us choice to practice the content we learned from class.
+2. The defination and process of mapper and reducer.
+3. The priciple of MapReduce can be so easy.
+4. I would choice to do individual assignment because it can help me get a deeper understanding of knowledges.

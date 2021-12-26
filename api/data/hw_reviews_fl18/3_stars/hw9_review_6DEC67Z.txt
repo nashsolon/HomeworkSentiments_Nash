@@ -1,0 +1,5 @@
+this week's homework was frustrating and confusing beyond belief. Spark is very finnicky, and has a lot of unknowns and specifics that weren't necessarily explained in the homework. A lot of the instructions were vague, and because the grading is a little subjective in this course, I feel uncertain if my solutions were correct, even if they returned the correct results. I'm worried that they would mark me off because I didn't do a more optimal or efficient solution.
+
+Either way, I learned a lot about spark and it was useful. I do wish that there were clearer explanations about how everything worked in general though.
+
+Rating: 2 

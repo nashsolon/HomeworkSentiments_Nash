@@ -1,0 +1,1 @@
+I enjoyed this homework. I thought questions 2 and 3 were fun, and helped get an intuitive sense for the types of problems MapReduce can be used for. I also like question 1 because it forced me to take a closer look at the pros and cons of HDFS.

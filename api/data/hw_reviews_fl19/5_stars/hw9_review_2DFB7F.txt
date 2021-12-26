@@ -1,0 +1,5 @@
+
+• What is the most important thing you learned and why do you think so?
+After finishing hw 9 the most important things I've learned are the hands on experience on how to use spark shell, how to join datasets with SPARK, and how to write SPARK programs.  I also get to better understand PageRank algorithm. 
+• What surprised you, and why?
+For problem 3(d), in the beginning we couldn't run the job in cluster mode. Then we fixed the problem by asking TA.

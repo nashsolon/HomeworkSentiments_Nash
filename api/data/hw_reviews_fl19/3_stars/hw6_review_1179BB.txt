@@ -1,0 +1,1 @@
+This is homework is kind of confusing. Especially for the problem 1. The description is so obscure, and I do not know what to do after reading the description many times. The good thing about this homework is that it covers most of the materials that we learned in class and lab. From the homework, I learn about custom interface, secondary sort and collaborative filtering. 

@@ -1,0 +1,1 @@
+In my opinion, this homework is better than the last one. Problem 1 brings me deeper understanding about HDFS, how things are working and organized in it. Problem 2 and problem 3 are focusing on the MapReduce procedure. To be able to address these question, I have to be very familiar of each step in the algorithm. 

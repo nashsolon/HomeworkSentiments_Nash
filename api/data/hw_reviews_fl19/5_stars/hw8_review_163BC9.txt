@@ -1,0 +1,1 @@
+Hw8 is an introduction to hive and spark. I like this aspect of this homework as it helps me starting with these tools, but I feel like it could use a bit more explaination with 5d about map and flatmap. Also, the basics of these tools as well as python is the most important thing I learnt from this homework, as they are the main topic and tool for the rest half of the semester.

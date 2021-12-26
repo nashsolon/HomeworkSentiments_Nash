@@ -1,0 +1,3 @@
+I really enjoyed this homework becaues it allowed me to practice coding. I thought that running the two jobs (with and without combiner) was painful because it had to be done in hadoop and couldn't be done locally in Eclipse. In the future, please do not require us to run things a certain way, that's not how the real world works. 
+
+

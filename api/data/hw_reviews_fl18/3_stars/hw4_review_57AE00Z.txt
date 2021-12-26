@@ -1,0 +1,1 @@
+I did not like this homework. I thought it was hard to learn how to use the --file command and I had a hard time getting it to work. I hated having to do the mapreduce and use the toolrunner. I do not understand what the toolrunner is or why we need to use it. I would like this much better if I got more explanation or clear demos how to do it.

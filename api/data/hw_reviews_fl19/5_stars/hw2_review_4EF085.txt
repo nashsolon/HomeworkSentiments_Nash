@@ -1,0 +1,3 @@
+First of all, this assignment was fun to do.  The second and the third problems were not too challenging but very helpful in understanding the procedure of mapreduce and how the data is processed for intermediate data and the final result.  The less fun part of the homework was the first problem because pieces of information required to know were written in multiple different sources. However, the problem was also helpful in understanding the logic of HDFS.
+
+What surprised me the most is the fact that there are downside of using large block for hdfs.  Since it is a method used for dealing with big data, I thought the size of data won't be a problem that much. 

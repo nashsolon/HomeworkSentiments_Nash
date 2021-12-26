@@ -1,0 +1,5 @@
+What did you like/dislike about the assignment and why?
+I don't like the second question. The reason is that the definition of cosine similarity on the slides is different from that on the MMDS textbook. I'm so confused about which is correct.
+
+What surprised you, and why?
+I'm surprised that the recommendation system theory is so simple and intuit. Before taking the class, I've heard about the recommendation system because it's so famous. However, the simplicity is beyond my thought. It surprises me.

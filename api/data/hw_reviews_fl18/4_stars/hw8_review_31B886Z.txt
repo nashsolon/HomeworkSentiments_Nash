@@ -1,0 +1,1 @@
+This homework is a little difficult for me. We change our language to python and we do not have eclipse to help us debug. It took a long time to adopt a new language for a new programmer. Also, Spark is a new platform, so it is not easy for me to figure out some principles. Finally, when we finished the homework, we are familiar with these new language and platform.

@@ -1,0 +1,11 @@
+###### * No Version Specifiers * ######
+numpy
+pandas
+matplotlib
+scipy
+nltk
+ipykernel
+flask
+text2emotion
+
+###### * Version Specifiers * ######

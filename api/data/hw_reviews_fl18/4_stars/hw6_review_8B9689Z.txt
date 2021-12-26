@@ -1,0 +1,1 @@
+This homework was a bit tricky because we had to work with figuring out how to correctly align the input key and value types for each mapper and reducer. However, I liked this homework because it taught me how the top n list works now in a real environment. 

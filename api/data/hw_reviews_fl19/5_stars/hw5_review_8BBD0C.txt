@@ -1,0 +1,2 @@
+Overall, i think that the most important thing i learned is how to use different input formats for the input data. This is useful as going forward it allows for a wider variety of input data to be used. One thing i disliked about the assignemnet was the lack of clarity regarding the filepath, it was confusing to use and implement and more instruction would have been helpful
+

@@ -1,0 +1,2 @@
+this homework does not need a lot of coding. But instead of with some math problem, which is very interesting. The first problem is quite easy, I borrowed the reuder and stringpairwritable from the word_co_writable. for the rest peoblem, besides by looking the slides which provided by the professor, I also did some research on google. I learned a lot.
+The problem 3 took me some time, I'm glad that I figured it out, at least I think

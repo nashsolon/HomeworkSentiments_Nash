@@ -1,0 +1,1 @@
+The workload of hw6 is a little slighter the hw5. Because there in tutorial code for problem 1 shown in the lab ppt, the difficulty is greatly reduced. I think this work could be harder without the detailed tutorial code in lab ppt link. What's more the probem 2 gives me a better understanding of how combiner works and how to monitor the job on the web port.

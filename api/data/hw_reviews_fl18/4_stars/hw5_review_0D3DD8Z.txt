@@ -1,0 +1,1 @@
+This hw was more interesting than the other ones. It helped me figure out how to use the toolrunner configurations to the fullest extent, and it also helped me understand comparators. I did think that problem 1 was a bit annoying in the fact that it didn't deviate much from the structure of the file that you had. But, overall, it was pretty enjoyable. 

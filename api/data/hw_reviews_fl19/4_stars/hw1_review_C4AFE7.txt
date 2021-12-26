@@ -1,0 +1,7 @@
+What did you like/dislike about the assignment and why?
+
+I liked this assignment. For question one, I had a chance to better understand forms and characteristics about big data is in details. Question two was a bit brain freezer in a sense. I read over the prompt in the text book multiple times to understand what it meant. Lastly the article that is associated with the third question taught me the idea and usage in different types of data sets we have. 
+
+What surprised you, and why?
+
+The fact that unlabled data can have more detail shook me when I was working on the third problem. I would always thought labeled and anotated data with organized data table would give us more and precise informations.

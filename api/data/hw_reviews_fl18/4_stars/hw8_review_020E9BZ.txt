@@ -1,0 +1,1 @@
+I gave hw8 a 4 because it is quite challenging to do. And also some parts of the homework depends on the data being processed in lab7, which I have to do because there was not enough time during lab section to finish it. Also I find it hard to do probably because I wasn’t really familiar with pig and ETL yet.

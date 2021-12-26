@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!--Fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Slab:wght@700&family=Lobster&display=swap" rel="stylesheet" />
+
+    <!--End Fonts-->
+    <script src="https://kit.fontawesome.com/dbf758a7e5.js" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" type="text/css" href="./public/css/style.css" />
+
+    <title>Homework Sentiments</title>
+</head>
+
+<body>
+    <h1 id="title">
+        CSE 427S: Cloud Computing with Big Data Applications Homework Sentiments
+    </h1>
+
+    <a class="link" id="pbook-link" href="./client/process_book">Process Book</a>
+    <a class="link" id="video-link" href="https://youtu.be/lntesB1MNOY">Instructional Video</a
+        >
+
+        <h2 class="section">Semester</h2>
+        <div id="select-sem" class="select">
+            <p id="all" class="sel">All</p>
+            <p id="fl18" class="des">FL18</p>
+            <p id="fl19" class="des">FL19</p>
+        </div>
+        <br />
+        <div id="vaderCharts" class="glass-cont">
+            <h3 class="less-margin">Vader Analysis</h3>
+            <div
+                id="vader-stackedbar-info-text"
+                class="info-text glass-cont opaque"
+            >
+                The Vader Stacked Bar Chart displays on average how positive,
+                negative, and neutral a given review is during a certain
+                semester, or for all semesters. Note: hwM is a make-up homework
+                for students in the FL2018 Semester. <br /><br />
+
+                The Vader Analysis Slider chart displays the average compound
+                scores for a given homeowork. Each compound score is between -1
+                and 1 where -1 is the most negative and 1 is the most positive.
+                Scores above 0.05 are considered positive overall, score below
+                -0.05 are negative and neutral responses are in between. 0.05
+                and -0.05.
+            </div>
+            <i id="vader-stackedbar-info" class="fas fa-info-circle"></i>
+            <!--<div id="vader-stackedbar-info">&#9432;</div>-->
+            <div id="sentimentsChart" class="svg-cent"></div>
+            <h3 class="less-margin" id="slider-title">Compound Slider Chart</h3>
+            <div id="slider-chart-tooltip"></div>
+            <div id="sliderChart" class="svg-cent"></div>
+        </div>
+
+        <div id="text2emotionCharts" class="glass-cont">
+            <h3 class="less-margin">Text 2 Emotion Analysis</h3>
+            <div
+                id="text2emotion-info-text"
+                class="info-text glass-cont opaque"
+            >
+                The Text 2 Emotions analysis displays on average how angry, sad,
+                feaful, surprised, or happy a given review is during a certain
+                semester, or for all semesters. Note: hwM is a make up homework
+                for students in the FL2018 Cloud Computing with Big Data
+                Applications course.
+            </div>
+            <i id="text2emotion-info" class="fas fa-info-circle"></i>
+            <div id="emotionsChart" class="svg-cent"></div>
+        </div>
+
+        <div id="select-hw" class="svg-cent"></div>
+
+        <div id="starHistogram" class="svg-cent glass-cont"></div>
+
+        <div id="reviews-container">
+            <!--Title: Reviews-->
+            <h2 id="reviews-title" class="section">Reviews</h2>
+            <i id="shuffle" class="fas fa-dice"></i>
+            <div id="reviews">
+                <!--Here are the reviews-->
+                <div id="review1" class="review">
+                    <div class="top-bar">
+                        <p class="rev-sem">FL18</p>
+                        <p class="rev-hw">HW2</p>
+                        <div class="rev-stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </div>
+                    </div>
+                    <p class="rev-text">This one is awesome</p>
+                </div>
+                <div id="review2" class="review">
+                    <div class="top-bar">
+                        <p class="rev-sem">FL18</p>
+                        <p class="rev-hw">HW11</p>
+                        <div class="rev-stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half"></i>
+                        </div>
+                    </div>
+                    <p class="rev-text">This one isn't awesome</p>
+                </div>
+                <div id="review3" class="review">
+                    <div class="top-bar">
+                        <p class="rev-sem">FL19</p>
+                        <p class="rev-hw">HW7</p>
+                        <div class="rev-stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half"></i>
+                        </div>
+                    </div>
+                    <p class="rev-text">
+                        This one is reasonably awesome. This one is reasonably
+                        awesome. This one is reasonably awesome. This one is
+                        reasonably awesome. This one is reasonably awesome. This
+                        one is reasonably awesome. This one is reasonably
+                        awesome. This one is reasonably awesome. This one is
+                        reasonably awesome. This one is reasonably awesome. This
+                        one is reasonably awesome. This one is reasonably
+                        awesome. This one is reasonably awesome. This one is
+                        reasonably awesome. This one is reasonably awesome.
+                    </p>
+                </div>
+            </div>
+            <p id="more-reviews">View More Reviews</p>
+        </div>
+
+        <br />
+        <script type="application/javascript" src="public/js/main.js"></script>
+        <script
+            type="application/javascript"
+            src="public/js/stackedBarChart.js"
+        ></script>
+        <script
+            type="application/javascript"
+            src="public/js/sliderChart.js"
+        ></script>
+        <script
+            type="application/javascript"
+            src="public/js/starHistogram.js"
+        ></script>
+        <script
+            type="application/javascript"
+            src="public/js/dataHandling.js"
+        ></script>
+        <script
+            type="application/javascript"
+            src="public/js/reviews.js"
+        ></script>
+        <script
+            type="application/javascript"
+            src="public/js/jqStuff.js"
+        ></script>
+        <script
+            type="application/javascript"
+            src="public/js/selectHw.js"
+        ></script>
+    </body>
+</html>

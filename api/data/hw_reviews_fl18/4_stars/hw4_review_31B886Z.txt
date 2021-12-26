@@ -1,0 +1,1 @@
+Homework4 is great! It contains Lab3 and we can learn the processes how wordcount and average length function works. It also immproves my knowledge about driver, mapper and reducer. Mapper maps input key/value pairs to a set of intermediate key/value pairs. Ruducer reduces a set of intermediate values whichs share a key to a smaller set of values. They are very useful in hadoop.

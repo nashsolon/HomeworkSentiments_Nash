@@ -1,0 +1,1 @@
+HW6 was good. It definitely cleared up a lot of the confusion I had about how exactly combiners would be implemented and when they would be implemented. Doing the top N was nice since we actually got to practice a thought process that we learned during class. The questions were thought-provoking and purposeful.

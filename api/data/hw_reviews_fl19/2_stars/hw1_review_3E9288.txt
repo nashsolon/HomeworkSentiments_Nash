@@ -1,0 +1,5 @@
+I do not like the third problem. Although it gave me some insight about the comparison of the data-based approach and learning general rules from a smaller data set,
+I did't find it very helpful for us to answer all the questions and I am still confused about the specific pros and cons of this approach, and how we should use it.
+
+The most suprising thing I learned from this homework is how the threshold we set could affect the result in problem 2. We must be very careful when building a new
+model in order to make the results we get truly meaningful rather than just some random noise.

@@ -1,0 +1,1 @@
+I find this homework to be easier than the last one. There are more computations involved, which requires less formal writing and explanation. Most of the materials we needed to answer the questions are either in the slides or from previous code (like the WorkCount program). I would give this homework a four out of five. 

@@ -1,0 +1,1 @@
+This homework helps mew review the pig etl, and I did filtering, grouping and sorting in this homework. The speed is ok when running locally; however,when I run it on the hadoop it takes too much time to execute. Overall, I feeel ok with this homework. It's not hard, but just takes a lot of time on it. 

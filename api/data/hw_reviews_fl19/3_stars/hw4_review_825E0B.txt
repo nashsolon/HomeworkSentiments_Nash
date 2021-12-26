@@ -1,0 +1,3 @@
+In the hw4's first question, the 1.b and 1.c's instruction is too inexplicit. And most of the question in this part is based on the code. It should give us some helps to compile code while it has no helps.
+
+The second questions are based on the materials on the Tuesday and the hw need to be submitted on Thursday. I hope I can have more time to finish the hw.

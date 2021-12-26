@@ -1,0 +1,3 @@
+I thought this assignment really emphasized the first lecture on Big Data. I found the assignment thorough; I felt that I had a fairly superficial understanding of Big Data before starting and now I feel like I have a strong grasp on its characteristics. Although I thought it was important, I didn’t like how writing-heavy this assignment. I typically prefer doing things like coding that apply what we’ve learned as opposed to writing out definitions, but I still felt this assignment was beneficial to my learning. I was surprised by how difficult the second problem was; after looking at it I thought it would be easy. I enjoyed doing the derivation though.
+ 
+

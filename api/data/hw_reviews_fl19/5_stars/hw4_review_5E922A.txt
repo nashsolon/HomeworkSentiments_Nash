@@ -1,0 +1,3 @@
+I thing I enjoyed most about this homework is that it was focused mainly on practical applications. This allowed me to solidify various concepts we learned in class, by seeing how they could be applied to actual code.
+
+The most important thing I learned was how to load data into the distributed cache, and how to use a partitioner. I think this is important because these topics are seem most applicable to future assignments and projects.

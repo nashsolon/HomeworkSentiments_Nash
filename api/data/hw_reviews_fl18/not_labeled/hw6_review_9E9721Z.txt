@@ -1,0 +1,3 @@
+This homework is a little bit easier than homework before because we have the example code to learn before we do this. 
+We learn a lot from the existing code, like how to use map in Java. 
+I hope the homework next will also have the example code, it is much more helpful. 

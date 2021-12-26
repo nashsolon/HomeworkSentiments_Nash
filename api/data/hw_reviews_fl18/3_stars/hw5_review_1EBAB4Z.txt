@@ -1,0 +1,1 @@
+This homework was helpful in understaning the different parameters used to run amap reduce program. And also I learned how to manipulate the parameters to get a desired program. I believe I am understanding the concepts well because it is getting easier to write a map reduce program like inverted index. However, I struggled with creating a general sort for the second question. 

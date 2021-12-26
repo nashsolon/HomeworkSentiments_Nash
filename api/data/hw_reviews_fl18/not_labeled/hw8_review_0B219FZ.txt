@@ -1,0 +1,1 @@
+Homework eight is the first homework where we practiced Apache Pig. Pig differs from SQL in significant ways (because it is a procedural language, which means you do not have to apply operation to the whole relation), in some circumstances resulting in easier code (nested foreach). We also explored how to use Apache Spark to do ETL. 

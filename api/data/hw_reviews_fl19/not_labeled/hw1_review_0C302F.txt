@@ -1,0 +1,1 @@
+This homework has helped me better understand different characteristics of dataset and different types of datasets. I found the article difficult to understand, but attending office hours helped a lot. An important thing that I learned from this assignment was understanding the difference size, and the difference between structured and semi-structured data.

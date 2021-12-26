@@ -1,0 +1,1 @@
+The first homework is rather trivial because half of the homework is to chracteristirize the dataset described. It is poorly designed as well. Asking question about an article but changing the norm with similar words can cause a lot of confusion epecially when the concepts are new. 

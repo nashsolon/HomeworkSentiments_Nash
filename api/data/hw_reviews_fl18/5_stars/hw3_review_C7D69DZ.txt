@@ -1,0 +1,1 @@
+I thought that this was a good homework assignment. It was interesting to analyze the number of words in the Shakespeare plays, looking at what words were used more frequently than others. It also made me think a lot more about how MapReduce works and how to optimize the number of Reduce tasks.

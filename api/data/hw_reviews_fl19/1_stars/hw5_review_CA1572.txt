@@ -1,0 +1,5 @@
+I dislike the similarity calculation very much. No matter if one understands the concept very well, it is just kind of laborious work with fractions. It can be easily adjusted so that the intermediate results are not fractions.
+
+In addition, I'm confused what is a formal proof for problem 3(a). It's just too obvious that we can replace normalized values with the formula how you normalize them. I even want to write "by definition they are the same".
+
+I learned that when you use string.split(), it can return an empty string. It produces an extremely long record for "" if I don't check this thing.

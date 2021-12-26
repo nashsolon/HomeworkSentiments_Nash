@@ -1,0 +1,1 @@
+I enjoyed doing this homework. I think that I got very familiar creating and running map reduce jobs. It was nice to be able to create a job without a lot of direction. I feel much more confident in my ability to actually write map reduce now. Acquiring these skills is making the class fun.

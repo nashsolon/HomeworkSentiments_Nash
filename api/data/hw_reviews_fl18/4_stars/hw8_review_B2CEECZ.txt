@@ -1,0 +1,9 @@
+For homework 1, we started by identifying which sites have the lowest total cost.
+
+For problem 2, we wrote PIG Latin to determine which keywords are the most expensive for Dualcore in general.
+
+For problem 3, we successfully calculated the Click-Through Rate.
+
+For problem 4, we get to parse a set of activation records in XML format to extract the account numbers and model names.
+
+For problem 5, we figured out the basic information of pipelining.

@@ -1,0 +1,13 @@
+I liked the exposure this assignment gave to big data. For me it was really nice
+to see the lectures, reading and homework all relate and tie together. The only
+thing I dislike about the assignment was the reading for the second problem did
+not give a super clear explanation of the Bonferroni’s Principle. It did a good
+job of introducing it, I would have like to have seen one more example with it,
+or another reading or different perspective on it. Other than that I enjoyed the
+assignment and I thought it did a nice job of furthering my understanding of big
+data. One thing that surprised me was how much data is out there and how much
+data is continuing to be produced. If I could start this assignment over I think
+I would have like to start the problem corresponding to each reading immediately
+after, instead of waiting to start the homework after completing all the
+reading.
+

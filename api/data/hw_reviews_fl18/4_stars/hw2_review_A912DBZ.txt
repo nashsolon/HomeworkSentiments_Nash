@@ -1,0 +1,1 @@
+in the first problem, for problem d, it will be great to have example problems so students can have reference or idea on how is the format will be. Problem 2 and 3 is good and give enough insight on how map and reduce works.

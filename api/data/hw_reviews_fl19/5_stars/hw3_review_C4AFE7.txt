@@ -1,0 +1,3 @@
+I really liked the assignment again. Like I have been saying throughout the previous assignments, homework helps alot in understanding the materials in depths. I had a basic knowledge about the MapReduce process. I could draw them in my head not in details, but now I can definitely draw detailed diagrams of the process in my head.
+
+I would read over the textbooks and slides once more before I get into this homework. Suggested slides and textbook pages tell you in details, which was very helpful in completeing this assignment.

@@ -1,0 +1,1 @@
+I think this homework covers important topic and further how a mapreduce is exectuted. But when doing the homework, we notice a difference in the meaning of the term "reducer" between the class ppt and the book, which was a little confusing to us. But in the end we clear the confusion with the help from TAs.

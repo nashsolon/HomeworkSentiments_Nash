@@ -1,0 +1,3 @@
+Star Rating: 4
+
+Aside from some trouble getting the UDF function to work in pig, I thought this homework assignment was pretty easy. I liked seeing teleportation in action in problems one and two. Hopefully, I'll get to work on something like this in my next job!

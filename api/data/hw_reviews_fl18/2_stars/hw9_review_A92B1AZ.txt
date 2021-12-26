@@ -1,0 +1,1 @@
+I thought that this homework really made me think a lot about the processes that surround map reduce alogorithms. It made me really have to dig down and understand the basics of what was going on. I had to understand the different daemons and processes, how they work and how exactly they interact with each other. I am looking forward to implementing my own map reduce algorithms.

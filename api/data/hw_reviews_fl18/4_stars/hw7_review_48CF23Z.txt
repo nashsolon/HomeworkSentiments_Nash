@@ -1,0 +1,1 @@
+This week we are required to work with word co-occurrence problem, which is a part of natural language processing problem. I think this problem is not so difficult because I finished the coding problem within an hour. However, the rest of the homework is still a little bit not clear, so I still spent nearly a whole day to so this homework.

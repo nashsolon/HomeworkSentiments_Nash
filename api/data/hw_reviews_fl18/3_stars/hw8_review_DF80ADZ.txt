@@ -1,0 +1,3 @@
+this homework is very, very interesting. To be honest, this is my first time contact pig and spark, it took me some time to figure it out. I really like this process. To see how simple code to change thecontent of the file to what we want. 
+about the pyspark, thanks for the three functions provided by professor. otherwise i really don't know how to do it.
+And about the pig, at first I'm a litte confused about the pig filename and pig -x local filename. So error comes a lot. I'm glad finally I solved it and I should be more careful.

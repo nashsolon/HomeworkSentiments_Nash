@@ -1,0 +1,3 @@
+HW6 Extra problem
+
+This assignment is really good review for learning lecture notes. I am really enjoy these problems, we can get a deep learning of the properties of top-n-list and the function of combiner. The practice consolidates what I have learned.

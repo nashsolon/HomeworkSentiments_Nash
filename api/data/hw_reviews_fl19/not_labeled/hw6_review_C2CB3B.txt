@@ -1,0 +1,1 @@
+I liked how hands on this assignment was; I felt like I was getting important practice with MapReduce. I think the most important thing I learned was how to infinitely add configuration details in the command to run the program; this will make development significantly faster in the future.

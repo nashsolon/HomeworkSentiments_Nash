@@ -1,0 +1,1 @@
+I liked this homework. It was great. I felt like I learned a lot, and it made me happy. I understand why all reducers can’t be combiners. I also see how combiners reduce the data transfer bottleneck. I also see how Top N lists work and it’s great. I have nothing but great things to say. Thanks Professor!

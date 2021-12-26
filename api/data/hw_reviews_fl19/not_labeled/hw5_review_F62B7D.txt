@@ -1,0 +1,13 @@
+• What did you like/dislike about the assignment and why? 
+It is rather interesting to do this assignment since there’re many kinds of different problems for me to think about. What I dislike is the problem 3a. I am really confused about the description. The equation is too obvious and I could find no way to “show formally”.
+
+• What is the most important thing you learned and why do you think so?
+The getPath().getName() method. Without the hint and implementation in this assignment I might never find this usage.
+
+• What surprised you, and why?
+The interesting result of different similarity calculations.
+
+• Assuming you could start over again (with working on the assignment), what would
+you do differently and why?
+I’ll use program to calculate the tings in problem 2 for me.
+

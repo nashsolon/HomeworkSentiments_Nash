@@ -1,0 +1,1 @@
+I think this homework introduces us to fast-pace mapreduce using pig and spark, so it's very practical. The thing I don't quite like about pig and spark is just that it doesn't have a progress report about the job. In java mapreduce it will say things like "map 25%" but we don't have that in pig or spark.

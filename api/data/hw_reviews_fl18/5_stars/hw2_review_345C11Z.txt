@@ -1,0 +1,4 @@
+Hw2 urged me to read the map-reduce and HDFS part of HTDG, which made me clear of what's going on when we use hadoop for a data storage and processing.
+Hw2 is not hard, but just takes some more time than I expected.
+5-star rating.
+ 

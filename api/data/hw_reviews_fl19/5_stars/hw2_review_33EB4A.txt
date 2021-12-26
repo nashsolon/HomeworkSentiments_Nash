@@ -1,0 +1,5 @@
+1.I like this assignment it provides me with a further understanding of HDFS and MapReduce by asking some critical questions.
+
+2.I am suprised that we still don't have any coding parts to this assignment and the difficuility of the assignment is really fair.
+
+4.I would review the lecture slides and re-do the lab 1 because it took me lots of time to loop up the slides and command lines during this assignment.

@@ -1,0 +1,1 @@
+This homework focuses more on coding and implementation, and so I gradually can implement a job on my own. So I feel it’s more worthwhile than the previous few homework that focus more on conceptual ideas. I got to know things like job configuration and how to extract keys and values from lines of input. It’s necessaryto match input types to output types. 

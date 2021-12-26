@@ -1,0 +1,1 @@
+I liked that this assignment went very in depth, however I was frustrated with memory errors and spending a lot of time figuring out to set the input and output class to the file format. I wish I had reread the text before starting the assignment and that this assignment had more hints on where in the textbook to get help from.

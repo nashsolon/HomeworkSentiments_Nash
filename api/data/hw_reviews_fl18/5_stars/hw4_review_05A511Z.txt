@@ -1,0 +1,1 @@
+This homework is the first time we get to do some code work and I think it did a good job by introducing us to the coding based on something we have done in the lab previously, so we won't be too lost. One thing I would suggest is if we learn more about how to implement the partitioners in the lecture this homework may be even more clear.

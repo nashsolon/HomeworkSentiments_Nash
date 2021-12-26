@@ -1,0 +1,13 @@
+• What did you like/dislike about the assignment and why? 
+The tasks are interesting. I like reusing things like SumReducer.
+
+• What is the most important thing you learned and why do you think so?
+How to use Yarn to check the job statistics.
+
+• What surprised you, and why?
+The word co-occurrence job keeps reporting error and I couldn’t find why. Finally I found that I had done everything right but imported a wrong Text class.
+
+• Assuming you could start over again (with working on the assignment), what would
+you do differently and why?
+Come up with an example where we can’t use reducer as combiner.
+

@@ -1,0 +1,4 @@
+i like the similarity measurement calculation part, although it is only a toy example but still helps to understand the concept.
+i learned pearson correlation and jaccard similarity.
+nothing really suprised me.
+i would spent more time on trying to understand different inputformat in hadoop and how they can be applied in different cases. 

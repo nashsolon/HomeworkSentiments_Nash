@@ -1,0 +1,1 @@
+From this homework, we compute the word co-occurrence and calculate the communication cost of the job. Compare the pairs and stripes approach.In the problem 2, we review the similarity measures in collaborative filtering. And in the problem 3, we calculate it. I think it is a good homework to review the knowledge that we have learned.

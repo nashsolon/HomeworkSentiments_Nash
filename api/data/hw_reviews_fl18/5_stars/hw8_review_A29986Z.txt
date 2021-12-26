@@ -1,0 +1,1 @@
+I thought homework 8 was a good homework. It helped me learn how to do ETL with spark and pig and helped me analyze the differences and the advantages and disadvantages of using either or. I had a good time doing the homework, it was fun. It was not that challenging but it was a nice break. Question 4b could have been worded a bit more clearly. It was good overall though. 

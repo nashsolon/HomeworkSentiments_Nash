@@ -1,0 +1,1 @@
+in this homework i practiced more about writing mapreduce functions. and i learnt knowledge of secondary sort, and implemented it in the prolems. also the inverted index problem is helpful to me, through this homework, i have more practical exercise in using hadoop and java. so this home work is very helpful.

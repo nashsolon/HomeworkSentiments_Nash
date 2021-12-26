@@ -1,0 +1,2 @@
+I’m surprised that the lambda function is so powerful. I don’t know that I can create tuple with lambda function in such a easy way.
+I will spend more time get familiar with Python again, Especially the lambda functions. I should spend more time to pick up Python before I start this homework.

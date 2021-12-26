@@ -1,0 +1,3 @@
+I liked in this assignment that it was pretty much all application based, I enjoy the coding much more than the written stuff. What I did not like in this assignment was that part 2 wasn't really teaching me that much, I already knew that the combiner helped make MR jobs a lot more efficient, though I do admit that it gave me a more detailed understanding than I had. 
+
+What surprised me most in this assignment was how simple the word_co_occurence MR job truly is. I thought it'd be a lot more coding but it's more of smart coding than a lot of coding.

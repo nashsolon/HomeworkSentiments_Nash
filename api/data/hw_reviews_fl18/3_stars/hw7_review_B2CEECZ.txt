@@ -1,0 +1,3 @@
+For problem 1 Computing Word Co-Occurrence, we implemented a program that counts the words-pairs in shakespeare that occur right next to each other. 
+For problem 2 Collaborative Filtering-Similarity Measures, we computed the equations and understood the function of Jaccard similarity.
+For problem 3 Collaborative Filtering in MAPREDUCE, we figured out the dual approach is a approach to compute item-item instead of user-user similarities and use those to fill in the missing values in the utility matrix.

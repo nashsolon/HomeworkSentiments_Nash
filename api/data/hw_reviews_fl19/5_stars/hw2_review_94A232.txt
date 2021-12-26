@@ -1,0 +1,4 @@
+the problems are designed pretty well, especially problem 1.
+the question about replication factor make me thinking advantage/disadventage of HDFS. 
+my suggestions will be about the lecture, rather than the problems. everytime when it comes to details such as block size and replication factor, i have a feeling of familiarity but not quite get the point. i read the textbook but still have such feeling. i guess only giving examples in lecture is not good enough to tell advantages and disadvantages.
+maybe the professor can emphasis some major defferences between hadoop and other products when introducing those technical details. then the advantages and disadvantages of hadoop will be very clear.

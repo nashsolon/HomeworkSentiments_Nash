@@ -1,0 +1,1 @@
+The most important thing that I learned was about how the MapReduce paradigm works. This also helped me reinforce the concepts that we went over in class. I didn't like that the HTDG book location was given in page numbers, while the electronic edition provided by the  library doesn't have pages in it.

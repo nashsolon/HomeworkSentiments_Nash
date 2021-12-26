@@ -1,0 +1,2 @@
+I've learned a lot from this homework. The 2nd and 3rd problem are not difficult, but it can help me to understand the MapReduce.
+The 1st problem is a little bit difficult because of too much details. These details give me a deep understanding of HDFS, and force me to read text books twice.

@@ -1,0 +1,1 @@
+This was my favorite homework so far. I liked the fact that this homework was almost entirely coding. I also think that it was nice that we were given starter code for the top N mapper and reducers. This allowed me to learn the details of it without worrying too much about implementation specifics.

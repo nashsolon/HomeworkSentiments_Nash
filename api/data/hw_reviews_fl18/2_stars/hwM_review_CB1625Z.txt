@@ -1,0 +1,1 @@
+I like the idea of this homework but having the algorithm run for 200 iterations is really stupid I don't learn anything waiting over an hour for a program to finish and end up losing points anyway because terminal stops responding. Please change that for the future you dont need the results to see if a student did it right just look at the code

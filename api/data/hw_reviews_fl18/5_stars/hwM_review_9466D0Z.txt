@@ -1,0 +1,4 @@
+For these three problems, I like all these questions. 
+For Problem 1, the question asks us to apply what we have learnt in lab about using pyspark to count the number by requirement. Question 1 is not difficult.
+For problem 2, the question asks us to apply what we have learnt in lecture and lab about pyspark and RDD to do more sophistacted requirment. THis one is more difficult than problem 1.
+For problem 3, the question asks us to knowledge that we have learnt in lecture about running a spark job locally. THis one is useful, since we need to understand the process. 

@@ -1,0 +1,3 @@
+for hw9, what I liked was that that we were able to get a lot more practical experience with spark, which is important for the final project (doing project 3). There isn't anything i particularly disliked about the assignment.
+
+If I had to do this assignment again, I think I'd brush up more (and I think I will do this now) on how to complete everything in a py script as opposed to using pyspark, since it seems more practical.

@@ -1,0 +1,1 @@
+I thought that this homework was fairly easy. It required a lot of reading, but that's never a bad thing. In fact, I've been meaning to do more reading lately, anyway. Overall, I would say that I gained a better understanding of MapReduce and HDFS from this assignment, and I'm glad that I was able to spend some good old quality time with Daniel Pollak.

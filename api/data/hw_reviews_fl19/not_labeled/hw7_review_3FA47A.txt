@@ -1,0 +1,1 @@
+This week's homework is generally easy but very beneficial for me to review and also review the conbiner part, by working on problem 2 with Yarn, I think deeper about combiner and data transfering between map reduce and also input output. If I could do this again, I would like to expand it more with more practical data, like what we do in problem 1.

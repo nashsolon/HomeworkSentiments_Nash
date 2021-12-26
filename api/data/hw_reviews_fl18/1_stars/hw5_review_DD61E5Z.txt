@@ -1,0 +1,14 @@
+The first question was extrememly easy and did not teach students anything new. It was only 
+busy work. The questions ask to provide your own comments but its really pointless because the 
+files already have adequate comments in there. Some new comments could be written but students 
+shouldn't be penalized for keeping some of the default comments if they make sense or describe
+the methods correctly.
+
+Question 1 also had a type and told students to look at the wrong files for submission. This was
+very confusing and should be fixed. Question 2 also had some quirks. We never talked in class 
+what key distributions were and TAs never logged into Piazza to answer this question. 
+
+Question 3 was poorly written and the files needed to run this correctly were not specified well 
+in the assignment. 
+
+Because of the issues in this homework, I would rate it a 1 out of 5 stars.

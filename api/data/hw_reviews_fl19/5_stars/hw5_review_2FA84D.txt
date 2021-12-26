@@ -1,0 +1,3 @@
+I really liked to implement the mapreduce logic for this assignment and see the output in HDFS. But the math part was a bit challenging since I was not sure about my answer.
+I think the most important thing I learned here is that using appropriate similarity strategy is crucial when developing a recommendation system. 
+If I could start this assignment from the beginning again, I would read the textbook more carefully before doing problem 2 and 3. 

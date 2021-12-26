@@ -1,0 +1,3 @@
+This assignment is a good review of what we learnt last week, such as the process of running a MapReduce Job, and the resource management and job scheduling architecture YARN. The ideas of running tasks in parallel and decouples modular in a big architecture are inspiring.
+
+However, I this assignment contains questions like describe a Notion. It is a good review of what we learnt, but the descriptions are in the books or websites. I don’t see the point of describe them again in the assignment. Instead, it would be better if you provided certain situation and ask us how to solve the problem with those notions.

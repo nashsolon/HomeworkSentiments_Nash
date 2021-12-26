@@ -1,0 +1,4 @@
+Homework 4 is fun! We explored the overall sentiment of Shakespeare’s poem and this is what I have not done before.
+I think the instructor should spend more time on explaining how the Hadoop framework works (e.g. how the command line is parsed by ToolRunner and GenericOptionsParser, and where it is stored after parsing & how it is passed to Mapper / Reducer / Partitioner).
+
+

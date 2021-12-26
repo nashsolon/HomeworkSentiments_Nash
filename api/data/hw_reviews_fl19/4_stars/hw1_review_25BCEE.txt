@@ -1,0 +1,4 @@
+What I liked about the assignment is that it reinforced the slides and encouraged myself to review the material from class. 
+The one thing I disliked a little was that I felt that the article that we were supposed to cover for problem 3 didn't answer the homework questions clearly and had to require outside sources which might have been the intention.
+Assuming I could start over again, I would first refer to the source on question 2 before trying to attempt it. I wasted an hour or two trying to solve the probability myself without having seen the example done in the book. 
+I was trying to derive it myself intsead of simply generalizing the example problem. The most important thing I learned was that a simple model with more data is more important than a complex model with less data. 

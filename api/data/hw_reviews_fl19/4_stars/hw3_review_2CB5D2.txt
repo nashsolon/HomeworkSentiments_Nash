@@ -1,0 +1,3 @@
+This homework is very helpful to understand the course better.
+I learn how the YARN works from this homework and the procedure of the MapReduce jobs.
+From problem2 I know the skew may occur in the MapReduce program, so we need to pay attention and avoid this problem in the future.

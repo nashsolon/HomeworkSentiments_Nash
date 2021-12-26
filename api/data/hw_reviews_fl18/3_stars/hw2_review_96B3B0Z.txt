@@ -1,0 +1,1 @@
+I thought that this homework was relatively straight forward. The questions that had us manually figure out a mapreduce on a small set of data really helped to iron out my knowledge of how map reduce worked. In addition drawing out the diagram of an HDFS helped to retain my knowledge from professors lectures.

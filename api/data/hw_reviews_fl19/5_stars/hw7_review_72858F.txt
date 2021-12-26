@@ -1,0 +1,4 @@
+1. I like the assignment very much. This assignment tells me how to solve the top-N list and word co-occurrence problem.
+2. The most important thing I have learned is to include all Mapper, Reducer, Combiner java files in Driver.
+3. I surprised to find that I am more familiar with the Linux and JAVA code.
+4. I will take more time to do this assignment. It is interesting.

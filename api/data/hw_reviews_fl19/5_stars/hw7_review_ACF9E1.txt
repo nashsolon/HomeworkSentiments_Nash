@@ -1,0 +1,2 @@
+1.I like this assignment because it is the first time that we have the chance to start a map reduce project from scratch all by ourselfs without any given templates from the instructor.And it is really challenging but meanwhile useful because we can greatly practice our programming skills during this process.
+2.I think the most important thing I learned is that we can view the counter data in yarn which could be more intuitive to see how any change in the map reduce job influence the result and efficiency.

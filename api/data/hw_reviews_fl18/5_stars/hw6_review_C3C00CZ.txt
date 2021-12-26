@@ -1,0 +1,1 @@
+I really enjoyed this assignment. I liked how we got to implement our own mapreduce program from scratch, without any real constrants on how we implemented it. This made it a lot of fun to figure out how to do everything on my own. A few parts were tough, and I need a little bit of extra help from a TA, but overall I think it was really good!

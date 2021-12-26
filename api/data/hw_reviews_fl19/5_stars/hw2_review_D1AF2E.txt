@@ -1,0 +1,2 @@
+This homework was very simple, yet covered a lot of concepts that we were exposed to in lecture. I really liked how we could do on-hands exercises with MapReduce.
+

@@ -1,0 +1,1 @@
+In this homework, I reviewed communication cost and memory buffer of pairs and stripes methods to calculate co-occurrrences. Pairs usually has more communication cost but less buffer in reduce function to store. So there's a time-memory trade-off. In general, this homework takes too much time to debug and submit to the cloud, and the concepts are not so clear.

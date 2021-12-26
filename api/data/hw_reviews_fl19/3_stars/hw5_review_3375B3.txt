@@ -1,0 +1,9 @@
+Kenneth McNelly
+457250
+
+While problem 2 and 3 were well formatted and helpful practice, I disliked the wording of the design questions of problem 1. Jumping from the book to lab and lecture slides,
+ I felt I had little direction on knowing what was the correct answer for what the input format was. As a result of being unsure about the input format , I was stalled on working on my code for a very long time. I wish there was more overlap between the lab and the homework code, which would allow us to have a foundation to build our work off of and slides to reference. I did like, however, part b of problem 1, in which we are guided to what we expect the output to be and can think in the reverse direction.
+
+I was definitely surprised and kind of caught off guard by the InputFormat question. Although we have been gaining practice with the key value input format, I felt the question was asking for a really specific answer I had no certainty about.
+
+If I were to do this homework over again, I would have not read so in-depth into the different input formats that the book and the web present. When I sought clarity, it only provided more confusion and second guessing

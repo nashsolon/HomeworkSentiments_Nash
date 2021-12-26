@@ -1,0 +1,1 @@
+For HW3, I like problem 1 and 2 best since these two problems force me to do more reading of the slides. This is really helpful to understand the MapReduce in Hadoop. The most important thing I learned in this assignment is the running of a MapReduce job. One thing really surprised me is the skew in runtime and the methods to reduce it. 

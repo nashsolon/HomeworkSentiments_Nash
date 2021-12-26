@@ -1,0 +1,1 @@
+I like this homework because its moderate work load. From this homework, I have learned the complete process of the Collaborate Filtering, including the input and output of each job, which will be absolutely helpful for the further project. On the other hand, I have learned to create a class "StringPairWritable", which is helpful for not only this course. 

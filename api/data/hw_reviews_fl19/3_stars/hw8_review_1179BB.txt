@@ -1,0 +1,1 @@
+Generally, I think this homework is too much. Problem 1 and problem 2 is okay. However, I do not think we have learned HIVE TEXT PROCESSING in class. And we can not find HIVE TEXT PROCESSING REFERENCE in the PPT. Moreover, Problem 3 is extremely confusing. We can not find product name and the brand in the comment. We learn the Hive and Spark in this homework.

@@ -1,0 +1,5 @@
+1. What did you like/dislike about this assignment and why?
+   I like the problem one best because this problem helps me clarify my thinking about how HDFS works by these questions. Before doing this homework, I was not very clear of this part. But after finishing it, I belive I have a better understanding.
+
+2. Assuming you could start over again (with working on the assignment), what would you do differently and why?
+   I would copy the picture the professor drawed on class. That picture clearly showed how HDFS works. I should have copied it. 

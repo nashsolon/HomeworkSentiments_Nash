@@ -1,0 +1,1 @@
+I like this assignment as it helps me understand mapReduce better. I have never wrote a program with multiple mapreduce jobs before, so it is a good practice. I am surprised that the program was able to run so quickly with the amount of data we gave it. I didn't get to finish problem 2 because I had too much on my plate at the time, but it was overall a fun assignment!

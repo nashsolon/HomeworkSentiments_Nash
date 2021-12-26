@@ -1,0 +1,1 @@
+hwM was a good assignment to work on with a partner. I had many issues with the hadoop functionality, but once those were overcome I believe this assignment did a good job of contributing to my understanding of cloud computing. I want to work on more problem sets in the future with TAs who can help more since this was a newer assignment

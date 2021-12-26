@@ -1,0 +1,5 @@
+Basically, I think the questions are good to understand the mechanism of Hadoop. However, I'm not sure how deep we should go just based on the questions themselves. I like the questions saying "provide something".
+
+In addition, I think it would be very nice if the problem 2 provides information about English vocabulary frequency distribution.
+
+The most important thing I learned is that I totally misunderstand what YARN is. I just took it as MapReduce 2. And I found there's a JobHistory process.

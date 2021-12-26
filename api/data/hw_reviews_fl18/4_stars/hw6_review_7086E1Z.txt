@@ -1,0 +1,1 @@
+In the sixth homework we learned to implement two MapReduce jobs by our own. One is similar to word count job and the other one is Top-N-List job. Through implementation, I completely understand the whole process of writing a MapReduce job. Also, we learned about how to implement combiner and the problem in homework inspires me to think about problem in implementing it.

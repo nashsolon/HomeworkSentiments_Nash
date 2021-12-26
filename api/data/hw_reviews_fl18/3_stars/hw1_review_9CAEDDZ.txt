@@ -1,0 +1,1 @@
+My main issue with homework one was that it was too qualitative. I enjoyed problem 2, which involved calculations and more math, but problems 1 and 3 both were not very analytical. I also would have liked if there was coding involved, such as getting started with some basic Hadoop commands.

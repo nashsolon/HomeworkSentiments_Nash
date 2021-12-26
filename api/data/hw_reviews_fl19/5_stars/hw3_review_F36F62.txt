@@ -1,0 +1,2 @@
+I learned that textbook is the most reliable resource. When I googled about where the data are stored. I get all kinds of answers. Those answers are not technically wrong, but they are confusing. On the other hand, the textbook gives the precise answer and reasoning.
+I surprised by the wc command in Linux. I used with wc command before. But I don’t know that -l can count the lines of the file. I would check the manual of commands I used a lot. Just to see what I don’t know about those frequently used commands.

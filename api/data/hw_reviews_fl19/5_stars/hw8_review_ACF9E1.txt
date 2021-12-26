@@ -1,0 +1,2 @@
+1.I like this assginment because I think it's really helpful for practicing the queries and using sparks.It told us how to set up from scratch and how to execute the job in specific scenarios.
+2.I think the thing that surprised me a lot is when we need to run a subquery in hive we need to assign this a name.Which is quite different from what I've known before(Such as the sql queries).

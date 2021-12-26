@@ -1,0 +1,4 @@
+I like the pyspark part, it is very interesting and feels different from those toydata which is good.
+I think the most important thing i learned is i can do text mining with hive which is really cool.
+nothing really suprised me.
+if given more time i would spend more time on understanding pyspark. how it works differently from hadoop java mapreduce. I would like to do all the hw programming problem again with pyspark if time allows.

@@ -1,0 +1,1 @@
+HW8 was very helpful. While I found it more difficult and time-consuming that previous homework, it really got me thinking about what is occurring at each line of code. I found the Spark section much harder than Pig, even during lab, so it was very helpful to try my hand at it again during the homework. 

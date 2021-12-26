@@ -1,0 +1,7 @@
+In general, I am a little bit disappointed with this homework five for the reasons that:
+1. There are many conflicts between the content from textbook and that from lecturer, especially the Jaccard Similarity Method. In my opinion, the value of homework is to test whether or not we are familiar with the similarity calculation. In this case, the meaning of question should be clearly clarified.
+2. There are some content that might be overlapped. 
+
+If given another chance to start over again, I will definitely review the outline of the class related to this homework according to the calendar shown on the website. Then, I will open the class note and the textbook, Mining of Massive Datasets simultaneously, in order to carefully discover the difference between the method to calculate similarity. 
+
+In all, this big data application class is really useful for I'm a data engineer who once aimed at recommendation system especially item-based collaborative filtering. When the course covers something I'm familiar with, I can dive deeper into the topic.

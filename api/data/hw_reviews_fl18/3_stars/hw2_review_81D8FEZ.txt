@@ -1,0 +1,7 @@
+Review for the 2nd Homework:
+
+The first question asked us to finish the lab1 to prepare the data, and after that I can master the command line better than before. And then it asked us to read the textbook online to find the answer, it really encouraged me to read the whole book from the beginning and understand the MapReduce Problem more clearly. 
+
+The second and third problems give us the examples for the better understanding of the process~ They are really helpful. 
+
+

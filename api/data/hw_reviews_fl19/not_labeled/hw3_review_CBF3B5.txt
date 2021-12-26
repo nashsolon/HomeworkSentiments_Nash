@@ -1,0 +1,1 @@
+This homework helped me understand more in depth the technical details of HDFS and Yarn. Although it was a little tedious at times, I found it beneficial to my overall understanding to write out in depth the specifics of each daemon.

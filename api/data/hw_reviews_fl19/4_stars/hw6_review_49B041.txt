@@ -1,0 +1,1 @@
+In this homework, I really like the code part. It’s actually not so hard. But when you try to write it, you need to take of all the details. When I wrote this code, I made mistake in the CompareTo() part. I made a right compare, but I get a wrong return. So I always failed in the final result. Finally, I fixed the bug. I like this part

@@ -1,0 +1,6 @@
+I did not like this homework. I thought the directions were very unclear. Part (a) for Problem 1 was confusing because 
+it seemed like the mapper and reducer input/output could be found within the job. The question should have told us to 
+determine the input/output by hand explicitly. Part b and c is confusing because I didn't know what I was comparing the job 
+execution to. Was a comparing it to the job in the previous part or was I comparing the job before the implementation of the current part?
+Question 2 part d was a similar repeat of another problem on a previous homework that hadn't been graded by the time this one was due. Overall
+I would rate this homework a 1 star out of 5 because it was by far the worst homework this far. 

@@ -1,0 +1,4 @@
+Reflection on my hw1 experience
+Jing Zhang 475536
+--------------------------------------------------------
+I do not like this assignment very much because of Problem 3. To be admitted, this is a great article that conveys useful information and opinions. However, I find the questions to be a little bit ambiguous and struggle to understand its meanings. In general, I learned a lot through this assignment. The most important thing I learned are the merits and limits of the deep approach and the statistical approach in natural language processing. It helps me figure out why most research use the statistical methods, and why linguistics helps little on natural language processing now.

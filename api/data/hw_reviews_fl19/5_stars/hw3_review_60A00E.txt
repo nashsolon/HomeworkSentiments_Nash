@@ -1,0 +1,18 @@
+Reflection (Bonus Problem for 5% up to a max. of 100%)
+Reflect on your homework experience!  Write a paragraph of at least 50 words to express your experiences and feelings when working on this assignment.  
+Answer at least 2 of the following questions:
+•  What did you like/dislike about the assignment and why?
+I like it so much, more than any of previous two. The reasons are as follows:
+1. I develop my own studying style in solving the questions: 
+- take a glance at the question and  understand it
+- try to look back on the related topic in class and have a brief overview on how to solve the problems 
+- read HDTG and MMDS thoroughly according to the calendar guidance
+- form answers by own words
+
+•  What is the most important thing you learned and why do you think so?
+I think this homework is really helpful when it comes to solve about one confusing question in terms of Hadoop. That is the relationship between HDFS, YARN, MapReduce, Spark and Hive. After reading HDTG, I got the answer: from bottom to top, the layer comes in order: distributed file system (HDFS,HBase), compute (YARN), execute (MapReduce, Spark). Hive is a tool running SQL on top of Hadoop.  
+
+•  What surprised you, and why?
+-
+•  Assuming you could start over again (with working on the assignment), what would you do differently and why?Do not include/copy and past the questions into your reflection!
+- 

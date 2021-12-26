@@ -1,0 +1,2 @@
+To be honest, the HW1 is a bit more interesting than I expected. Especailly for the 2nd question. It uses a vivic metaphor to states that a method that we believe is useful and are used to mine data could actually return more false positives. 
+I would say this HW is positivly good. Because it reveals the charicteristics of the big data, and helps me to undersatand the materials deeper. 

@@ -1,0 +1,1 @@
+I think this assignment is not so difficult and a little bit interesting. Question 1 is simple, and it helps me remind the knowledge mentioned in the class. Question 2 is about how random data, regarded as noise, could affect the data mining, and the calculation is easy too. I need to read a paper in question 3, which spend me a lot of time, but it really makes sense.

@@ -1,0 +1,1 @@
+This homework was very challenging in that we had to thoroughly practice using Pig and Spark at the same time to analyze data. However, it provided me new insights on efficiently processing data using Pig and Spark. In the future, I hope that the two languages to be offered as separate homework assignments, to spend more time on each language.

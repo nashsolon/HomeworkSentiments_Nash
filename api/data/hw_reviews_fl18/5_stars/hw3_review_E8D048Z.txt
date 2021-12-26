@@ -1,0 +1,1 @@
+I'm rather satisfy with this time homework. Each problems are highly related to the content we discussed in class and what we did in lab. ALthough the second problem confused me long time to understand the relationship between reduce tasks, reduce function, map tasks and combiner. But I figured it out under the help of TA. It took us around 3 hours to complete this hw.

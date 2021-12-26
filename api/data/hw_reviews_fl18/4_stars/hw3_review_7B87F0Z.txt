@@ -1,0 +1,1 @@
+I liked this homework assignment a lot more than previous assignments. I feel I learned more about the MapReduce framework from all the reading required for this assignment. It's possible that it's only because everything is finally sinking in, but that's beside the point.

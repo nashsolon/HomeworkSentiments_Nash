@@ -1,0 +1,2 @@
+In this homework, the most important things I learned is the skew of the reduce() function. it help me to understand how the reduce and map processes work and why it has a skew in run time.
+I don't like the first question 1. This question ask us to find the words frequency. While this question is simple, I don't think this question can really help us understand how mapreduce work and it upper case and lower case can be ignored easily. 

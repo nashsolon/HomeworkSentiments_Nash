@@ -1,0 +1,7 @@
+I liked this assignment because it gave extra examples of mapreduce, which is a concept that I needed to solidify my understanding of. I also liked the first question, because while I thought I had a working understanding of HDFS, I actually didn't understand it as well as I thought. I had to use the readings to make sure I really understood about HDFS.
+
+The most important thing I learned was how to think about why things in HDFS are sized the way they are. For example, while the reflection factor might have seemed arbitrary to me at first, it now makes sense why the replication factor has to be sufficiently large, but also must not be too large (too much data used).
+
+Assuming I could start the assignment over again, I think I would go back to the drawings we did before lab1 going over what the HDFS looks like. I think that would have made it easier to visualize what the HDFS that I draw should look like.
+
+Star Rating: 5/5

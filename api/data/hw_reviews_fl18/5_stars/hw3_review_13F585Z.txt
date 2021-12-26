@@ -1,0 +1,3 @@
+I really enjoyed problems 1, 2 and 3 on this homework. Problem 1 had some huge advantages such as teaching me how to use terminal commands to see file line counts. It also made me more comfortable with how Map Reduce works, such as RecordReader and the part-r-00000+ files. Problem 2 helped clarify questions about skew in hadoop for me. Problem 3 taught me a lot about the YARN scheduler. 
+
+5/5 stars

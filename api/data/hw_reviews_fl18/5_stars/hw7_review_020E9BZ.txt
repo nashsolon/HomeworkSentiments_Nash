@@ -1,0 +1,1 @@
+I gave hw7 a 4. First I think the points I gave is actually inflated. Second, as always, there are short answer questions, albeit they are not very hard. But I really don’t like questions asking for mapper input and output and reducer input and output because there is really no way to verify my answers.

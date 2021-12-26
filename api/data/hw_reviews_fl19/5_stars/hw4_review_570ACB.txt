@@ -1,0 +1,2 @@
+I like this assignment a lot because I get to do a lot of hands-on testing with hadoop partitioner. I feel like I am getting increasingly fluent in command line language and hadoop commands. I learned a lot about how partitioners work, which I was not so familiar with before. I wished Problem 2 could have more instructions, like how to use the SentimentPartitionTest file. I spent a long time trying to figure out how to run it with no end, but overall it's a good assignment.
+

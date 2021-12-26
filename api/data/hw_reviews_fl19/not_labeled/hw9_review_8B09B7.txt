@@ -1,0 +1,2 @@
+What I like about this homework is the instructions are very clear, especially in Problem 2. Since we have to do many works of implementation of Spark, the instruction clearly told us what kind of result are expected, which gave me a huge confidence that I was on the right track.
+If I started doing the homework again, I would go through all the related slides first. Since we have to first understand the operations and execution of Spark so that we can have a better understanding of what the problems are asking and what knowledge we need to use to answer the questions.

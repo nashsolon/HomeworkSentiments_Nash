@@ -1,0 +1,1 @@
+The most important thing I learned is how to use ToolRunner to enable passing job configuration parameters in command line and how to retrieve the parameters. This made me appreciate the flexibility that ToolRunner provides. I am also surprised to learn how distributed cache is used and how it can expand the types of tasks we can do with MapReduce.

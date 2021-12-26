@@ -1,0 +1,1 @@
+In this assignment, we gained a deeper understanding about SPARK. No only using the Spark Shell but also writing Spark program, we implement different task format of Spark. Also, we run the job locally, using client mode and cluster mode respectively to compare their differences like where to store the result, where would it execute the program etc.

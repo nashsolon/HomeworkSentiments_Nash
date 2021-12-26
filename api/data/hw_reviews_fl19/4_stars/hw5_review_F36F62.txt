@@ -1,0 +1,2 @@
+I ignored the first written question about what input format should I use. I ended up spending an hour on this problem. I should’ve think through the questions completely before I start coding. 
+I think this home work should give more test cases to test the MR job. Like the previous home work.

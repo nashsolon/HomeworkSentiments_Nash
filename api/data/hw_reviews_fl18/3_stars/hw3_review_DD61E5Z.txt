@@ -1,0 +1,6 @@
+I thought this assignment was a little more confusing than the second homework.
+Every question in this homework had sections that were either never talked 
+about in class or rarely talked about. This made it difficult to use the 
+class's resources to complete the homework and instead I looked online to find
+other resources that could answer these questions. I thought the homework helped
+me understand MapReduce, YARN and Skew which is why I gave it 3 stars.

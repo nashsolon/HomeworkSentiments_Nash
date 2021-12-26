@@ -1,0 +1,4 @@
+I really liked to code the logic for average length mapreduce program since it was pretty straightforward and I learned how mapreduce is working. 
+Sentiment partitioner was also fun too. Reason why I liked those is because hw4 was the first coding assignment we have. I prefer coding to learning theory.
+I think correctly setting up the mapper function is really important in mapreduce program since I have met some edge cases when using scanner instead of 
+bufferedreader when reading string. 

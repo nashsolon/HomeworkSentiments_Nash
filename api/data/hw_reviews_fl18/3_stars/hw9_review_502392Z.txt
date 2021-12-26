@@ -1,0 +1,1 @@
+This homework was challenging in content but not length. I sometimes felt lost or unable to debug my spark code. I had multiple memory issues with my virtual machine that made it hard for me to complete the homework quickly or to generate output for all parts. Piazza posts on the issue went un answered :( 

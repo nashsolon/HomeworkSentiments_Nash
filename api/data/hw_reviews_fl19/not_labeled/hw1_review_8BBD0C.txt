@@ -1,0 +1,3 @@
+One of the things I liked about this assignment was the first problem where i was able to get a good grasp of the characteristics truly needed for big data applications.
+I thought that the article however was quite dense and not as useful in the long run in helping me learn about big data. 
+The second problem also felt slightly out of place with the other two problems.

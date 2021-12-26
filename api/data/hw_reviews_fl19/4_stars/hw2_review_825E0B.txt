@@ -1,0 +1,3 @@
+I really like the question 1.b. this question ask us to sketch the cluster state and and provide the meta-data stored on the master node for this example file. Sketching can help me to have a better understand the cluster state.
+
+the most important thing I learned is the structure of the HDFS. According to the question 1.b, it is not only help me understand of the cluster store state but also let me know how the HDFS work.

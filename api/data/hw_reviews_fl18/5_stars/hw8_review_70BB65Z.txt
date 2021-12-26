@@ -1,0 +1,11 @@
+This homework is killing me. Why am I saying that? Because things starting from
+this week is totally different from before. We used to using java to make
+map-reduce jobs, and I am getting used to it. But now, we are switching to
+something that is more high-leveled. It is good, but we need to study another
+type of language. It costs me 5 hours to get lab7 right. But that is totally
+not enough for doing this homework. The logic of the mission the homework requ
+ires us to do, is simple. But, I just cannot get the script right! It really
+lacks helping documents. I stuck on the same stupid problem for like, 5 hours.
+This is really true, not kidding. Finally, I use a very stupid way, to get
+things working. This is really bad. Next homework is already out, should be
+something about spark. Ah. I'm not feeling good.

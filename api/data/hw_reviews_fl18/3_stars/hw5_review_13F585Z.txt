@@ -1,0 +1,2 @@
+Homework 5 was a struggle for multiple reasons. First of all, I did not allocate enough time to finish the assignment (spent about ~5 hours working on this). I got Problems #1 and #2 working, but did not complete problem #3. I am pretty sure I conceptually understand that part, but did not create working code for that part.
+Rating: 3/5

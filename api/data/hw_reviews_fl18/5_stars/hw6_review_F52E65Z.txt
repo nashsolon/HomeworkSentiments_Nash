@@ -1,0 +1,1 @@
+Homework 6 is prrety good, I leanrd how to create a job in the hadoop and I learned how to output the top-N-list of a data file, I think the problme 1 is very good, and problem 2 helps me to understand how to use the YARN to spy on the jobs in the hadoop, both problems are very good.

@@ -1,0 +1,1 @@
+The fifth homework is about secondary sort and inverted index. Because the Professor went traveling, actually all these knowledge was acquired by myself and I found some of them not very clear. The third problem about inverted index is not even included in the slide. So in this homework I had some trouble and did a lot of searching.

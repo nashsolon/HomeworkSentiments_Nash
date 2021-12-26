@@ -1,0 +1,5 @@
+For these five problems, I like all these questions. 
+For Problem 1, the question asks us to apply what we have learnt in lab about using java to do the mapreduce about co-occurrence. Question 1 is not difficult, since we have already learn the persocode. 
+For problem 2, the question asks us to apply what we have learnt in lecture about similarity. In this case, we need to understand about the similarity, not only remember how to calculate the similarity.
+For problem 3, the question asks us to think about another approach about collaborative filtering, which is item-item-co-occurrence. This is the application based on what we have learnt in class, which is user-user-co-occurrence. I think this problem is quite useful.
+

@@ -1,0 +1,3 @@
+This homework is very helpful for us to understand and remember the context that we learned in the last lecture. However, I really spent lots of time on compiling and setting file path on the coding part. Firstly, I mistakenly put the txt files into the stubs folder instead of the partition one so that I could not run the unit tests correctly.
+Through this homework, I got more familiar to use combiner and partitioner in mapreduce jobs, which can organize the result of mapper to save memory and call several reducers. Meanwhile, this homework stengthened my understanding on distributed cache, side data and toolrunner.
+

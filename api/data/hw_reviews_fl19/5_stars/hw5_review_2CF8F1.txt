@@ -1,0 +1,1 @@
+This was my favorite homework so far. The coding was fun because I finally feel comfortable with hadoop/MR. It was nice to not have to necesserily do something super hard and instead just improve my skill at designing jobs. I think the similarity/dissimilarity problems were very important because they help form intution behind the reccomendation systems we learned/read about.

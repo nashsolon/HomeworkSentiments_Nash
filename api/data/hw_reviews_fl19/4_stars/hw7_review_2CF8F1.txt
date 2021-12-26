@@ -1,0 +1,1 @@
+This was my favorite homework so far. I think the most important part of the homework was forcing us to develop a program (top N list) on our own. Even though we were given sample code we had to fix it all together. I feel a lot more confident in my MR and Hadoop ability now. I also though writing word co-occurrence and analyzing its effeciency was enjoyable.

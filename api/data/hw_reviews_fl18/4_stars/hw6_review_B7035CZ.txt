@@ -1,0 +1,1 @@
+In this homework I learnt a lot by writing my own code. I tested my jobs locally and it really saved a lot of time. I also learnt distributed cache on Hadoop that stores some specified files on each datanode that my job runs on. I debugged a lot and got further understanding of how mapreduce works.

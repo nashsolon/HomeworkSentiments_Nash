@@ -1,0 +1,5 @@
+I like the second problem which require me to do a lot of reading before i can answer the question. it seems a short question but really takes effort. good design.
+i learned about the very detailed version of how yarn work in hadoop
+the improvement suggestiong in problem 1 actually surprised me. i haven't thought about sentiment analysis thoroughly.
+
+i would study more about sentiment analysis.

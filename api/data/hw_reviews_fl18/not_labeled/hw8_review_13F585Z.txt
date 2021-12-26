@@ -1,0 +1,2 @@
+Homework 8 was a really cool assignment. For questions #1 adn #2, we had no problem writing the pig code to get the necessary information. Question #3 took us longer but once we understood the syntax it was a breeze. Question #4 was really fun because we got to use spark, which seems very powerful. Question #5 was conceptual, so it was much simpler than the previous four.
+Rating: 4/5

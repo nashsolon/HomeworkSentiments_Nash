@@ -1,0 +1,2 @@
+Being honest, this homework is a little bit diffcuilt for me. But it's also a good opportunity to learn how it works by coding. After this homework, I think I have to study java coding more.
+The problem 2 introduced the sentiment analysis which is so interesing. Since I never touch this kind of analysis method before. It's good to know that we can analysis things like this.

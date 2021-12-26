@@ -1,0 +1,2 @@
+The thing I found most useful about this homework was the opportunity to explore Spark more fully, and to run various operations using it, to see how it worked.
+The thing I liked least about this homework was that some of the problems felt underspecified, so that even if I found a solution that worked, I wasn't sure if it was the correct thing to be doing.

@@ -1,0 +1,1 @@
+For HW8, I like it very much! The main reason is we do not need to do and boring work in JAVA! I found the MAPREDUCE work can be so delightful when you use HIVE os SPARK. The most important thing that I learn is HIVE and SPARK basic concepts and how does pipeline work. These concepts are important because we need to understand how do they work, not only use them. 

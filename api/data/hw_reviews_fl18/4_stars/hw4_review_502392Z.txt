@@ -1,0 +1,1 @@
+while there were setup challenges for this homework, it prepares students to start writing and testing their own map reduce jobs based off required functionality. One instruction was ambiguous when it asked for the "command for this the hw4.pdf file." Students will be confused by this instruction. I feel more confident after completing this homework. 

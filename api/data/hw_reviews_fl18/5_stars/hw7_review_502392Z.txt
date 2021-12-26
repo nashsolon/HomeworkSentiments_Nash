@@ -1,0 +1,1 @@
+Implementing the pairs map reduce job wasn't overly difficult after doing it on paper in class. the major concern that i did not run into in the paper example but that i did run into in the java implementation is how bigrams are formed between two lines if at all. I didnt know a good way to address this in my code but maybe map reduce does it for me

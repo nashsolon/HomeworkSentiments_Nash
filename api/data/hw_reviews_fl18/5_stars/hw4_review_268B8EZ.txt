@@ -1,0 +1,1 @@
+In this homework, I practiced skill to code in hadoop. After I finished this homework, I am more familiar with the skill to debug in Eclipse and how to code. It's very helpful. I also learned how to use toolrunners and how to configure. It's also pretty interesting.

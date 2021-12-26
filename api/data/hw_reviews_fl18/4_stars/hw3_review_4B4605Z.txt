@@ -1,0 +1,1 @@
+This homework was interesting - it really helped me understand more about how Map Reduce works, especially in terms of distribution of work across worker nodes in a cluster. I also understood better how parallelism helps and why we don't want maximum parallelism, or new tasks for each key, given the concept of skew. I gave it 4 stars.

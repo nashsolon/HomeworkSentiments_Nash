@@ -1,0 +1,3 @@
+In this homework, I liked that we were able to brush up on spark and hive. I think the labs were good introductions but this hw was best for getting familiar with these two. There isn't anything I didn't like about this homework specifically, but I do wish the problems were a bit more "in depth."
+
+If I could redo this homework, I think before I started I would have read more about the hive and spark APIs. A lot of my time was spent looking up syntax so I think that would have helped

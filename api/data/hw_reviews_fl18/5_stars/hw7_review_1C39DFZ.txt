@@ -1,0 +1,1 @@
+HW7 is not as good as the homework before, because the coding part is not what we learned in class, i.e. I expected to find the similar users and predict the ratings for each user, although the problem 2 is related with the topic, but we don't need to actually operate anything. I hope the homework could still be stick with the content in class.

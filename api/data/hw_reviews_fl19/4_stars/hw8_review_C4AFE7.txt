@@ -1,0 +1,3 @@
+I liked this homework, it helped us to focus on hive and spark commands in depth. However, my partner and I felt that instructions on several homeworks were little ambiguous and needed clarification. At some point we needed to imagine ourselves to figure this answer out. Other than that homework 8 was very good.
+
+I was surprised how hive is used in hadoop. I have learn MySQL through cse 330 and my knowledge on utilizing database stopped there. But with this homework I was able to open up my vision on database usage. Also spark with python and scala.

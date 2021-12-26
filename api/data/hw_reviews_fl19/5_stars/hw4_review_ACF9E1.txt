@@ -1,0 +1,4 @@
+1.I like this assignment because it strengthen our understanding for map reduce job. We learn about the partitioner and distributed cache which are quite useful.
+2.I think the most important thing is using Toolrunner.We can pass parameters from command line which add flexibility to our program.
+3.I was surprised by we can add paths in our command line to read local file and use it in the program.Because we don't need the add the path of file inside the codes.We only need to use filename in the code.
+4.I think I should try to write the program all by myself(by fully comprehending and memorizing the process and do not refer to previous code in other labs.)

@@ -1,0 +1,2 @@
+In general, I like this homework. Firstly, this homework has proper number of problems. Secondly, this homework is a good review for what we learned in class. 
+The most important thing I learned is the MapReduce procedure. Both Problem 2 and problem 3 are about MapReduce, including Mapper inputs, Mapper outputs, Reducer inputs, Reducer outputs.

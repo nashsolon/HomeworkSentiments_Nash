@@ -1,0 +1,3 @@
+From problem 1, I got the basic knowledge of HOFS.
+From problem 2, I figured out the values of Mapper inputs, Mapper outputs, Reducer inputs, and Reducer outputs.
+From problem 3, I understood the procedure of MapReduce and can do some simple design of the program.

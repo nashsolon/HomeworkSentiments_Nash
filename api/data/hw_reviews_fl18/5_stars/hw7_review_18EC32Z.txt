@@ -1,0 +1,1 @@
+I thought that this homework was a fun and interesting homework. I feel like I understand the cosine similarity algorithms (and their variants) well after computing the Mapper and Reducer inputs and outputs for the third question. The second question also reinforced the advantages and disadvantages between each of the similarity measures.

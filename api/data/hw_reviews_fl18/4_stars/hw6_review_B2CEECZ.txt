@@ -1,0 +1,2 @@
+For problem 1: Top-10-List of Most Popular Movies, in this problem we analyzed movie rating data and computed a list of the most popular movies.
+For problem 2: Combiner, in this problem we added a Combiner to the first job of our Top-N-List MAPREDUCE program and examined its effect on the job execution.

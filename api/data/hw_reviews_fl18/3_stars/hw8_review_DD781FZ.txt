@@ -1,0 +1,1 @@
+hw8 has more problems then previous and it requires more time. Problem 5 is the easiest. Problem 1 requires lab 7 exercise. On my own opinion, problem 1, 3 and 4 are harder than 2. They also require some knowledge on Pig / Spark that other than we learned in lecture class. 

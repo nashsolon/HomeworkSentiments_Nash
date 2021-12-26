@@ -1,0 +1,3 @@
+I think the purpose of problem 1 is good, but the question is a bit vague to answer. I'm also confused what kind of details I need to know to answer the questions. For example, I read the document of HDFS a lot to know if it has special policies to allocate blocks.
+
+If I can start over, I want to go to TA hours, asking the standard and format for problem 1. It took me so much time to figure out uncertain meaning of questions.

@@ -1,0 +1,4 @@
+I liked that this homework helped me go over some of the topics we went over in class that I did not fully understand and presented some tricky implementation detail that are easy to skip over. But I also found it difficult to understand what some quesitions in problem 1 was asking for.
+
+
+If I were to start over this assignment again I would first try to understand exactly what needs to be added to the driver to do something. I think I spent way too much time on figuring that out.

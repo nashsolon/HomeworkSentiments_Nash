@@ -1,0 +1,1 @@
+In homework nine, we began to deal with "real" big data. The volume is so big that it crashed my respberry pi (I ran a Hadoop pseudo cluster on it). However, it is fun to see myself to be able to manipulate such huge amount of data. Feel good! Hopefully my score will not suffer much since I could not get the final result (I believe my code is correct tho).

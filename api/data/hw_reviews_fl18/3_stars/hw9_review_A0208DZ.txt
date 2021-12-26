@@ -1,0 +1,1 @@
+this homework is very helpful to me. By doing this homework, i got a chance to practice spark, knowing how to transform data using spark, join datasets using spark and write a spark program. Also, i learnt how to represent pagerank data after doing the last problem. I have learnt more about spark through this homework

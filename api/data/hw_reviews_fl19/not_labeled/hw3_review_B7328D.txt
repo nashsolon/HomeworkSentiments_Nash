@@ -1,0 +1,1 @@
+I like this assignment, it gives me a general idea of the whole map reduce system. The most important thing I learned is the process of the execution. The assignment ask me to write down the whole process of a map reduce task, that makes me have a deeper under standing of the map reduce task.

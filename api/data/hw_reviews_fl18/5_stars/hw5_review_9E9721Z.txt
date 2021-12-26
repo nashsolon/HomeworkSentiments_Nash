@@ -1,0 +1,4 @@
+This time the homework is much more than before. We must spend more time to deal with them. But it is good to have the experience of solving it.
+The 1st problem is easy to solve, we just need to change the code from WordCount a little to do it.
+The 2nd and 3rd problems is a little bit difficult but finally we finish it. 
+We learn a lot from this homework  

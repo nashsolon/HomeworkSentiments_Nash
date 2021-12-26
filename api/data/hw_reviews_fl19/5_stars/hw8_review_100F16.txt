@@ -1,0 +1,1 @@
+The most important thing I learned is that Hive is much more powerful than regular RDBMS like MySQL because it takes advantage of MapReduce and is able to perform text processing right from the query. I also like how this assignment helped me become more familiar with many different Spark operations and how they can be used together.

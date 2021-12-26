@@ -1,0 +1,1 @@
+HW2 was helpful in fleshing out the advantages and disadvantages of the decisions made in constructing a distributed file system like HDFS. Foreg, I have a better understanding on why the default replication factor is 3 and why the default block size is larger than other file systems. HW2 also provided a good exercise of the the MapReduce steps.

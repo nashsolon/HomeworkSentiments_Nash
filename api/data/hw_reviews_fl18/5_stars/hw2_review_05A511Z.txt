@@ -1,0 +1,1 @@
+I think this homework is also a good one. It makes me more familiar with the command lines in HDFS and the procedure of map reduce. The difficulty is a little bit lower than the last homework, but I think for a weekly homework this is appropriate. Overall, I like this homework.

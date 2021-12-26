@@ -1,0 +1,1 @@
+This homework assignment helps me better understand the course materials-how and where the big data is stored. I like the question involving the mapping and reducing process, which requires me to fully know how the system processes the data. The calculation involving saving the file in different blocks is a good one and I know exactly how the system stores the file now.

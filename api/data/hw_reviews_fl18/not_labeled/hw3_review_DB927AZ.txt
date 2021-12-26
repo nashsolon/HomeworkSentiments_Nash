@@ -1,0 +1,1 @@
+This homework is more difficult than the last two homework. The problem about skew is quite confusing, especially because the definition about reducer is different on the slides and the textbook. The textbook's reducer means the reduce function, but the slides means the reduce task. The other two problems are pretty easy. 

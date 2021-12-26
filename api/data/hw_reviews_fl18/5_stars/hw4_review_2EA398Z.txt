@@ -1,0 +1,1 @@
+I think after having a more conprehensive understanding of the hadoop structure and its syntax, hw4 is quite doable for me. It gives me a sense of accomplishment when I followed the codes on the slides and completed my own first concrete Hadoop project. I think it is a real fun! But I also know that this is just a simple implementation. I will keep on learning!

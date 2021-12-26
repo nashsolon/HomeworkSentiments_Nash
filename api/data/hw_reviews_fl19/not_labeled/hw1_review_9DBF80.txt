@@ -1,0 +1,5 @@
+1. I dislike this assignment bucause it is unfriendly to a student who does not familiar with statistics.
+
+2. From reading I learn that even using unlabled data, when the amount is huge, we can still get good result.
+
+3. What suprised me the most is that when using huge amount of data a simple model can works really well. Because in CSE 517 all the data are labled and we need to predice the lable of target data. But this seem not works on big data analysis. It is amazing. By using huge amount of data, we can use more simple model and less money to achieve good result.

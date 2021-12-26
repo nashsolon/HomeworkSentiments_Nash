@@ -1,0 +1,1 @@
+In this homework, I wrote a job using spark and found the number of jpg requests. The program is just written in python and it's much faster than pig. I reviewed spark shell and functions in spark to load, extract, and transform data.Learnt actions and transformations in spark, and also got to know that lazy execution and pipelining makes spark fast.

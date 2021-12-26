@@ -1,0 +1,1 @@
+From this homework I learned how to write a MapReduce job. And it is a little more difficult than the previous homework. From question 2, I know how to implement the partitioner. And I am a little confused about what the distributed cache mean in the problem at first, then I go through the slides and know how to use it.

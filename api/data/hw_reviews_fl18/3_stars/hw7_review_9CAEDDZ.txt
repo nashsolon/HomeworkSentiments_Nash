@@ -1,0 +1,1 @@
+In this homework, I enjoyed the coding involved in problem one. After that, I was not a fan of problems two and 3. I think there was too much pencil and paper exercises. This is especially true for problem 3b, where we had to compute all of the cosine similarity job outputs by hand.

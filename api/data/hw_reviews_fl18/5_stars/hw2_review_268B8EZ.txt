@@ -1,0 +1,2 @@
+This homework helped me to review the concepts of HDFS and mapreduce process of hadoop. And I understood it better since I finished this homework. The last two questions are actually similar question and I didn't feel it difficult to finish them since I attend the class and lab. All in all, this is a indeed delightful work experience.
+

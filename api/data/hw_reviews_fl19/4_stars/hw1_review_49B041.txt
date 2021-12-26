@@ -1,0 +1,4 @@
+a.
+I like some part of this assignment. Like the first two problems. I learned what is the basic information about big data during the class. Through the assignments, I can understand the basic definition better. As for the second problem, I think this problem helps me work better in Mapreduce. I can better design a algorithm. But the last one, to read a paper and get some information makes feel it’s a paper work, not about how to code, how to think. Only some other basic idea about big data.
+c.
+Actually, in the article that the unlabeled data are more useful amazed me. I always believe that a structed data can be used better, and it is much easier for people to utilize. But I realize that although structed data are easy to handle, it can only bring limited information.

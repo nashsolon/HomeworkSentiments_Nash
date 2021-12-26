@@ -1,0 +1,1 @@
+My favorite problems were parts 2 and 3. I liked that they gave me practice on manually computing the results of MapReduce. It helped me think about how the computer breaks the problem down. I enjoyed solving this homework a lot. For problem 1, I didn't like having to draw out all of the HDFS storage system. I found the question about the metadata confusing. 

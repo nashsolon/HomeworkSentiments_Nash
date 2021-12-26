@@ -1,0 +1,1 @@
+I enjoyed problems 2 and 3 most. I felt that actually going through and doing a simple MapReduce by hand helped me learn the process in a simple and quick way. Because of this, I also feel like it was the most important thing that I learned, and completing the homework before lab2 made the pre-lab lecture very easy to understand.

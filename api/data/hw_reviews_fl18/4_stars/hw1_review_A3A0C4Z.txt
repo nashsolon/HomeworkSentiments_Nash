@@ -1,0 +1,2 @@
+This homework assignment was a good introduction to identifying the qualities and characteristics of big data. By doing this homework assignment, I got a better understanding of what the aspects of a big data set are that make it unique, and potentially hard to deal with. It also helped me solve some basic problems regarding, and gain some intuition on the appropriate data structures to use when representing the features of a data set in a program. 
+

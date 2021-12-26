@@ -1,0 +1,3 @@
+Again, I really like the assignment. My partner and I gained sufficient amount of knowledge of hadoop distributed file system, closely reading over textbooks and slides again. Also homework loads are sufficiently distributed into three questions, where we had chance to go over each others' work thoroughly. 
+
+The most important thing I learned with this assignment is HDFS in detail. I have learned pros and cons, details of master and slave nodes, batch processing, block sizes, and block caching.

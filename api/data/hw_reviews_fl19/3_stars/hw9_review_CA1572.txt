@@ -1,0 +1,3 @@
+I almost complain about instructions every homework recently. I find 2 problems. One is problem 3(c). The url should be http://localhost:18088/jobbrowser. The instructions use the 8088 port, which would be correct if there's no "/jobbrowser". By the way, it's nice to have a link for VM troubing-shooting page and the directory for this question is wrong.
+The second is the meaning of "store" in problem 3. The program doesn't store anything. It's really confusing to understand what the question "where is the result stored" wants to ask.
+Although the instructions are wrong about the url, I learned how to set this kind of stuff by reading the VM troubing-shooting. I remember well how to see the event logging page.

@@ -1,0 +1,3 @@
+These three problems are all closely connected with the class contents, and first problem is first time that we implement the mapreduce from the scratch. For the job2 in the top_n_list, I really confused about why the mapper output us null and how can I transform the reducer output from job1 to the composite keys as the mapper output in job2. Also, I have to see mapreduce is really unfriendly to debug and compile and I took lots of time to test my code and see if job can run successfully. For the second and third problem, it leads me to review the combiner part and strengthens my understanding to the communication cost.
+
+

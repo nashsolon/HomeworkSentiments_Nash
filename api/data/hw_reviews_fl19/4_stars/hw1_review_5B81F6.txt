@@ -1,0 +1,8 @@
+
+I enjoyed deriving formula on question 2, since it felt like I was solving a puzzle. I did not like the fact that each question dealt with different areas. The first question was analysis, then it was a problem solving question, then lastly it was reading comprehension. Unlike most other homeworks, I had to switch my brain every time I moved to different questions. So I couldn't finish the hw in one sitting, I had to take a break every while.
+I learned that reading articles is also important for computer science major. 
+In my previous classes, I never had to read anything except documentation. The third question showed me that even a computer science major has to read and that is actually important. What surprised me was when I actually derived the formula. It took me awhile to figure out how to calculate the probability of p group of people going to same hotel on a single day. If I could start again, I will definitely do question 3 first since that took me the most, trying to understand what the article was saying.
+
+
+
+

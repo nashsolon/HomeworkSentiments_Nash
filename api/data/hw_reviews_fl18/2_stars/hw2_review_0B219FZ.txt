@@ -1,0 +1,2 @@
+1. I think Homework II is easier than Homework 1 because there is not any math / probability in it. Maybe I'm just not good at Probability (it is fun though).
+2. The instructor should cover the logic of MapReduce more thoroughly. We didn't do that last time due to time limit, but this is really important because it is the core of Hadoop / MapReduce.

@@ -1,0 +1,1 @@
+I liked that this assignment cemented my understanding of MapReduce with actual examples. What I thought was most important was learning the hadoop commands. 

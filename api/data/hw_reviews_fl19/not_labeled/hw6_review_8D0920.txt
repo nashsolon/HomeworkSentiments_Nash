@@ -1,0 +1,7 @@
+What I liked about this homework is that it felt well-organized and the questions were well-worded and made sense.
+The workload was just right, and it blended coding for practical purposes as well as doing calulcations
+by hand. It made me think about which approaches were most effective and why.
+
+There's not really anything that I did not like about this homework. I would like to dive deeper into
+the collaborative filtering, and which use cases are more effective for certain reasons. 
+I also felt I could have coded one of the approaches from the given pseudocode on the slides.

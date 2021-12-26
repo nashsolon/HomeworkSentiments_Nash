@@ -1,0 +1,13 @@
+• What did you like/dislike about the assignment and why? 
+It helps me to get familiar to other part of MR program, which is very helpful.
+
+• What is the most important thing you learned and why do you think so?
+How to modify comparators and partitioner.
+
+• What surprised you, and why?
+The MR frame can do so many things itself, like partition, with only a little work on configuration.
+
+• Assuming you could start over again (with working on the assignment), what would
+you do differently and why?
+I’ll think about the Q3 more thoroughly.
+

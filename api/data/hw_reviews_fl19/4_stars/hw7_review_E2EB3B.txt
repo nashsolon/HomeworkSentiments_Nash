@@ -1,0 +1,4 @@
+i like the first questiong of the hw7. it was fun!
+iv learned that is the communication cost memory allocation issue when comparing different algorithm. I think it is immportant because it is a very useful tips in designing algorithm for a specific problem in the future.
+nothing really suprised me.
+if given more time i would definitely spend more time on recommendation system algorithms and get a deeper understanding of them.

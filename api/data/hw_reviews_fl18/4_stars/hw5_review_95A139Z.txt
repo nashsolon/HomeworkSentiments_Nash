@@ -1,0 +1,1 @@
+ found this assignment to be interesting. Learning about hidden traps in sorting the output of map reduce jobs was very new and in general the lab brought up some cool ideas. I did enjoy more coding but found some of the questions to be very ambiguous which is never good.

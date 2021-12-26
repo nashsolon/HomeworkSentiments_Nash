@@ -1,0 +1,2 @@
+This time we have more problems to deal with. But the pig program is much easier than MapReduce, so the time we need is similar than before.
+However, this homework is a totally new part of this course, so we need to read more materials and learn a lot from the text book and slides. 

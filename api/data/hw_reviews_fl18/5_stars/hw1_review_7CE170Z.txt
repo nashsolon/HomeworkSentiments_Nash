@@ -1,0 +1,2 @@
+Homework1 actually help me understand fundamental concepts of Big Data followed by problems. It includes characteristics of Big Data, Big data Models and what approaches did sicientists use with its limits. I spent some time on homework1 and work out those problems by following instructions of slides, textbook, readings and previous knowledge.
+Furthermore, it enhances my comprehension to Big Data and how does the models work with actual problem.

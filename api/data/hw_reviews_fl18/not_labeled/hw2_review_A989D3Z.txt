@@ -1,0 +1,1 @@
+Homework 2 contains 3 problems, one covers hdfs and the other two cover MapReduce problems. I think this homework is essential for us to gain a deeper insight of basic working procedure when doing a mapreduce task. When solving the problems I get familiar with the concept of blocks, replication factor and many other conceptual knowledge.

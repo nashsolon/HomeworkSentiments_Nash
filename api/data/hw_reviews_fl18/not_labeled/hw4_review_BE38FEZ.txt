@@ -1,0 +1,1 @@
+In this homework, we wrote the java program for the first time. By writing mapreduce program in java, we gained a deeper understanding. Also, we tried to use command line to compile the java program. It's a little bit complicated than use eclipse to compile it. Also, we implement the mapreduce using ToolRunner which is really convinient to pass the parameter.

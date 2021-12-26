@@ -1,0 +1,1 @@
+I wish this homework hadn't been so long. I don't think the concepts are as important as they seem to be emphasized in this class. I think what's more important is knowing how to code these mapreduce problems and how to use a partitioner for example. I always really enjoy the coding challenges and I look forward to the next assignment where we have three of them to work on. 

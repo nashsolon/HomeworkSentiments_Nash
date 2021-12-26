@@ -1,0 +1,1 @@
+I enjoyed this homework. I think the combination with lab 5 made it not too difficult, but I still learned a lot from the different steps we had to go through. I thought the most important thing in the homework was computing the item-item similarity as it helped further my understanding of colloborative filtering and will make it easier to code in the future.

@@ -1,0 +1,2 @@
+1.I like this assignment because it taught me many useful knowledge about spark and how to execute spark program in python. That is of practical siginificance.
+2.I think the most important thing is that I should know better about the location of where different kind of data stored in different process.It is really important and I should know clear details of this thing.

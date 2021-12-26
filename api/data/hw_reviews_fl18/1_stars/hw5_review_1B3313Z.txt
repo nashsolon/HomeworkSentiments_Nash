@@ -1,0 +1,1 @@
+I think this assignment becomes even more challenging than the previous ones. It requires complete understanding of the mapreduce and its tools. For example, the partitioner. I am glad that through this assignment I got familiar with all the useful aspects of mapreduce. It was very exciting and hard that I learn a lot from it

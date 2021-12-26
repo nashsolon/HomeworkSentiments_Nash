@@ -1,0 +1,5 @@
+I thought this assignment was very helpful to learn and understand collaborative
+filtering using map reduce. The questions asked seemed helpful as possible 
+study questions for the test and all of the answers could be found in the 
+resources in this class. I gave this assignment a 4/5 because I thought it was
+taught me a lot but I wish the assignments were a little more interesting. 

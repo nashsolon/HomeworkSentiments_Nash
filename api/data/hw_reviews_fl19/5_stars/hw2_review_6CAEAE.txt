@@ -1,0 +1,2 @@
+I like the part including hdfs coding. During this assignment, I really get familiar with hadoop command, thanks to your advice which is "Do not copy and paste linux command".
+The most important thing I've learnt is the abstruct concept about HDFS on that book. I found it's difficult to learn this just based on a short lecture. 

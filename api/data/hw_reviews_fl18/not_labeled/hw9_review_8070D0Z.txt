@@ -1,0 +1,1 @@
+This assignment was great, I really enjoyed working with a dataset that seemed lards. I also liked how I got to choose Scala or pyspark. I ended up choosing pyspark but had a lot of fun with spark overall. It also helped that it directly related to the lab that we did that week.

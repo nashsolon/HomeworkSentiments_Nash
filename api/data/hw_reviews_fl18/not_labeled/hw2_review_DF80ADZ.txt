@@ -1,0 +1,3 @@
+This homework is much involving. I get practice on unix command on terminal, which I found is very fascinating. About the second problem, I have read a lot, to get a deep insight of the materials. And after that, i did some simple math, andanalysis the problem.
+About the MapReduce problem, not hard, and it's a little bit funny. Kind of like categorial problem. 
+I learned a lot through this homework.

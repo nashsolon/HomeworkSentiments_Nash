@@ -1,0 +1,2 @@
+If I start it again. I will not change the driver class. I modified the driver class in lab5 so that the practitioner and comparator will be loaded by the driver instead of command line arguments. I spent a lot of time fixing this problem.
+I learned that secondary sort will improve the concurrency level by splitting sorting process from the reducer. I didn’t realize that before this homework.

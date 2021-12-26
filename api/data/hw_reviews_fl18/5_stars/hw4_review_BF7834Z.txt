@@ -1,0 +1,1 @@
+In this homework, we try to write out own code to better understand mapreduce problem. I think it is a good way for us to understand the mappper, the driver and the reduce better. By writing our own code, I can understand the precedures better.

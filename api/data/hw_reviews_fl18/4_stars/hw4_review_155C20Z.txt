@@ -1,0 +1,1 @@
+This is my forth homework. It is getting more challenging. A large proportion of this homework is codding. The two problems are about mainly about using toolrunner to pass a parameter and implementing a partitioner to assign different job to different reducers. Since we have slides and comments, I have many hints when tackling the problems. In all, I will rate 4 stars.

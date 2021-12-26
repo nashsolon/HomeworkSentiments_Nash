@@ -1,0 +1,2 @@
+I like the top n list part of this homework, as implementing the entire program helps me understand what we need to do with multiple steps. The studying of effects of combiners also make it more clear for me.
+However, I do not really enjoy the word co-occurence part of this homework as it's not very clear how we should deal with some details and how we should implement with stripe in the last question.

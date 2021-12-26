@@ -1,0 +1,1 @@
+This homework is really helpful to me. By completing this assignment, I learnt more about the definitions and knowledge of Hadoop distribution file system. I learnt the architecture and how data are stored in the system. Also, in this homework I practiced some basic Hadoop commands that are frequently used and learnt how they work.  

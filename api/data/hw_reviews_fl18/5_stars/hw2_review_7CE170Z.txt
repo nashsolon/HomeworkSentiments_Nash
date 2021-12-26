@@ -1,0 +1,2 @@
+Second Homework does provide review for store and retrive processing of Hadoop system and also concepts of MapReduce Algorithm. It is exciting to discuss advantages and disadvantages of Hadoop internel settings. It does make me deeply understand what is big data platform and why is it designed for a specific fields.
+

@@ -1,0 +1,1 @@
+homework content is good and clear. However, for the first problem, we are using the same thing from the lab. Since we have done it in class, probably it can extent a little bit or some modificatoin so that one can reenforce their knowledge with implementing hadoop.

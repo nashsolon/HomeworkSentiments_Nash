@@ -1,0 +1,4 @@
+1.I like this assignment, for it give us a chance to delve deeper into the Hadoop and know more about the basic structure and concepts.Otherwise we may ignore those useful knowledge.
+2.The most important thing is about the reflection factor.Because it has a great impact on Hadoop cluster performance.
+3.I was surprised by at first when I try to read the head lines of the poems it reported warning of "unable to write to output stream"
+4.I think I will do the sketch differently.Because I wanna modify it into a more clear format.

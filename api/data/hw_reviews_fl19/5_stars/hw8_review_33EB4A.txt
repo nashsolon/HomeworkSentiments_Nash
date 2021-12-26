@@ -1,0 +1,5 @@
+I like this assignment because I think it is really helpful and challenging. It provides me with a futher understanding of HIVE and SPARK relative knowledge and enhances my hand-on experience with HSQL and pyspark.
+
+2.I am suprised that the third problem takes me a lot of time to finish, especially for the part(c). It took me a long time to figure out the what the problem asks and what correct Hive shell to use.
+
+4.I would re-do the lab 7 and be more familiar with Hive and Spark shell. Also, I would review the slides, which is really helpful to this assignment.

@@ -1,0 +1,2 @@
+The first question helps me understand how HDFS works better. I know the importance of block size and some more knowledge about storage.
+I really like the 2nd problem and 3rd problem. These two questions offered me a more exact example about how that the map works and what the key and value should be. 

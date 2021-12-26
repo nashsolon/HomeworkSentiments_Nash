@@ -1,0 +1,2 @@
+This homework problem 2 ask us to use the combiner and without combiner can really help us understand the processes of the map reduce job. And we can learn how to use YARN to get the information we need.
+The problem 3 only have one method to get the result, we want to learn more about the strips.

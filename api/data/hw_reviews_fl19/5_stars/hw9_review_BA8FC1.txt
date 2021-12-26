@@ -1,0 +1,2 @@
+I like how the problem 4 leads us to go through the Driver and Executor execution process and place. As the Spark provides many modes, it is very hard to understand the difference among them without actually using them. I am now having a more strong understanding about how the process flow works.
+I would go through the concept of FLUME in more details since it has shown multiple times in this homework and, indeed, is an important concept in the data processing.

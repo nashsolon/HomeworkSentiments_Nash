@@ -1,0 +1,1 @@
+Homework 7 is good and not very time consuming, and it contains some question that require us to think deeper. This homework I spent around two days to finish and I believe I have learned useful things through it. Like ways to implement a recommendation system and different method for defining similarity between vectors.

@@ -1,0 +1,1 @@
+Homework six is a very good exercise. It basically instructs us to go through the lab five. It provides a similar code online for us to refer to. So it is not difficult to change the original code and write our own code for the homework. The problem two is a good question. It helps me further understand the usage and meaning of combiner, which is very helpful.

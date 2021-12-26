@@ -1,0 +1,8 @@
+What I liked about this assignment was the actual hands-on coding we did, it made me have to internalize all of the material.
+
+What I didn't like about this assignment was a) commenting the code. There is 0 need to comment code
+that is explicit in what it does already. It actually makes it less readable. Yet, we were forced to comment
+the code anyways. I did not like this. 
+
+Secondly, the instructions were no good. Specifically, question 1 could use a lot of rephrasing. 
+It was unclear what we needed to test or write down. I had to ask for several clarifications. 

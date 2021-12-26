@@ -1,0 +1,15 @@
+In this assignment, I liked the coding section. I think it was
+an interesting problem and i liked that we hadn't gone through
+an exact example in class so we had to really think about it.
+In this assignment, I did not like that there were some
+discrepancies with calculating some of the similarities.
+The textbook treats calculating jaccard similarity a bit different 
+to how we wanted to treat it. 
+
+The most important thing I learned from this homework assignment is the 
+advantage and disadvantage of using the different types of similarity
+calculations. For example, pearsson may produce the most intuitively 
+correct results for movie ratings, but it is also the most memory 
+intensive and slowest. It's important to know these tradeoffs because
+cost / effectiveness is a realworld practical issue that always needs
+to be considered.

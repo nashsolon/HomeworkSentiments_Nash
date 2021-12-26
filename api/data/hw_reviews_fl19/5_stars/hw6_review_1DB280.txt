@@ -1,0 +1,1 @@
+This is the hw that I like a lot especially for the collaborative filtering part. It's traditional and it really can learn deeper about recommendation systems. If I'll do this again then I'll not forget to add the command for configuration alteration and won't forget to turn this reflection at this time lol hope I can still get the bonus point plz

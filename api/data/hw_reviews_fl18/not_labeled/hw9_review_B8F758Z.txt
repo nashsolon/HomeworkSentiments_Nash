@@ -1,0 +1,1 @@
+This homework is difficult in the sense that it includes many theoretical questions and we cannot find answers in class slides nor in the book. For question three, it asks for different locations of drivers, process and results for local, client and cluster spark models, which is vary confusing and took us very long time to figure it out. 

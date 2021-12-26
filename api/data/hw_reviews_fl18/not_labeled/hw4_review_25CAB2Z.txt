@@ -1,0 +1,1 @@
+I liked homework 4 because it got into more application problems using hadoop. At times I found the file paths confusing, but the content itself transfered from lecture very easily. all in all I found it good and I am excited for you to apply the sentiment analysis to this document like I did for the Shakespeare works 

@@ -1,0 +1,1 @@
+This homework was a really good way to test and build on our Pig and Spark knowledge without making it too tricky. However we definitely struggled at times to get the correct output. Debugging was a challange at times as well because the output usually look around 7-8 minutes to actually print and with many bugs to check and fix it look a long time to fix small amounts of code.

@@ -1,0 +1,1 @@
+I personally liked this assignment as I thought it was a good way to solidify our understanding of the HDFS and MapReduce. However, I did feel like problem 3 was a bit redundant as it was extremely similar to problem 2, but I can see problem 3 being a good problem for students who might have had a more difficult time understanding MapReduce.

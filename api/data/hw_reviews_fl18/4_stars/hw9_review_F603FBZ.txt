@@ -1,0 +1,1 @@
+This homework is overall not too bad. Although it took me a very long time to debug out the reason why it wasn't working on the whole data because we were not provided a way to test if our lab8 is complete and correct. But once I figured that out it was not too bad. I'm a bit tired and sick right now but life needs to go on and I need to collect my motivation and act on it. 

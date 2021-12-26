@@ -1,0 +1,2 @@
+This homework was very interesting and actually gave me a chance to get my hands wet writing an entire map-reduce job from scratch. I think I had to reference a lot of my previous labs for logistical details like assigning command line arguments, but this practice was very helpful. Additionally, it combined a lot of what we have learned so far, save for partitioners and comparators, and I think putting it all together in one assignment was helpful to my learning experience.
+Rating: 5.0/5.0

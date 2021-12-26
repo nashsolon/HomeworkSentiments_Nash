@@ -1,0 +1,1 @@
+In this homework, I really like the problem 3’s last question. I discussed with my teammates for a long time about the worst memory case. I believe it actually taught me about the difference between pair and trip. I took a long time to think about it. So when I finished it all. I learned a lot.

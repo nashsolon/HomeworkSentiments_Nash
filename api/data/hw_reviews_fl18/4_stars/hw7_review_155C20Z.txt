@@ -1,0 +1,1 @@
+This is my seventh homework. It is mainly about solving word co-occurence, and some questions about collaborative filtering. This is a quite challenging homework. Some of the questions cost my teammate and me a lot of time and are still not sure of the answers. I think I need to spend more time review what I have learnt recently. In all, I will rate hw7 a 4 star.

@@ -1,0 +1,3 @@
+In this homework, I really like both the problems. Which really help me understand how to use the partitioner and the distributed cache in real work. At first, I understand how they work in theory, But I don’t know how to use them. But after this work, I know how to use them.
+
+If start this homework again, I will try to read some books at first. And I will try to talk to a TA first about what we actually need to do. Because I misunderstand the homework, So it takes me a longer time to design how to program. But later I realize that it is not such difficult as I think.

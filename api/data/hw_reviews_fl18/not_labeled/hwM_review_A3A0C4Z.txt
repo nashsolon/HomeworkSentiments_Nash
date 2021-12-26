@@ -1,0 +1,1 @@
+I thought this was a good homework in experiencing larger spark jobs. I observed that an iterative algorithm like this is not appropriate for MapReduce, since we are limited to the map then reduce flow. I gave this homework a 4 stars. I didn't like that there was no warning about how long the spark job would take to run. Mine took around 3 hours. 

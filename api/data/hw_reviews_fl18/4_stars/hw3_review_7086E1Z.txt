@@ -1,0 +1,1 @@
+The third homework is about dealing with some problems that existed in MapReduce work and inspire me to find a proper solution to them. This homework gives good example of MapReduce. It also encourages us to read about sentiment analysis and Hadoop MapReduce job execution, which is really helpful for me.

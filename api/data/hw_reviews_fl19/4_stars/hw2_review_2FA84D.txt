@@ -1,0 +1,4 @@
+I did like to review general knowledge of HDFS and how the mapper and reducer work by doing some examples. 
+I think knowing disadvantages and advantages of HDFS is a quite important. 
+In the beginning of the class, I thought that mapreduce is like a magic that solves all problems, but it is important to understand that 
+it is not quite useful in some cases. 

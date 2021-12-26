@@ -1,0 +1,1 @@
+I thought that this homework was very well made. I like splitting it up into more smaller parts instead of fewer, longer, and more complex parts. The homework also was very good at causing thoughful implementation of pig and spark, and I now feel I have a better understanding of how both work.

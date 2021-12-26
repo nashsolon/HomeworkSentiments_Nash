@@ -1,0 +1,1 @@
+I thought the wording of questions 1a 1b and 1c was pretty confusing and could be made more clear. Overall I liked the homework, I feel like I have more familiarity with Hadoop and MR. The most important thing I learned was how to debug and feel more comfortable changing things with the driver and toolrunner.

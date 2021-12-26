@@ -1,0 +1,4 @@
+1. I like it! Because this time the topN task and words-co are both more complex and more similar to real life problem. I feel more like a engineer now.
+2. Be patient. Seperate a big task to small piece and solve them one by one.
+3. The way two jobs combine. Is there any more automative way to combine two jobs. For example, a line code in job2's driver to use the output of job1.
+4. Look through the slides first. This help me coding and solve problem quicker.

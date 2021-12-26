@@ -1,0 +1,1 @@
+I mainly worked on implementing the inverted index map reduce job. This was a good exercise in a new input format and non integer values in key value pairs. I ran into difficulty running the job because I was trying to build it from .java files when I actually needed to build it out the stubs package. 

@@ -1,0 +1,4 @@
+I did not like this homework a lot, because some questions seemed ambiguous and it was hard to understand what exactly was being asked for.
+
+I think I learned what skew means in the context of MapReduce.
+

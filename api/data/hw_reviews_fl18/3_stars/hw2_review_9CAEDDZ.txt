@@ -1,0 +1,1 @@
+I thought that this homework was an improvement when compared to the first one. I think that the first question gave a good overview on some of the ideas for HDFS, while the second two problems were simple problems to think about how mapreduce worked. Like the first homework, I still feel that the homework was a little too qualitative, and I would have liked more, or any, coding.

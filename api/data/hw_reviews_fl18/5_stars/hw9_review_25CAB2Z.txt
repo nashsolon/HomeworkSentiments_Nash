@@ -1,0 +1,1 @@
+I had a break-through on this problem. For a while I was running into storage issues and they were very frustrating, but once I figured out how to run a pyspark program through a python text file things went a lot more smoothly. I am a little worried about my written answers. I should double check with the textbook. ****

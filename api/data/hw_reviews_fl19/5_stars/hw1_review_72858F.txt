@@ -1,0 +1,4 @@
+1. I like the assignment very much. Reason: It makes me know better about Linux. I have learnt some commands line about shell and know how to submit group assignment into gradescope.
+2. How to use Linux and some command about shell.
+3. It is convenient to submit file to the terminal.
+4. Start it a little bit earlier.

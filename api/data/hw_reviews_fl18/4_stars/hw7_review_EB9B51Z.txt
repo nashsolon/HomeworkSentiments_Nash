@@ -1,0 +1,1 @@
+I enjoyed this homework. I thought that it was a very nice blend of quantitative and qualitative work, which is always enjoyable. I found the manual computation of mapper/reducer inputs and outputs to be sort of tedious, but in the end I felt that I learned more about similarity measures that are used in collaborative filtering problems.

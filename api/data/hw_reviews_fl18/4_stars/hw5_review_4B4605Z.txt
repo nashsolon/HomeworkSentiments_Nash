@@ -1,0 +1,2 @@
+This homework was very helpful in allowing me to practice writing and understanding the components of a map-reduce job, especially the purpose of a partitioner and comparator, and to some degree, what all goes into the configuration of the job as well. I was a bit thrown off by the InvertedIndex problem because I felt that we didn't really discuss enough about InputFormats in class to intuitively know what to do.
+4/5 Stars

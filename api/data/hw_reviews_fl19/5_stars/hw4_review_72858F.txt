@@ -1,0 +1,4 @@
+1. I like the assignment very much. The assignment tells me much about how to write code using JAVA. 
+2. From the assignment, I have learned how to pass parameters through command line and how to write partitioner.
+3. Writing the right file address surprised me. I tried a lot of time to find how to make it.
+4. I would like to do this assignment earlier. Because many things in the assignment is totally new for me and I need to enough time to get familiar with it.

@@ -1,0 +1,1 @@
+In the Eighth homework we finally move on to some new stuff : pig and spark. They improve a lot compare to MapReduce jobs have, most importantly, they are faster, especially spark. And I am very happy with that, although I still have to wait for job to finish, it has improved a lot and solved many problems.

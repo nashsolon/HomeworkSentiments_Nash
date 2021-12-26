@@ -1,0 +1,1 @@
+I had a lot of trouble with small bugs in this lab. I think that the distributed cache was not covered enough in class as it took forever to get the files to work correctly on my Hadoop system. Other than that it was nice to get coding compared to previous homework.

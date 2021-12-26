@@ -1,0 +1,1 @@
+In the Seventh homework we learned to implement simple MapReduce job to compute word co-occurrence which is useful in Recommendation System. However, the approach we use has many drawbacks so I am looking forward to improve it in the future. Also I reviewed the similarity measures in collaborative filtering and compare the pros and cons of those measures.

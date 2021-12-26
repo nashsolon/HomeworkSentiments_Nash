@@ -1,0 +1,5 @@
+• What did you like/dislike about the assignment and why?
+I get to have a better idea of how to use Hive and get more familiar with Hive statements. I have a better idea about the pros of using Sparks and how pipelining works and its pros.I also learnt how to use SPARK 
+
+• What surprised you, and why?
+There's some ambiguity in the Question 3 description (e), which took me a little bit more time to figure out.

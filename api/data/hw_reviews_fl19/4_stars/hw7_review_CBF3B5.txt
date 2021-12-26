@@ -1,0 +1,2 @@
+This homework helped me understand the co-occurences. I liked how there was sample input given that we could test the code on. I found the instructions pretty straight forward and thought the implementations were pretty straightforward. Since we’ve been talking more about hive and spark in lecture and lab, I kind of wished this homework was on that material, but overall thought it was a good homework. 
+

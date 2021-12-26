@@ -1,0 +1,1 @@
+The first problem was very nice. The only issue, though, was that the code that the hint directed us to implements a the Reducer as a Combiner already. I was very confused when I got to Problem 2, because there it tells me to implement a Combiner. Wow. Much confusion. 

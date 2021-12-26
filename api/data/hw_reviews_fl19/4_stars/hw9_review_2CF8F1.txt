@@ -1,0 +1,1 @@
+I enjoyed this homework. I think the most important part of the homework was acknoledging the different ways to run spark programs. I think the most fun part of the homework was working toward joining two tables in an interactive pythonic way.

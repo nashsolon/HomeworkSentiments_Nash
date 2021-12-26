@@ -1,0 +1,1 @@
+I like problem 3 in this assignment because it shows the advantage compare with Jave MapReduce that we learned in early classes. Spark makes MapReduce work much easier. The most important thing that I learned from this homework is data processing with Spark since we have to obtain the information that we need from tons of data. 

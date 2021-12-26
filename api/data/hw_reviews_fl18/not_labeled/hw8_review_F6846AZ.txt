@@ -1,0 +1,1 @@
+hw8 is about the pig operationa and a little about spark. I think the pig assignment is great and of fair work load. It enables me to be familiar with the ETL models, which is quite differnet from traditional DB. But I think spark homework is a little simple(which counts for 40 points of 100), maybe it's because we just began learning spark in the class. 

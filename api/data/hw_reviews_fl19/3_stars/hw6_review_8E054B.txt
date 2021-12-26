@@ -1,0 +1,1 @@
+I like Question3. Because it helps me have more comprehension about the Collaborative filtering in MapReduce. It really helps with coding. And I don't like Question1. Because the description here is not clear and if we do lab6 we will quickly finish Question1. We cannot have more exercise while finishing Question1

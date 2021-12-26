@@ -1,0 +1,3 @@
+I like about this assignment is that it lead us to think deeper about the concepts of map reduce.
+I dislike about his assignment is that sometimes the distribution of files or how the data was being transferred is not related to what we’re doing while doing cloud computing.
+And I dislike the reflection on GradeScope about hw1. Just because my formula is not that big you’re taking away half of my grades you’re kidding me. Next time I’ll write them all in the biggest size, satisfied?

@@ -1,0 +1,3 @@
+I like this home work very much. This homework helps me further pritice my spark and HDFS skills. It also help me familiar with spark. Also it requires a concrete understanding of python. Also the project is interesting, it let us to track the analysis the information of web log requests.
+
+The most important thing I learned is the usage of spark. Insted of using the shell, it alow us to run the whole python script. Also spark can run on yarn, this also helps analysis the data a lot.

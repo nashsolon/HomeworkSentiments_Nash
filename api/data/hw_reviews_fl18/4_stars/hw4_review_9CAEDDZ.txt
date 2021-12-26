@@ -1,0 +1,1 @@
+This homework was much longer than the previous ones. However, it was also my favorite one so far. This homework was more focused on coding different map reduce problems in Java and learning the concepts through implementation, rather than simply asking written questions that can be found by reading the book.

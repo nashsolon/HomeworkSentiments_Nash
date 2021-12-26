@@ -1,0 +1,1 @@
+In this homework, I really like the problem 5. In this problem, I understand how to use the spark. How to upload the data to the spark and handle those data. Final, get a right conclusion about the data. I also like the problem 1,2 and 3. I learned how to use the hive. Much more convenience to handle data.

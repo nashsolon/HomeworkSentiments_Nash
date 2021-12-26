@@ -1,0 +1,1 @@
+I like this assignment very much, because hw2 truly help me deeply understand the core of the distributed file system (HDFS) and exercise on the process of MapReduce functions.The most important thing I learned from hw2 are the advantages and disadvantages of HDFS. It helps me think about why HDFS is designed in this form and those unique features it has.

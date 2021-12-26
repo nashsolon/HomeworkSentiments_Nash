@@ -1,0 +1,2 @@
+I like this assignment because it reflects what we just learned, like operations on HDFS and Map Reduce. The most important thing I learned, I think,
+is Map Reduce, because it is a significant algrithm when we deal with distributed file system.What suprised me is that we have 2 problems for Map Reduce.If I am gonna do it again, I would go through lecture nodes for Map Reduce example first. 

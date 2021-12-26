@@ -1,0 +1,16 @@
+Hw1_Reflection.txt
+
+Kenneth McNelly
+457250
+
+Like/Dislike:
+I appreciated how the first question paralleled the work whe had done in lecture and the second question directly reference the reading. This help connect crucial starting blocks for me to base my response on. Also, the sample numbers for testing the equations were really helpful in allowing me to catch a part of the formula I hadent considered correctly.
+
+While overall a great homework assignment, I did struggle with the openness of Problem 3's questions. I found the articl very interesting but it was stressful connecting what I read to answering the questions as I had a habit of overthinking what it was asking and second guessing my response since there was no firm answer. 
+
+What I learned:
+I believed this assignment helped solidified my understanding of the characteristics of Big Data through the practice with the first assignment. Also the third assignment gave me a much better understanding of unlabeled vs. labeled data and the trade-off between them.
+
+Suprise:
+I was pretty supprise by the formula derivation It felt like something out of my probability class. At the time of reading the qeustion, it was hard for me to see th connection between deriving the formula and cloud computing. 
+

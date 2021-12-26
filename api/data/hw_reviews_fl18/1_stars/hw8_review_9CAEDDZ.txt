@@ -1,0 +1,1 @@
+This was my least favorite homework so far, especially the problems that dealt with pig. These problems were very difficult, and the slides did not provide enough reference or examples to help with figuring out what to do. It would be very helpful if there was a section of the GROUP pig command and how it worked.

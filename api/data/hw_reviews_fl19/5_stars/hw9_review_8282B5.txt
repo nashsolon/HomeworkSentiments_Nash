@@ -1,0 +1,4 @@
+What did you like/dislike about the assignment and why?
+The assignment help me to understand how to use spark commands to create RDD Paris and perform joins on different RDDs.
+What is the most important thing you learned and why do you think so?
+The most important thing I learned from the homework is that how to use spark commands to analyze weblog data, and how to use DAG to illustrate the relationship of different working processes.

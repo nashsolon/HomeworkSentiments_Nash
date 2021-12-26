@@ -1,0 +1,4 @@
+For these three problems, I like all these questions. 
+For Problem 1, the question asks us to apply what we have learnt in lab and from textbook about the Distributed File System. Through this, I not only remember what the mechanism of distributed file system is, but also have a deep understanding about what actually the distributed file system works, about the racks, nodes, blocks and meta-data.
+For problem 2 and problem 3, the question asks us to apply what we have learnt about MapReduce. In these two problems, two real problems are provided for me to decide the outputs and inputs of the Mapper and Reducer. Through this, I have a deep understanding about how the process of MapReduce works.
+

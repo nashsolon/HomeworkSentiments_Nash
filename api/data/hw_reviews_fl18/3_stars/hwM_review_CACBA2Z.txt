@@ -1,0 +1,1 @@
+I thought that this homework was a bit challenging and frustrating but I also think I learned a bit about running jobs in spark and pig. I liked being able to do a real-world application and page rank but I found the pig code to be a little annoying. I also did not like how long it took to run with as many iterations as was requested.

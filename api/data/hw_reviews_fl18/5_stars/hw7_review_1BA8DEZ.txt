@@ -1,0 +1,1 @@
+Homework seven is a good exercise. In this assignment, I review what I have learnt in the recommendation system. I have grasped basic concepts about Cosine similarity, Jaccard similarity, and Pearson similarity. Besides, I learnt the trade off between pairs implementation and stripes implementation. It is a good exercise.

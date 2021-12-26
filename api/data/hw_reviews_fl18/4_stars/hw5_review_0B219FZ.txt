@@ -1,0 +1,1 @@
+Homework five has great practical implication. Building an inverted index using Hadoop Map Reduce helps me understand how an index behind a book is constructed. I learned to use Local Job Runner from this homework (also set up my local development environment on Windows and IntelliJ IDEA), which greatly improved my development efficiency.

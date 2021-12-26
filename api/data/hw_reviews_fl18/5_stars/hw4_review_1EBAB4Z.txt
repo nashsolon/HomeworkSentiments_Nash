@@ -1,0 +1,1 @@
+This homework was helpful in solidifying my understanding of how a map reduce program works. I am becoming more familiar with the layout of the Hadoop cluster. And it is becoming easier to navigate the file systems and running the programs. I also saw how to use and the benefits of the tool runner and the partition. 

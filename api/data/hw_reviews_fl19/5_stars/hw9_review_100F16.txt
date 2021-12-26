@@ -1,0 +1,1 @@
+I like this assignment because we are applying what we learned about Spark to analyzing real world weblogs data. The most important thing I learned is the difference between a transformation and an action, and the operations we can use on an RDD returned by a transformation, as well as how to use Spark shell and how to write a Spark program.

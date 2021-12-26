@@ -1,0 +1,1 @@
+This hw7 is tough for me, but I like it because Problems 1 and 3 are challenging.  One thing that surprised me is the Combiner, which decreases a lot of FILE reading and writing. If I could start over, I will try Problem 1 differently, such as combining Job1 and Job2 into one job so we can finish this task in one MapReduce task.

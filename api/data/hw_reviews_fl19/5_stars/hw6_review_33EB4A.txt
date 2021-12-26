@@ -1,0 +1,5 @@
+1.I like this assignment because I think it is really helpful and challenging. It provides me with a futher understanding of secondary sort and collaborative filtering. And it enhances my hand-on experience with mapreduce implementation (combiner and partitioner).
+
+2.I am suprised that the first problem takes me a lot of time to debug. It kept telling me that a LongWritable cannot be casted into Text. Luckily, I soloved this problem at the end. 
+
+4.I would re-do the lab 5 and be more familiar with how partitioner works in a mapreduce job. Also, I would review the "Collaborative Filtering" slides, which is really helpful to the problem 3.

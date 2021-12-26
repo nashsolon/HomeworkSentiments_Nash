@@ -1,0 +1,3 @@
+From problem 1, I get to know an example of MapReduce job. Through the output file, I understand the function of this job.
+From problem 2, I figured out what skew means and what it represents. Also, I learned things about how to make the skew no so significant.
+From problem 3, I learned about the Hadoop MapReduce job execution using YARN scheduler. I not only knew the description of YARN, but also did I understood the data locality optimization.

@@ -1,0 +1,1 @@
+HW9 was very interesting. I found it challenging at times, especially with running scrips to setup more so than the coding portion, so that frustrated me a lot. I ended up coding in Python when I usually do in Scala because I couldn't get the Scala set-up to work. Overall, it made me really thing about the material, especially about how programs are executed.

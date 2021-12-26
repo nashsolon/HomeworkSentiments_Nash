@@ -1,0 +1,1 @@
+The homework, or Lab 5 was unclear whether we would prefer to implement the N and movie_titles.txt in a Distributed Cache method, or as a commandline input argument and a local path method. Other than that, the instructions were pretty clear on what to do. I wish there was more explanation on the SortedMap “top” and some help on designing the Combiner.

@@ -1,0 +1,2 @@
+I thought this homework was very manageable and helpful. I really prefer using Spark and Hive to Java Mapreduce, and found this homework a lot easier because Hive is so much easier to debug and runs the jobs so much more quickly. One thing I didn’t like about this homework was the lack of information on pipelining. I found hardly anything in the slides and nothing at all in the book, so that is how i would improve this homework.
+

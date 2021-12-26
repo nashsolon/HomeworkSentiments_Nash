@@ -1,0 +1,5 @@
+I most enjoyed the paper analysis of “The Unreasonable Effectiveness of Big Data”. While so far in this class we have discussed the characteristics of big data and the implications of managing big data, we have yet to really dive into the possibilities that big data allows us.
+
+I was most surprised by the clarity and specificity that even a large dataset like “web text” was analyzed with – there was reference made to column headings, table contents. Specifics like this helped de-mystify the “big data” that we have been talking about and shed some insight on how we might actually begin to make use of huge amounts of data.
+
+

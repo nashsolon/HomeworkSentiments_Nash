@@ -1,0 +1,3 @@
+Star Rating: 5
+
+Really enjoyed this homework! I'm glad we're using real data processing languages now rather than java. I'm not quite sure what need pig satisfies in the analytics industry after working with it this week - why couldn't spark substitute for every use case of pig?

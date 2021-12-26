@@ -1,0 +1,4 @@
+I liked the code in this but I didn't like the amount of unclear instruction or errors in the code and homework problems.
+The most important thing I learned was about Jaccard vs Cosine vs Pearson because it feels very applicable toward collaborative filtering.
+I was surprised by the effect of the pearson similarity. It seems so obvious to deal with someones evident rating patterns.
+If I could start over again, I would ask for clarifications earlier, such as with turning 1s and 2s to blanks. 

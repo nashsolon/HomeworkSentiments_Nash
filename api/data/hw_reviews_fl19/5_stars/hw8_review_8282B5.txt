@@ -1,0 +1,4 @@
+What did you like/dislike about the assignment and why?
+I like this assignment since it helps me to learn Hive statement while solving real problems. It improves my knowledge on how to use Hive to manage tables.
+What is the most important thing you learned and why do you think so?
+I learned how to create tables and query through Hive. And I also learned how to solve concrete real world problems using SQL query.

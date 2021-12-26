@@ -1,0 +1,4 @@
+I learned how to write python scripts and utilize those in Spark shell. 
+One thing I would prefer from this homework is that it would have been better if we were provided 
+more complicated data. 
+If I do this assignment again, I think I would try to use Scala in stead of Python just because I could learn more another programming language. 

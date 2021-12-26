@@ -1,0 +1,2 @@
+overall is fine. question 1 and 2 seems similar, they can either merge or delete one of them. 
+the setup script should be updated as they cause many confusion for setup errors

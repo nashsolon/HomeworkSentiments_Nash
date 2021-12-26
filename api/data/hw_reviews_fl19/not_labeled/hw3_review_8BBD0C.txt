@@ -1,0 +1,3 @@
+
+One thing I liked about the assignment was that it really made one think critically about the different processes involved with Map Reduce. However, I think it would have been useful to have some sort of diagram that needed to be drawn as visualizing what is going on is usually helpful. If I did this assignment again, I would reread the chapters first to really try to get a good grasp of what is going on.
+

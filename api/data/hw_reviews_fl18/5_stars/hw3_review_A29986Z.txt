@@ -1,0 +1,1 @@
+This homework was all right. I think it did a good job of helping the user understand the underlying concepts behind YARN and the idea of skew. It also helped us understand the outputs of an actual mapreduce job in cloudera. Good and interesting homework. It solidifed the underlying concepts. Cool. Dope. Amazing. Lovely.

@@ -1,0 +1,1 @@
+THis homework helped me to understand how to program in Pig, and I also learned something that is totally new --spark. Although I always used Java, and never used Python before, I think this homework really helps me to understand how to use Python.

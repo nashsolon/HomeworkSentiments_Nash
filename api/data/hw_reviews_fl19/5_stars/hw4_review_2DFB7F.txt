@@ -1,0 +1,6 @@
+• What did you like/dislike about the assignment and why?
+What I like about the assignment is that I get the hands-on experience on how to implement ToolRunner and Partitioner.
+• What is the most important thing you learned and why do you think so?
+After finishing the homework I have a better understanding of ToolRunner and partitioner and how to specify configuration file in the command line.
+• What surprised you, and why?
+ToolRunner is super useful, powerful and flexible. We could use it to test different configurations.

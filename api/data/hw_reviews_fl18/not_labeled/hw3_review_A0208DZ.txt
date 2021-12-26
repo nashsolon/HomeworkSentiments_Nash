@@ -1,0 +1,1 @@
+this homework is really helpful to me. by finishing the assignment, I have a deeper understanding of how a job will be executed in hadoop. also, the word counting job is a good examaple, by learnning its result, i learnt the inputs and outpust of the mapreduce job and how they can be improved using different reduce() functions.

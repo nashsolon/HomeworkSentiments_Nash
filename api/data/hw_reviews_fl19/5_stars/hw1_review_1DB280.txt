@@ -1,0 +1,7 @@
+1. I like about this assignment since it shows me the characteristics about different kinds of data sets and how to define it using a schema. Also, I got rewind of the sense of processing data by solving the problem 2 "Bonferroni's Principle". Besides, as I know, The Unreasonable Effectiveness of Data is a significant paper published in 2009, I felt happy to get a chance to read it through and analyze it. What I dislike about this assignment is that, Google has published another paper called, Revisiting Unreasonable Effectiveness of Data in Deep Learning Era. It focuses more about computer vision, though. But I think it would be more fun to read these 2 articles together.
+
+2. The most important thing I learned is that sometimes there'll be surprises spending time processing your data rather than spending time improving your model. As we can see, different data sets have completely different data characteristics. And we can know from the article that a simple model with huge amount of data would perform better than a delicate model with limited data. And this is what I learned from my last internship as an algorithm engineer.
+
+3. The data set contains chemical compounds since I never got a chance to know the data about chemicals. 
+
+4. I'll look through the questions in Problem 3 then read the article. Because it would be more structural while reading this article.

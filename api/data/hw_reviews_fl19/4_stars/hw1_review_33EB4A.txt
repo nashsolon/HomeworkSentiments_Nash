@@ -1,0 +1,11 @@
+1.What did you like/dislike about the assignment and why?
+Ans: I would say in general it is really a good assignment because it is not as difficult as I thought before. Problem I is kind of an extension of what we learned from the lecture and it is easily to solve after reviewing the lecture slides. Problem II is a little bit tricky and it is a pure math/statistics problem that we didn't talk in lecture. Problem III is a readling problem and it is related to what we talked in class as well. I expect that we would have more coding problems in the future.
+
+2.What is the most important thing you learned and why do you think so?
+Ans: The most important thing I leaned from this assignment is the characteristics of big data. It gave me a better/deeper understanding of the five characteristics that we talked in class.
+
+3.What suprised, you and why?
+Ans: We would have a pure statistics problem in our assignment, even if it is related to the big data. I thought it would be a practical/coding related calss. xD
+
+4.Assuming you could start over again (with working on the assignment), what would you do differently and why?
+Ans: I would review my statistics class first because problem 2 costs me a lot of time.

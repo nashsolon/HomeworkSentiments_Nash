@@ -1,0 +1,1 @@
+I thought this homework was a very informative introduction to spark and pig. I liked that the problems were fairly straightforward. I found some parts of the assignment frustrating. Specifically, the runtime of most of the problems was absurdly long. It would be nice if we could find a way to make the programs run more efficiently.

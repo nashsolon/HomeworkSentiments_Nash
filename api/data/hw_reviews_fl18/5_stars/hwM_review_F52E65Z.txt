@@ -1,0 +1,2 @@
+This homework helps me to better understand the PIG, especially helps me to review the PIG programming, as I have not used it for a time.
+What's more, the problem 2 helps me to understand how to program in the .py file, I used to know little about this and I cannot do well in it, but this helps me to do better.

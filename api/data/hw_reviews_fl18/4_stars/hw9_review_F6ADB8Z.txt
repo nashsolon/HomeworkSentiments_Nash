@@ -1,0 +1,1 @@
+The homework this time is a little less than last time, but still very time consuming. It took me and my partner an afternoon and an evening to finish it. In it we did learn something like how to use spark commands, write spark programs. I have to mention spark offers a very flexible framework than the hadoop programs we wrote in java. That's a good thing. 

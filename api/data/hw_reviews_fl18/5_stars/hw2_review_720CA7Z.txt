@@ -1,0 +1,2 @@
+I like homework 2, it's closely related to the material I've learned during the lecture and lab.
+I especially like the order of problem 2 and 3. Because problem 2 can be regarded as an example of map and reduce which made it a lot easier for me to solve the third problem.

@@ -1,0 +1,5 @@
+A:
+ spent a lot of time in this assignment. I like the second part. It make me understand how the data was handled through the maptask and the reducertask. I believe that I can write a better code in this two parts. As for the first one problem. Although it make me understand the Hadoop better. It helps me understand the advantages and disadvantages of the HDFS. But I really don’t like it. I spent long time in looking through papers and other books to find some information. So I think might you can give us some links or more hints. So we can get right background knowledge directly.
+
+C:
+The first problems’ b and c surprised me a lot. At the first time, I know how the Hadoop work. I know some the map task and reducertask deal with data. But I really don’t know the basic information of HDFS. I do not know why the block was set as 128MB. And advantages and disadvantages of this size. So I really learned the basic information. 

@@ -1,0 +1,1 @@
+In this home work, I implemented a program to get the top-n-list of movies. And learned how to use algorithm and data structure in mapreduce. I found it really interesting and accomplished to build my own mapreduce jobs. In the end, I also learned the bennefit of using combiner in mapreduce job.

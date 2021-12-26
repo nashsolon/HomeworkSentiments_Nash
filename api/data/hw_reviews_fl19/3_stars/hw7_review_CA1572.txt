@@ -1,0 +1,3 @@
+I'm very unsatisfied with the reference repo, because it is wrong. It uses rating as key to sort records but it's totally possible that two movies have the same rating. That implementation will keep forgetting the previous movies with the same ratings but only remembers the latest one. Although when ratings are all larger numbers it might rarely happen, especially for top movies, this implementation is still wrong. I strongly recommend mentioning that in the instructions or stopping referencing it.
+
+I learned to use counter to read job statistics. That's something new to look at.

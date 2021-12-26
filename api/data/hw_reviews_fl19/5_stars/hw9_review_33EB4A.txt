@@ -1,0 +1,5 @@
+I like this assignment because I think it is really helpful and challenging. It provides me with a futher understanding of Spark knowledge and enhances my hand-on experience with pyspark.
+
+2.I am suprised that the third problem takes me a lot of time to finish. It took me a long time to figure out the what the problem asks and what correct spark shell to use.
+
+4.I would re-do the lab 8 and be more familiar with Spark shell. Also, I would review the slides and watch some Python programming tutorials before doing this assignment.

@@ -1,0 +1,1 @@
+Before doing this homework I was a little bit confused about the terminologies like reduce() function, Reducer, compute nodes, master nodes. The problems in this homework helped me better understand these concepts. I am surprised to find out that the number of reduce() functions in a Reducer can have a big impact on the runtime distribution of a MapReduce job.

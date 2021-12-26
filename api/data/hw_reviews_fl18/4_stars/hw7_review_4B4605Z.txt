@@ -1,0 +1,3 @@
+This homework was helpful in understanding the similarity measures we discussed in class, because I had to go back and dig into the slides a bit to fully understand what the math was doing. 
+The last question was also very helpful because I got a better grasp on collaborative filtering by performing it on paper. The first question was a good question but I felt that those concepts were not explained well enough for me to feel good about my answers. 
+Rating: 4.0/5.0

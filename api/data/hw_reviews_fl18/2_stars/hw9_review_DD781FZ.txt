@@ -1,0 +1,1 @@
+This homework has many typos or unclear instructions. For example: in problem 1, the provided code would cause error if we executed without changing anything. Another problem is code running in 2/e would cause out of memory. But we did not get notified on either of them, and we have to figure that out by ourselves. 

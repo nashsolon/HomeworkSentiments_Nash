@@ -1,0 +1,1 @@
+Though the assignment is not very difficult, it's a little bit time-consuming, because I have spent a lot of time on problem one. I need to review the slide and textbook to make sure my answer is correct. However, problem 2 and 3 is quite easy. All I need is just to simulate the map reduce progress by hand.

@@ -1,0 +1,2 @@
+I enjoyed the fact that this assignment forced me to learn how to implement collaborative filtering using MapReduce. I also liked how it forced me to understand the different comparators. However, I felt like a lot of the material was pretty repetitive with Lab 5. I think the most important thing I learned from this homework assignment was how to implement collaborative filtering using MapReduce.
+

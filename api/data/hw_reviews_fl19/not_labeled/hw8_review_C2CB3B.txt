@@ -1,0 +1,1 @@
+This homework was one of the more challenging ones so far. I liked that we had to use both Hive and Spark for this assignment, it gave more variation in work. I was surprised and worried to see so much of the grade for this homework dependent on the final problem; and I hope problems in the future aren't weighted as such.

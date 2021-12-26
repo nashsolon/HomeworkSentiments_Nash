@@ -1,0 +1,5 @@
+This homework took me the most time throung the whole semester for this course, beacuse I was pretty
+interested in applying spark to the PageRank algorithms. What's more, I almost forgot the Pig, 
+but by doing this homework, I can recalled some, keeping my knowledge freash, which was gppd.
+Finally, I treasured this opportunity to finish this job because I knew it was the last time of 
+doing homework, and I missed the feeling of obtaining knowledge every weekend. Bse luck and thank you Professor.

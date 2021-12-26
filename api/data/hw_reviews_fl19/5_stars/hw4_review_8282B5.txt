@@ -1,0 +1,4 @@
+What did you like/dislike about the assignment and why?
+I like this assignment very much! This assignment including both the report and the code, I think this is a very good way to review and have a deeper understanding of toolrunner.
+What is the most important thing you learned and why do you think so?
+The most important thing I learned from the assignment is how the toolrunner actually works in the driver and the mapper through implementing the mapper and driver with toolrunner by myself.

@@ -1,0 +1,7 @@
+What did you like/dislike about the assignment and why?
+
+I like the assignment when it appears math induction like Problem2. I like math so it’s my strength to show my work in the form of math. And I don’t like reading. The paper (in problem 3) is too long to read and the analyze is hard for me.
+
+What is the most important thing you learned and why do you think so ?  
+The most important thing I learned is “Bonferroni’s Principle” since it clearly describe how the “bogus” appears and how to avoid it as the data size keeps growing.
+

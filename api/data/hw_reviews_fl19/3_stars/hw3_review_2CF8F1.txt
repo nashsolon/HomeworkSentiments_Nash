@@ -1,0 +1,1 @@
+I really enjoyed the Skew questions as they made me think about effecient implementations in a fun algorithmic way. I was not crazy about the sentiment analysis question because I thought it was too open ended. To me the most valuable question was number 3 because it forced me to really try and understand how everything works at a high level

@@ -1,0 +1,1 @@
+In my opinion,this homework is meaningful.  I get a better understanding about the big data characters and some examples. It is interesting to put Bonferroni's Principle in a pritical problem and then solve the ploblem. What is more, by reading the artical, I do extract some useful modern approches about data set processing and their drawbacks andlimits. 

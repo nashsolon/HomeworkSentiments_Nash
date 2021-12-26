@@ -1,0 +1,3 @@
+For the coding problem. I didn't read the question carefully at the very start so I used default InputFormat in Driver, which makes the String process much harder and complex, and there was a bug(the format of mapper input doesn't match). I spend sometime to go over the previous PPT to find the correct InputFormat.
+
+I also encountered troubles when dealing with math problems. It seems that definition of Jaccard are not quite accurate under some circumstances. 

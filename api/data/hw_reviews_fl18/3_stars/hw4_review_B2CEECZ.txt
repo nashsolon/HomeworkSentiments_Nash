@@ -1,0 +1,2 @@
+From Problem 1, I get to know how to pass a parameter via command line. And I learned a lot about Java from programming AvgWordLength and LetterMapper. 
+From Problem 2, I figured out how to use a partitioner to count words. After finishing coding SentimentPartitioner and SentimentPartitionerTest, I understood the function of a partitioner in the Word Count Problems. What's more, I provided some suggestions to the problem.

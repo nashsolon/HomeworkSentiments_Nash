@@ -1,0 +1,5 @@
+1.I like this assignment because it is really challenging and helpful, especially for the coding parts. It provides me with a futher understanding of how a recommendation system works and the algorithm it uses.
+
+2.I am suprised that our second coding assignment is really easier than the first one. Maybe it is because we exercised a lot in the previous homework. The question itself is fair but it takes me much time to debug. 
+
+4.I would read the textbook chaper 9 first because i believe the contents in the textbook are really helpful.

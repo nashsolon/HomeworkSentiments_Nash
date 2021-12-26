@@ -1,0 +1,2 @@
+I gave this hw a rating of 4/5 stars - This homework was fine. I liked the last two problems but the first was a bit tedious with reading through the hadoop book as the questions were not all that clear. I think the drawing helped me understand the process better and the final two questions really helped me understanded the mapping and reducing in terms of what the computer actually does for you in between the two stages. Overall I think it really drew from lecture though and the slides which is helpul.
+

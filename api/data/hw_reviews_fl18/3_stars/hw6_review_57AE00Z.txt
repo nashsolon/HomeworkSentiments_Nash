@@ -1,0 +1,1 @@
+I liked implementing a mapreduce job from scratch. It was fun to think about what the two separate jobs should do, and how taking the output of one job as the input of another can make an overall very good MapReduce program. I wish I didn't have the starter code, because it confused me more than it helped. I got stuck and had to debug a lot with little lines.

@@ -1,0 +1,2 @@
+I disliked the instructions on this assignment. Although you could figure out what the instructions were asking for by looking at the example input and output, problem 3 for example never explicitly specified that the input should be read in as case-insensitive. If I could start this assignment over again, I would definitely schedule more time to it as it took me much longer than anticipated.
+

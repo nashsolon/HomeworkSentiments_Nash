@@ -1,0 +1,1 @@
+The lab 5 ask us to complete the whole mapreduce job by ourself, which is the first time that we write the whole part. It is really challenging~ I do not know how to compile job1 and job2 together, then I check the piazza to find if there are someone has the same problem. Fortunately I find the solution~ The second one makes us know more about the combiner.

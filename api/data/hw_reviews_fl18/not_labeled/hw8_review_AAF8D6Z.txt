@@ -1,0 +1,2 @@
+I feel moderate about this assignment. Especially the first question. I made a small bug to force convert the SUM(.)(should be double) to int, which makes the DUMP unable to print result in screen. It took me two hours to fix this bug.
+However, the other questions are moderate once the first one is solved.

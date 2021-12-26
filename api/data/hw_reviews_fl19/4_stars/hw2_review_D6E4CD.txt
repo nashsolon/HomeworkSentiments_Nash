@@ -1,0 +1,3 @@
+I think this assignment is really good for my understand and practice, since these problems greatly strengthen my understanding for mapreduce process in real world as well as the data flow.
+
+But I do consider problem 2&3 a little bit overlap with each other. I do think the coverage of the homework can be more various,instead of aiming at the class contents and theorical knowledge. Also, I find the contents of lab is a little bit hard and much more pratical so maybe adding lab contents to homework is also a good way!

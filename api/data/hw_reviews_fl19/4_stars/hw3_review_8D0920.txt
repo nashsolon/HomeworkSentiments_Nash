@@ -1,0 +1,2 @@
+I liked that this assignment made me think abstractly about skew/the effects of the number of mapreduce tasks. The assignment also forced me to walk through the steps of YARN, and where Hadoop touches each memory location. This is important because I need to understand the bottlenecks behind Hadoop. I believe this was the most important thing I learned because it is an essential component to Hadoop's architecture. 
+I also enjoyed that this assignment made me think through an example of word count, and enter commands as examples. 

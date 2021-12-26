@@ -1,0 +1,3 @@
+For these two problems, I like all these questions. 
+For Problem 1 and 2, the question asks us to apply what we have learnt in lab about using java to do the specific mapreduce job, which is Top N List. Question 1 is not difficult, but also not easy. It needs us to write code about 2 jobs. And do the sum of ratings in the first job and do the ordered output. Question 2 is not diffcult. It asks us to add a combiner to the job which we have written in question 1. And do some analysis about the result after changing.
+

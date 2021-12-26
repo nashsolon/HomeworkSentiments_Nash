@@ -1,0 +1,1 @@
+Homework 7 is relatively easy compare to previous HomeWorks. However, it took us some time to figure out the code for problem one. In addition, the calculation of cosine similarity between item and item in problem 3 is a little tricky, As the way of calculate similarity measure listed in the slides is different from the calculation listed in the book. 

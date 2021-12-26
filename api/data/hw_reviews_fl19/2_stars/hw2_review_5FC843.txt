@@ -1,0 +1,3 @@
+Overall, I learned a lot from this assignment because it made me reference the textbook to solve problems. The hints told us what pages to look and rereading these sections reinforced my memory. Drawing my own diagram made me recall what professor neuman discussed in lecture. The map reduce problems made me refer to the slides and also recall what I learned in parallel and concurrent programming. The problems were short, simple and made me learn. 
+
+

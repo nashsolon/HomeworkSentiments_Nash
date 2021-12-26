@@ -1,0 +1,15 @@
+i think this assignment is ok but not great. 
+
+The first problem helps me understanding and remembering characteristics of different datasets. 
+Also the d) and e) of first problem make me think differences between datasets. 
+
+The second problem is really interesting. 
+It shows something it's nearly impossible to detect a specific event.
+But im not pretty sure what's the meaning of this whole model.
+
+The third problem confuses me.
+I am not sure which model or product the auther is talking about and what exact method the auther is using.
+Lack of CS background could be one reason. 
+Im working on master degree in Quantitative Finance but i still want to learn about data science.
+So i took cse131, cse247 and sql course of Olin school.
+I hope lecturer will give more practical examples so that i can understand theories better.

@@ -1,0 +1,1 @@
+I like this assignment, this assignment really makes me have a deeper understanding of map reduce and HDFS database. The most importance thing i learned from this assignment is i know how the map phase, group sort phase, and reduce phase connected and how to work though it from raw data. 

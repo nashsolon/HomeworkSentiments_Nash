@@ -1,0 +1,6 @@
+• What did you like/dislike about the assignment and why?
+What I like about the assignment is that it helps me to better understand HDFS, what are namenode and datanode and how they work. It also helps me to better understand the mechanism of MapReduce, the input and output of each process.
+• What is the most important thing you learned and why do you think so?
+What are datanodes and name node and what they are used for. 
+• Assuming you could start over again(with working on the assignment),what would you do differently and why?
+I would read the recommended chapters more carefully so I could be more efficient when I do homework 2.

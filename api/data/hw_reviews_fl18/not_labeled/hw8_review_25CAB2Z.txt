@@ -1,0 +1,2 @@
+I thought this lab covered too much new material. I worked ahead of time and still found myself having to do a lot of work at the last minute. The point distribution was not very even and I feel like switching between pig and spark so quickly has made me confuse their syntax
+***

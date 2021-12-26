@@ -1,0 +1,3 @@
+This homework helped me get some practice with working with Spark. It took some time to get used to python syntax but a lot of it was quite straight forward. I am still unclear on Page Rank data representations in reality, but I feel like if I actually ran the algorithm/wrote the code for it, I would understand more. 
+
+Rating: 3/5

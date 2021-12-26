@@ -1,0 +1,4 @@
+1. I like the assignment very much. The assignment makes me know more about the character of HDFS and the MapReduce job.
+2. I have laerned the HDFS a lot. For example, the optimal number of redundant block copies, the advantage and disadvantage of distributed files system.
+3. What surprised me most is the sequence of doing a MapReduce job.
+4. Do this assignment a little bit early.

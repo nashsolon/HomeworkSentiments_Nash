@@ -1,0 +1,3 @@
+I like this home work very much. This homework helps me pritice my spark and hive skills. It also help me familiar with hive. Also it requires a concrete understanding of sql query.Also the project is interesting, it let us to track the analysis the information of products.
+
+The most important thing I learned is the usage of hive. It help to analysis huge amount of data. And also using spark can help data analysis a lot.

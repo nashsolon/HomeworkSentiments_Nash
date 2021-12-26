@@ -1,0 +1,2 @@
+The homework is actually interesting, I really learned a lot about spark shell and spark programming. I feel like the course at this moment is a liitle bit too fast. and I didn't understand everything after the class, but this homework is a real make up for that part.
+If I could start over again, I would start to go through all the slides and I won't delete the weblog files that I generated during the lab, that really costs me a lot of time to regenerate those files back.

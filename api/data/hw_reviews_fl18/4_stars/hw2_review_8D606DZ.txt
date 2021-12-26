@@ -1,0 +1,1 @@
+I prefer this homework than the previous one. It is more concrete and defined. And I feel the workload is about right. It does not consume too much time, but help us memory the commands and understand how map() and reduce() work. Especially I like it is paper-pencil, so that we don't need to write code.

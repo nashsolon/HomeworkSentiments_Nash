@@ -1,0 +1,3 @@
+I thought that the most useful part of this homework was that we had to write all of the code from scratch instead of using premade template files, which required a more in-depth understanding about the structure of a MapReduce program.
+
+I thought the worst part of this homework was that we had to compute communication costs for an arbitrary set of files, which didn't really help my understanding

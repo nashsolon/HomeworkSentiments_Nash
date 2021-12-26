@@ -1,0 +1,1 @@
+I thought this assignment was pretty cool. I really enjoy the RDD's and spark and how simple it makes the whole process. The whole framework of stages and tasks is still kind of confusing but in general everything run through pyspark is relatively easy to understand. This assignment was also rather reasonable in terms of time requirements.

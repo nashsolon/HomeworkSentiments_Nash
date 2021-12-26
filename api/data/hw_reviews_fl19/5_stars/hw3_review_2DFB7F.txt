@@ -1,0 +1,7 @@
+• What is the most important thing you learned and why do you think so?
+After finishing this homework, I've learnt how YARN works， the concept of skew and what we can do to reduce the impact of skew，why HADOOP executes data locally.
+
+•Assuming you could start over again(with working on the assignment),what would you do differently and why?
+I'll read the book Mining of Massive Datasets more carefully so I would be able to solve the questions more efficiently. 
+
+

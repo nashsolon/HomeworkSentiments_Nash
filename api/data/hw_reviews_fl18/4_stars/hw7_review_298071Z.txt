@@ -1,0 +1,3 @@
+I gave this hw a 4/5. This homeworks was different than the last two in that it was more conceptual than just coding, which is kind of nice 
+as the coding can be very time consuming when you run into errors which may take a lot of googling to solve. The last problem was a bit conusing as I was not sure what they were really asking for and computing the cosine values for such sparse data is confusing. Overall it was an okay homework I just wish the directions had been a bit more clear regarding the written responses.
+

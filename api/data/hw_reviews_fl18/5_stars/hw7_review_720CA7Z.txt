@@ -1,0 +1,1 @@
+homework 7 is kind of easy. And we are given two weeks to do it which is great. The content is closely related to the knowledge we have been taught. But I am still kind of confused about whether I should leave out the movies that one has rated and another has not when calculating the cosine similarity.

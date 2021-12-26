@@ -1,0 +1,2 @@
+The most interesting thing about this homework for me was that there was an opportunity to explore HIVE and Spark in order to create data analysis programs. 
+My least favorite thing was that there was too little direction in the last problem in the homework, and I felt like I just had to try to pick unfamiliar functions out of the Spark API to try to solve the problem.

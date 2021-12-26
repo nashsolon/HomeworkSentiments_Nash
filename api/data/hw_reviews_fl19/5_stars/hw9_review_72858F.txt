@@ -1,0 +1,4 @@
+1. I like the assignment very much. From the homework I learned tranforming data in Spark using Spark, joining datasets in SPARK and writing a SPARK program. 
+2. The most important thing I have learned is to use flume and master yarn to do the spark work.
+3. The working time surprised me a lot.
+4. I will do this homework a little bit earlier.

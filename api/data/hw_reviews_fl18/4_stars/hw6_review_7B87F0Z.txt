@@ -1,0 +1,3 @@
+Star Rating: 4
+
+This was my favorite homework assignment so far. I enjoyed how open ended-the questions were and hw much freedom we had to create our own map and reduce functions. Working with multiple jobs was fun as well. Looking forward to working with python and spark.

@@ -1,0 +1,1 @@
+This homework homework5 is more diffucit than the last one. The code implement is not that hard but it asks many theoratical questions, which is very difficult to state it clearly. In addition, it is very easy to make some small mistakes while configuring and running the hadoop job thourgh the command line, we need to check the command very carefully.

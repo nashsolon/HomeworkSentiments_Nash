@@ -1,0 +1,4 @@
+Overall I was really frustrated with this hw, in particular, problem number 4 since we have had no prior experience with drawing those data representation graph. I also have never seen the distincyion of raw input data vs links format data and it didnt appear in the slides. Problem 3 also was something we have never seen before and I wish it was brought up in class. Other than that problems 1 and 2 involving RDD’s were fair game and I think they tested my knowledge. If I were to do this hw again I would take out problem 4 as there was not much guidance in how to do solve it. At the end of the say the focus should be to learn and this was just miserable and I didnt feel like I tested and improved my knowledge.
+HW rating star 1
+
+

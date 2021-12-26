@@ -1,0 +1,1 @@
+I like this homework more than the previous ones. It does help us understand how map reduce is executed, and it does not include the tedious reading problems like the first one. I also like that this homework does not require us to write code. But I feel the problem 3 is kind of ambiguous. I wish later homework can be more definite.

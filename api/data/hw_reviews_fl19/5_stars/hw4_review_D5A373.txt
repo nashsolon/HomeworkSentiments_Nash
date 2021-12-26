@@ -1,0 +1,4 @@
+I like the problem 2, which is kind of different from the previous homework, asking me to implement a MapReduce job by coding.
+This funnier than reading some papers for.
+
+The most important thing I learned from this homework is how to build a useful mapper. In a distributed system, good mapper function improve the performance a lot. That should be in good design.

@@ -1,0 +1,1 @@
+I think this homework introduces us further into implementing the mapreduce program and the concept of comparator, so its material is good. Also, it is less ambiguous than previous homework that involves only text because of its focus on coding. Overall, I like this homework and hope that future homework will resemble this one.

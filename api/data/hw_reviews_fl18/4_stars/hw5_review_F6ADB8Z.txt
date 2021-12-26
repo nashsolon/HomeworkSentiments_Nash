@@ -1,0 +1,1 @@
+This homework is about multiple keys, secondary sort and write your own mapper, reducer. The content is pretty fun. But I found the instruction of problem 1 and problem 2 to be confusing. The directory of problem 1 was wrong, and fixed later. The instruction of 2 didn't specificly say the form of sample output, so I figured out after a long time. 

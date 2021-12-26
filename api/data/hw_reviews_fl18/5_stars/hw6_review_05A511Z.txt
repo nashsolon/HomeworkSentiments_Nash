@@ -1,0 +1,1 @@
+This homework is the first time we get to implement a completely new mapreduce job by ourselves and in my opinion the experience is pretty good. I was able to write out most of the code based on past provided code and help from the TAs, so overall I like this homework a lot.

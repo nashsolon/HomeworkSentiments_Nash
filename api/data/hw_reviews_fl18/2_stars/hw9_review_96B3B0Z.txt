@@ -1,0 +1,1 @@
+I thought that this homework assignment was especially hard and had a lot of challenging aspects to it. I was not super familiar with scala commands and joins in pyspark so this assignment was definitely an adventure for me. That said I thought that this was an extremely helpful assignment and taught me alot of great things!

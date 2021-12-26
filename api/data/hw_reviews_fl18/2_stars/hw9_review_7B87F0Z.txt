@@ -1,0 +1,3 @@
+Star Rating 2: 4
+
+I didn't have enough time to do this homework assignment this week. It ended up being a mad dash to finish on Sunday which is never fun. I liked learning how to use the spark shell, though it seems counter-intuitive to the way I'm used to using it in a notebook environment.

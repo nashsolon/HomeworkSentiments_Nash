@@ -1,0 +1,1 @@
+This homework I think is good. It help me gain a lot of hands-on experiences and help me have a better understanding about job configuration and partitioner. Also it helped me to know about how to debug a MapReduce project. Homework 4 did not take me so much time than homework 3 which I think is really good.

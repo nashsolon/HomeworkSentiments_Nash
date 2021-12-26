@@ -1,0 +1,2 @@
+I definitely feel more comfortable using Spark after this problem set. As I was going through the writing our own application part of the homework, I learned that pyspark will allow me to make my job process even more easier by not having to compile. I was previously using Scala a lot since I was more used to Java, but the appeal of not having to compile was what made me switch over to Pyspark. It was very fun to try out coding a job in python, and it came to me as a vast difference of worktime in making such a job from trying to do the same thing with Java.
+

@@ -1,0 +1,7 @@
+Name: Yunxiu Qiu
+Wustl key:yunxiuqiu
+
+1.I like the assignment because it provide me a chance to read papers and get more knowledge about this field. Also it serves as a revision of what we learnt in class.
+2.I think for me the most important thing is that I learnt an important rule in the paper:  simple models and a lot of data trump more elaborate models based on less data. Because in future I will have many chances to deal with data issues, and choosing an efficient way will be of vital importance.
+3.I was surprised by the truth that wikipedia articles can also be considered as big data, because in my mind it’s not a typical dataset.
+4. I will read the paper The Unreasonable Effectiveness of Data more thoroghly, because it give me a clear outline of the data analysis process.

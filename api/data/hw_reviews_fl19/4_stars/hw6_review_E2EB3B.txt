@@ -1,0 +1,3 @@
+i like the coding question and the cosine similarity example.
+imorptant thing is that i learned how to write custome writable for different data format.
+nothing really surprised me. and i would spend more time on the memmory usage of different sorting algorithm. to know more about the background of memory allocation. 

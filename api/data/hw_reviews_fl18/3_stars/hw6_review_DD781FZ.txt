@@ -1,0 +1,1 @@
+This homework in general is easier than previous one. The first problem is able to complete when follow the lab instruction. The only challenge is that we need to write the whole driver, mapper and reducer class, which we never did before. The second problem is not hard to solve, but some explanation requires careful thought.

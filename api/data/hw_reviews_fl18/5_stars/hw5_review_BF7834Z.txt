@@ -1,0 +1,1 @@
+This homework have three questions. One is custom writablecomparable. Two is secondaty sort, and the other is creating an inverted index. I think both three are very good. By writing code of these problems, I learned more. It is a good homework that I take. Very interesting!Hope the next homeworks will be the same!

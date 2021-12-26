@@ -1,0 +1,1 @@
+h4 4 is a little bit harder than previous homework because the first time it demands the code work. I take much time to fimilar with the hadoop programming stuff.

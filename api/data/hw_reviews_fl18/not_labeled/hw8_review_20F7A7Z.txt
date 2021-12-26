@@ -1,0 +1,1 @@
+I liked this homwork a lot. I think along with the labs, it taught us a lot about how the different languages work. The related lecutures had good theory related to the different languages and how their runtime systems behave differently. I'm not really sure why we used pig at all because that was incredibly tedious and slow.

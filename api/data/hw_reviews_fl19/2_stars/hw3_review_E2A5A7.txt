@@ -1,0 +1,7 @@
+In this assignment, I liked that we had to do a bit of self study in order to come up with the answers. For example, question 2 on skew required us to really read and learn from the textbook, since (I don't believe) it was talked about in class. I disliked the last part of the last question on data locality optimization because I felt like it was pretty difficult to search for the concrete answer in the readings.
+
+The most important thing I learned is where data is stored during the map reduce process. This will help provide insight on map reduce job failures, because they might be able to be explained by where memory might have been lost during the job.
+
+I was surprised that results from the lab played an integral part in answering the hw questions. 
+
+Going off on the above point, if I had to do this homework again I would keep more detailed notes from lab2 so that I could have directly referred to them.

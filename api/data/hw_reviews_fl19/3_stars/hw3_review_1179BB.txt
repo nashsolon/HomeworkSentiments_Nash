@@ -1,0 +1,5 @@
+I can only say that this assignment is okay. The good thing about this homework is that this homework is a good review for what we learned in class and in lab. However, lots of questions in this homework make me quite confused and do not know what to answer in order to get full credit. For example, the second question of problem 3 asks us to describe what is meant by a term, which really makes me confused.
+
+The most important thing I learned is the Hadoop MapReduce job Execution.I learned the processes that run on master and worker nodes, and the storage location of data. 
+
+ 

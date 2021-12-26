@@ -1,0 +1,3 @@
+In this assignment, I liked running through the cosine similarity mapreduce calculation. It was cool to visualize 2 mapreduce jobs working to create a final output which is new since we're only used to doing 1 job. I disliked the fact that there were quite a few movies, users, and ratings because it felt a bit tedious to do the calculation by hand when the same lesson could have been learned through less.
+
+The most important thing I learned in this assignment is the power of adding configurations to your map reduce. This is an extension of the lab, but nonetheless I thought it was very cool how we could change our output just by the arguments passed in the command line, it's much easier than hardcoding.

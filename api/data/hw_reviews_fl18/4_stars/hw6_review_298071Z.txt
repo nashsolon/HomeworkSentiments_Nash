@@ -1,0 +1,3 @@
+I gave this hw a 4/5 (as i seem to do most weeks). I felt there was not much direction in makeing the mapreduce progeam which is good except for when it is unclear of exactly how jobs should be combined and such. However, it made me review quite a bit regarding mapreduce programs and I likes how it was mostly application with fewer questions as well as how it mostly revolve around one program instead of lots of smaller things which allwed me to put all of my focus on one thing. It did take quite a while though especially in problem 1 because of the unclear directions
+
+

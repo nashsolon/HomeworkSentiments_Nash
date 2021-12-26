@@ -1,0 +1,1 @@
+In this homework, I am more familiar with the syntax of the spark. Although I am not very good at python, I still find it really easy to manipulate and understand. It's actually a little bit confusing to understand how spark-submit works. But finally, I got through it. It's really helpful for me to understand all of these stuff.

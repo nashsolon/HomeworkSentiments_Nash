@@ -1,0 +1,3 @@
+ liked this homework because i didn’t find the coding part too hard. Instead of spending a ton of time trying to get the code to work, I spent the time understanding the “why” behind the code working, which I feel like really enhanced my understanding of the Mapreduce job. I also think the write-up questions did a good job of supporting the code and weren’t too thorough.
+
+

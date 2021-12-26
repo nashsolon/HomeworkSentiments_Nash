@@ -1,0 +1,3 @@
+I really enjoyed problems 1, 2 and 3 on this homework. Problem 1 had some huge advantages such as teaching me about why the block size is 128 MB and other factors about HDFS. Problem 2 helped me understand mapper inputs, outputs and reducer inputs and outputs. Problem 3 solidified these concepts. 
+
+5/5 stars

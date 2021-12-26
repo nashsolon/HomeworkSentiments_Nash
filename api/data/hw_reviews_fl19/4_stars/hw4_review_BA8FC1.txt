@@ -1,0 +1,3 @@
+I like the idea of using toolRunner to make configuration. It makes things much easier instead of directly manipulate in the Driver class. I also like the idea of testing locally in Eclipse since the compilation takes time. Generally, with the help of these tools, we could compile, run, and test our program faster.
+
+I would read the slides more carefully since actually the usage of the command line has been specified in the slide. It took me a while to be able to correctly pass in the parameter when doing the partitioner. I also would read the examples in the textbook first. These examples helped me to finish this homework.

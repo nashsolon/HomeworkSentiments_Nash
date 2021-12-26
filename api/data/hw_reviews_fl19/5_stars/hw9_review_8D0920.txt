@@ -1,0 +1,11 @@
+What I liked about this homework was that there was a very logical flow to
+the way the problems built off on of another. Sometimes with works, the problems
+can be scattered in terms of subject material, but for hw 9 we had 3 problems
+that were very connected and let me do a deep dive into Spark. I appreciated this
+assignment because it made me think in terms of how to practically code, and also
+in terms of what's going on behind the scenes for memory placement and efficiency
+purposes. 
+
+I would've loved to do more PageRank applications, and think more about that for this
+hw too. I think this hw was a great one, so I don't have many complaints and
+I think this was a solid hw overall. 

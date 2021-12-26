@@ -1,0 +1,1 @@
+I thought that this assignment was not that bad at all. Doing the labs really helped my understanding of the material and helped me to successfully code this lab. Overall, not bad, that said though figuring out how to read in the file path and file name inside the mapper was a little difficult and took a lot of thought.

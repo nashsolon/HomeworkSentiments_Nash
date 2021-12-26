@@ -1,0 +1,3 @@
+What did you like/dislike about the assignment and why?
+I like this assignment very much, since it has a close relationship with the lecture content, and it deepens my understanding on the Map and Reduce input and output process by doing some calculation by ourselves.What is the most important thing you learned and why do you think so?
+The most important thing I learned is that when we learn new things, in addition to the concept we need to do some exercise to apply what we learned from class. This way of study can benefit in all courses.

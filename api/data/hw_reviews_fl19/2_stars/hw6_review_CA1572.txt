@@ -1,0 +1,4 @@
+This week's homework does a very bad job in instructions. It starts from the lab instructions which is also foundation of problem 2. The first step to build the program lacks important instructions. The name of package in StringPairWritable is even wrong. Some methods we should implement are not mentioned at all. Problem 3 also doesn't mention the algorithm it uses. Anyway it's very frustrating to answer questions. 
+
+I learned more about collaborative filtering when reading some articles. For example, user-based approaches can be better for social media websites.
+

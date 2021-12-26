@@ -1,0 +1,1 @@
+This is my ninth homework. This homework is mainly about dealing data using spark, such as joining dataset and counting records. It also includes solving page ranks. I think this homework is pretty challenging. My teammate and I have different results in almost every question. But we deal with the questions and some of them are solved. I will rate this homework a 4 star.

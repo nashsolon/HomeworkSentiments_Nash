@@ -1,0 +1,3 @@
+The most important thing I learned from the homework is the skew of the runtime. This will absolutely helpful in the upcoming application of cloud computing. It is also important for a cloud computing developer.
+
+If I start again I will go though the course materials first and then do the homework. That would help me write the answer without browsing though the textbooks.

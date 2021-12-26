@@ -1,0 +1,2 @@
+It's one of the most challengest homework we have so far, I really like it that for prmblem 3, we actually have different conclusions as we have about these two different methods during the course. that makes me think more about this algorithm and have a better understanding about communication costs.
+The most important thing I learned from this homework is how I can design my own mr job using this kind of structure, and concatenate different MR job to perform more complex tasks.

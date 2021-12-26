@@ -1,0 +1,4 @@
+For these three problems, I like all these questions. 
+For Problem 1, 2 and 3, the question asks us to apply what we have learnt in lab about using java to do the mapreduce. Question 1 is not difficult, it only needs to count the occurance of full. Question 2 is a little complexed. It asks us to do some analysis about secondary sort that we do in lab first, and then to do some changes and improve. This is helpful, since we do not know how to do the lab, but also know why we do this.
+For question 3, it is not that much difficult, but it is takes time for me to figure out the word meaning for the question.
+

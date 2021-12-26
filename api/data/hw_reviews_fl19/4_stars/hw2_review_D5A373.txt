@@ -1,0 +1,11 @@
+What did you like/dislike about the assignment and why?
+
+
+
+I like the problem 2 and 3. These two questions help me a lot in understanding how the Mapreduce work. And I like the emample provide by the problem 2. On the other hand, I slightly dislike the problem 1, this is because it ask me to do some reading, which I don't like it.
+
+
+Assuming you could start over again (with working on the assignment), what would you do differently and why?
+
+
+I would like to read more details about Mapreduce. I fell it's really useful for many cases in that area, and the calculate process is funny.

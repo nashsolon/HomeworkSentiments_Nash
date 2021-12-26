@@ -1,0 +1,5 @@
+I like this home work very much. This homework helps me pritice my hadoop commands. It also help me familiar with hadoop. Also it requires a concrete understanding of map reduce.
+
+The most important thing I learned is the idea of map reduce. This is brillent idea. It is a little bit like the TreeMap in Java.
+
+

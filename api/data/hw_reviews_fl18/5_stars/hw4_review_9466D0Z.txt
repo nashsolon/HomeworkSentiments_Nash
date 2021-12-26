@@ -1,0 +1,5 @@
+For these three problems, I like all these questions. 
+For Problem 1, the question asks us to apply what we have learnt in lab and from textbook about using tool runner for map reduce job. 
+	For problem 2, the question asks us to apply what we have learnt in class about the knowledge of partitioner. 
+	Through these two questions, I am not only apply the knowledge about map reduce, but also the knowledge about coding. Based on this, I grow an deep understanding about the job execution of map reduce.
+

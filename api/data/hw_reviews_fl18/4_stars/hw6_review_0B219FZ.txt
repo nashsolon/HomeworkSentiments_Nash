@@ -1,0 +1,1 @@
+I was asked to implement a MapReduce program from scratch in homework 6, which is challenging and daunting. However, the homework / lab instruction pointed to Mahmoud Parsian's code example, which greatly helped my work. Overall, homework six is an easy one. I would love to know how to chain jobs, as has been posted on Piazza.

@@ -1,0 +1,3 @@
+For these three problems, I like all these questions. 
+For Problem 1, problem 2 and problem 3, the question asks us to apply what we have learnt in lab and from textbook about the Map Reduce Job. Through this, I not only remember what the mechanism of map reduce is, but also have a deep understanding about what actually the map reduce job works. Especially problem 2, using the knowledge of “skew” to test the understanding for map reduce job. For problem 3, the question talks about the detailed part: job execution, which is useful for us to understand the schedule and benefit of some mechanism. 
+

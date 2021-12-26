@@ -1,0 +1,3 @@
+Homework M was a really cool assignment! For question #1, we found writing the Spark code to be a breeze considering most of it was given to us in a previous lab. We just replaced the teleportation constants for both parts a and b. Problem #2 was another small modification of this code. This took a while to run but was similar conceptually. Problem #3 was an interesting problem that will help our conceptual understanding for our final project, so I enjoyed it. Great way to end our semester!
+
+Rating: 5/5

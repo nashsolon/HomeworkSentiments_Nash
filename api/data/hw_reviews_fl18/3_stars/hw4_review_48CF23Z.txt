@@ -1,0 +1,1 @@
+In this assignment, I first worked with Eclipse in the virtual machine and a more common Java environment. It's interesting but it also cost much more time than I expected. Also, I think this assignment is useful too because it helps me recall much knowledge in the class and makes me understamd them deeply.

@@ -1,0 +1,1 @@
+This homework was a bit hard. I found instructions a bit confusing. For example, what do you mean by difference in job excecution? Also I struggled a lot to under stand how distributed cache works. Turns out you just had to create a new file object. It was that easy. Anyways, carry on.

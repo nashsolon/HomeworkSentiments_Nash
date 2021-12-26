@@ -1,0 +1,1 @@
+this homework is a lot. Takes a long time to do but is a good practice for us to really understand the RDD stuff. I like how it helps us to reinforce our knowledge but I do think that if this homework can be 1 problem less, length-wise it will be better. 

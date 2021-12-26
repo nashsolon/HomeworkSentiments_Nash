@@ -1,0 +1,4 @@
+For problem 1, we loaded, filtered and displayed the web server logs in a formatted way.
+For problem 2, we explored the Loudacre web server log files using key-value Pair RDDs.
+For problem 3, we wrote a simple SPARK program in Python or Scala that counts the number of JPG requests in the web log data. 
+For problem 4, we investigated the data representation of the web graph used in the PageRank algorithm.

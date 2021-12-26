@@ -1,0 +1,2 @@
+The most important thing I learned was making a diagram of the blocks, nodes, and master node. I initially had trouble with it, but was able to complete it after help from TA. The P1 partD helped me visualize the big picture. I was surprised that applications with low latency really does not work well in distributed environment. I did not think of that before. I enjoyed the mapreduce problems in this problem set because they were quick and easy.
+

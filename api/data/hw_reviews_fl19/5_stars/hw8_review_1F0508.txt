@@ -1,0 +1,3 @@
+I liked this homework because the tasks were relatively simple compared to other homeworks but still I got to get a good grasp of using common spark functions.
+
+One of the things that surprised me was the idea of not storing data by pipelining the data processing if possible. Not something I would intuitively think a program would do.

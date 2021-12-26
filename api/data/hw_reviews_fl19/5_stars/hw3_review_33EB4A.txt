@@ -1,0 +1,5 @@
+1.I like this assignment it provides me with a further understanding of MapReduce procedures by asking some detailed-implement questions.
+
+2.I am suprised that we still don't have any coding parts to this assignment and the difficuility of the assignment is really fair. We could find solutions for most questions on lecture slides and lab instructions.
+
+4.I would re-do the lab 2 and read the relative chapters on the textbook because some of the materials/questions in this assignment are really high-level thinking.

@@ -1,0 +1,1 @@
+I thought this homework was pretty fun overall. I liked how we actually did some heavy computations on some real data. I also liked the pagerank algorithm and thought that was really cool.I also like how we could apply the things we learned in class to do some cool analysis/data mining on some real-ish fake datasets.

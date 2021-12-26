@@ -1,0 +1,3 @@
+this hw6 required us to code a lot. I just want to say thanks to professor who providing a very useful github link, so that I can review the code and implememnt it into my program.
+At first, I made a lot of mistake that I don't know the first output I get should be used as an input for second reducer. I was stuck with this so long. Luckily I figured it out.
+

@@ -1,0 +1,1 @@
+In my opinion, this homework is kind of boring. The last two problems about Spark are hard and helpless. Although most knowledge is covered by the slides, few of slides can be take as reference as more examples are needed. Without the examples, it is hard for me to have a deep understanding of Sparks. So I had a hard time to work with this homework.

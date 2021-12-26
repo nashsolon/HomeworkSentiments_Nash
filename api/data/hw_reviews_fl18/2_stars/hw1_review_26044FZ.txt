@@ -1,0 +1,5 @@
+I think hw1 is a qualified test but not a good one.
+
+The first question is about the characteristic of Big Data. It deepens my understanding about the characteristic of Big Data. The second question is about Bonferroni’s Principle. It uses Bonferroni's Principle to tell us what we mine in the Big Data could be random. The third question is about read an academic article. It improves my academic reading.
+
+But all of these questions are a little not practical and are just close to the theroy. Maybe there should be some practical programming questions. I know this is our first homework, so it can not be much programming tasks. But if there is a task that we need to open a data file to see data and really feel what is Big data in virtual machine closely, it will be better.

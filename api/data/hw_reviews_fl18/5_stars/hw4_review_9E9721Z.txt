@@ -1,0 +1,2 @@
+This homework is really really difficult. The partitioner code part is extremely difficult because there are no example of slides. I have to read a lot of materials to do this  
+The mapper and reducer is much easier because of the example in the slides. In general, this homework help me learn a lot because I need to learn lots of materials.

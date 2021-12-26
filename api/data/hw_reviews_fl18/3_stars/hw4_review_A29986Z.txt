@@ -1,0 +1,1 @@
+I thought this homework was fine except for the bug I got stuck on for like an hour and a half and that was the fact that you have to pass in a freaking 0 or a 1 for boolean parameters when passing in parameters with the -D flag. I will never get back those 1.5 hours spent trying to debug and it's annoying because it was nowhere in the slides or even the apache documentation. 

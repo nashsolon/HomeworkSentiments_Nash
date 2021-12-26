@@ -1,0 +1,1 @@
+This makeup homework is pretty hard and the instructions are unclear. The 3 problems mainly focus on realistic big data application which includes pageRank and warehouse selection. With sufficient background of basic logic and algorithm introduced in class, I got to know more about implementation of these algorithm and how it works after displaying the result of each iteration. 

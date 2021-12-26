@@ -1,0 +1,1 @@
+I really liked this homework assignment, especially the part about map reduce which I think is really cool. The first question had many parts and was slightly repetitive of things we already did, but overall I thought this assignemnt was interesting and enhanced my understanding of how mapreduce works.

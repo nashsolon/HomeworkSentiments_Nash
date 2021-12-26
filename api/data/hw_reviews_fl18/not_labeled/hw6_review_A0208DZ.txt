@@ -1,0 +1,1 @@
+In this homework, i practiced the top n list algorithm, which is a really useful technique in practice. I wrote the mapper, driver, and the reducer for aggregating the ratings and select top N elements. Also, in the second problem, I learned how a combiner work on the data and how can it be used.

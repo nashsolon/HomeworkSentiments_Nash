@@ -1,0 +1,12 @@
+What did you like/dislike about the assignment and why?
+
+The assignment helped me better understand characteristics of Big datasets and recap the simple mathematics I slightly forgot about.  Although instructions were clear, some questions seemed to have multiple answers based on how we interpret the class slide/articles assigned.  
+
+What is the most important thing you learned and why do you think so?
+The most important and interesting thing I learned from the homework is from the third question in which I learned about usage of unlabeled data and labeled data.  Although I understood the difference between the two data types, I did not truly see what it meant to be of those two characteristics.  The examples from the article "The Unreasonable Effectiveness of Data" helped me clarify that the way of processing/analyzing unlabeled data can be differ from the labeled data. It led me to try to label my data when possible so the amount of data for research does not get bigger. 
+
+What surprised you, and why?
+What surprised me the most is also from the third problem.  The fact that patterns can be detected from the unlabeled data when large information is available led me to think about the strength of CS.  
+
+Assuming you could start over again (with working on the assignment), what would you do differently and why?
+If I could start over the homework again, I will read the reading from the second problem more carefully.  Although I read the problem thoroughly, I still misunderstood the probability the question wanted me calculate.  

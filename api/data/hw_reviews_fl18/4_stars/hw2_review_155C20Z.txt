@@ -1,0 +1,2 @@
+This is my second homework of CSE427s. HW2 is generally about the structure of HDFS and procedures of a MapReduce program. And they are basic concepts of the course. Therefore, hw2 is not very hard, it questions multiple times which is time-consuming but very helpful to familiarize myself with the process of a MapReduce program. In all, I will rate 4 stars.
+

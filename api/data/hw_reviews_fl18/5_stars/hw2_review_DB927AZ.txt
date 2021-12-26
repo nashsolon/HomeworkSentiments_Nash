@@ -1,0 +1,1 @@
+Compared to homework 1, homework 2 is more connected to the slides and examines our understanding of the strutcure of HDFS. This homework helps me review the knowledge of mapreduce and lets me which part of knowledge I should be more familiar with. The completion of this homework gives me a sense of achievement.

@@ -1,0 +1,9 @@
+Regarding this assignment, I really liked question 2. This was a challenging problem that required quite an amount of thinking to solve (even using the textbook example as a guide). It also helped us see how the sheer amount of data can lead to "false accusations." I did not like question 1e), I don't think listing data types really helped me learn anything new, and in general it seemed a little weird to describe some data types (like the links in the wiki pages).
+
+What surprised me most in this assignment was part of the conclusion from question 2. as our parameters become more specific (3 people visited same hotel 3 separate days, compared to 2 people visited same hotel 2 separate days), the chances of false accusations became lower by incredibly large magnitudes. 
+
+Assuming I could start this assignment over, I think I should have reread the powerpoint slides before I answered the first questions. Those questions were a great way to reiterate what we learned in class, as the format was almost exactly as we covered it, I had to rewrite some of my answers after I relooked at the slides. 
+
+TESTING
+
+Star rating: 4/5

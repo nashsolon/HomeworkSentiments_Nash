@@ -1,0 +1,1 @@
+I thought that this homework was good. It really reinforced some ideas that we went over in class, such as how a Hadoop Distributed File System works and how MapReduce works. In particular, I really enjoyed the MapReduce problems as we got to see how it works on a small scale.

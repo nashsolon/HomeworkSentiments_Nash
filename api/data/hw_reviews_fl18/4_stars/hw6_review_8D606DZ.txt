@@ -1,0 +1,1 @@
+This is a nice homework. In general it is not too hard since the lab instruction gives us some written up code on GitHub so we just need to made some modification. On the other hand I did get stuck and spent a lot of time on some simple error. If there is a way to avoid it, that will be very helpful. Maybe I should try peer coding.

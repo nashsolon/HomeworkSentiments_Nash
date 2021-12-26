@@ -1,0 +1,5 @@
+I would rate this assignment a 4/5 because it effectively taught me how to write my own map 
+reduce program and helped me understand the importance of combiners. Although this homework
+was better than ones in the past, I feel like the assignments could be more exciting to work. 
+This one was better because I can see how I could use this in the real world and the movie 
+aspect was more exciting and enjoyable to work with than previous assignments. 

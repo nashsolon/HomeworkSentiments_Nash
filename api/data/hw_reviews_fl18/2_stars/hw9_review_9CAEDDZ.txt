@@ -1,0 +1,1 @@
+This homework was not my favorite one. While it was better than the last one, I enjoyed the homeworks more when they involved Java. I especially did not like problem 3, since it took a while to figure out how to properly run the join command without running out of memory.

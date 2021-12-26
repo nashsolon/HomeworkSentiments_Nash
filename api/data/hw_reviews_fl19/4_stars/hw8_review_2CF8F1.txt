@@ -1,0 +1,1 @@
+This homework was really fun for me, I really like Python and am glad to move away from Java. I think the most important part of this homework was learning how to manipulate and load data in spark and hive.

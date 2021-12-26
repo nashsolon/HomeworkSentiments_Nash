@@ -1,0 +1,14 @@
+I think this homework was great to do because it was so involved with
+Hive and spark. I esepcially enjoyed the Hive components because there wasn't
+as much setup as typically involved with a map reduce job, but we were still
+doing something significant. It required me to think a lot on my feet and to 
+think about how best to run queries on a dataset. 
+
+I also enjoyed how there was a story associated with everything we were doing because
+it really made me think we were doing some sort of real life task that a data scientist
+might do, and these tools that we're using are especially relevant.
+
+The spark part, while still interesting, I didn't like as much because it didn't make
+as much sense to me why we were doing what we were doing and also what we were looking at.
+I look forward to doing more Spark though because I know it is relevant for the industry
+and I enjoy using Python. Perhaps we could use more class or lab time with Spark. 

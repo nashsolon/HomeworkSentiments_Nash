@@ -1,0 +1,1 @@
+This is the first homework with coding. I got some problem working with my teammate but we figure it out. And I met some troubles while I submitting the code via Virtual Box. It'll be good next time. Working on VM machine and eclipse is so frustrating. Couldn't we use something like IntelliJ? It's been 4 years since I gave up using eclipse.

@@ -1,0 +1,3 @@
+I like this home work very much. This homework helps me pritice my hadoop commands. It also help me familiar with hue. Also it privides a more detailed understanding of map reduce.
+
+The most important thing I learned is the deatil of map reduce. It helps me uderstand data locality. And it also help me understand the importance of shuffle.

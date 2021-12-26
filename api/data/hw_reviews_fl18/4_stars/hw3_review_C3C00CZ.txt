@@ -1,0 +1,1 @@
+I liked the first part of the assigment where we used the command line to run the mapreduce job. I also liked the 2nd question, because I think that the skew is important to think about. I was not a fan of the third question because it was too open-ended, and I wasn't sure what I was supposed to include in my answer. 

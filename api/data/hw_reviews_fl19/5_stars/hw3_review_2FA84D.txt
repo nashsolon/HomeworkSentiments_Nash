@@ -1,0 +1,5 @@
+I liked to do the analysis of mapreduce result and possible ways to improve the mapreduce process. 
+However, I think it will be more helpful if we are given with more clear and detailed problem descriptions. 
+I was little confused of how to answer problem 2 (b). 
+The most important thing I learned from this homework is how to resolve a possible skew since it will be my job to handle if I am given 
+mapreduce assignments.

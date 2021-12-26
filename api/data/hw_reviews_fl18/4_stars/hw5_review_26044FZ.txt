@@ -1,0 +1,4 @@
+I think this homework is a meaningful one.
+Many knowledge is examined in this homework such as secondary sort, custom writables, custom comparator, custom partitioner.
+But i think professor could give us more difficult task. And the task needs to be more practical.
+Therefore, this homework is good but not the best.

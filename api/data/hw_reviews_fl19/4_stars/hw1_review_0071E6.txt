@@ -1,0 +1,2 @@
+1. I like the first problem because it makes me have a deeper and better understanding of characteristics of big data. Specifically, at first I'm little confused about the characteristics infinity and complexity. However, after reading the textbook and writing the first problem, I think I got it.
+2. The most important thing is that I learn a lot about log_data. Before this homework I just have a superficial understaning about access_log data. But now I know log data has lots of information and it usually consists of seven parts.

@@ -1,0 +1,7 @@
+1.I like this assignment. Because it helps us deepen our understanding of how the mapreduce job execution actually work in practice, and we can use this knowledge in future when we do cloud computation.
+
+2.The most important thing should be the skew of data.Because it tells us about one of the possibly appearing problems when running mapreduce program. And we learnt how to deal with this issue.
+
+3.I was surprised by the different notation used in MMDS and HTDG.Because the meaning of reducer is different in those two terms, which is quite confusing.
+
+4.I think I will run the word count mapreduce program again and become more proficient in it.

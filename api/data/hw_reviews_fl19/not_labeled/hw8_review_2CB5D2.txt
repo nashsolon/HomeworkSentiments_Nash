@@ -1,0 +1,2 @@
+This homework is very helpful for us to understand the Hive and SPARK better. From problem 1, we get farmiliar with the Hive operations. From problem 4, I know the advantages of using pipeline in the SPARK, and it saved lots of memories. And through problem 5, I know how to use the Extract Transform load(ETL) operations.
+

@@ -1,0 +1,7 @@
+I really like all of the questions this time, especially the first one. Question 2 and 3 are just questions with some calculations, but question 1 allows me to review the process of HDFS and the relationship between namenode and datanode, which is really helpful.
+
+Like I said above, I think the most important thing I learn is how HDFS works because it gives me idea how data are processed, read, stored in real world, and I believe understanding this could be useful
+
+Nothing surprises me which is what surprises me this time
+
+If I could start over again I would try to do a close book homework, it helps me to remember the concepts

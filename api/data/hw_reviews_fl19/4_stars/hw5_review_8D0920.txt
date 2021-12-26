@@ -1,0 +1,9 @@
+What I did not like about this homework was all the dependencies needed to implement
+a relatively small amount of code. I ran into several errors, even though the code was correct,
+because the imports were off.
+
+I did like walking thru the example of the similarity measures, and also the thought needed 
+into going over which ones are useful and why.
+
+What surprised me was how simple the code was to execute. If I could do things differently 
+I would have looked more directly at the book beforehand. 

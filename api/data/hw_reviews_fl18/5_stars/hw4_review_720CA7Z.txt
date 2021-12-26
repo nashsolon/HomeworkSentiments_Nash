@@ -1,0 +1,1 @@
+This homework is much harder than last 3, and it took a lot of time. Because there are lots of configurations to set. Meanwhile, I had to go over the previous slides and labs to make sure I was doing the right thing each step. But I think it is a good homework for me to get familiar with hadoop.

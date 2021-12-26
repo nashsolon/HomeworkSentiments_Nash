@@ -1,0 +1,3 @@
+this homework covers almost everything we learnt last week, help us review and dig more about the Hadoop Distributed File System.
+But the question2 and question3 I think actually are the same thing, both about the input and output of the mapreduce process. I think it would be better if one of these 2 questions changes into some other questions.
+Additionally, I would appreciate it if professor could put the image drawn in class into ppt.

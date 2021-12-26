@@ -1,0 +1,1 @@
+I think this homework was good. It was nice that it allowed us to learn some useful tools that should help in the future, such as being able to pass arguments with toolrunner, while we also had to develop our own mapreduce programs. With the last couple questions, it was a good mix of implementation and conceptual work.

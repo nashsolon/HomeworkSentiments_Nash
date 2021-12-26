@@ -1,0 +1,1 @@
+I like this assignment because I was able to implement a map reduce job from scratch, which is also more complex than the previous ones I’ve implemented, like word count. The most important thing I learned is the purpose of a Combiner, and when can we use the Reducer as the Combiner, as well as when to use the KeyValueTextInputFormat.

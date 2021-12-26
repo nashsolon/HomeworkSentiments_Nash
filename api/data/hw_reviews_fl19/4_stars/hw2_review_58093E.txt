@@ -1,0 +1,1 @@
+I liked having to think about MapReduce, but like I mentioned on the last reflection, I wished there had been coding instead of just theoretical questions. I want to implement MapReduce, not describe it. This assignment seemed to be much easier than the previous assignment but it required some additional reading in the textbook.

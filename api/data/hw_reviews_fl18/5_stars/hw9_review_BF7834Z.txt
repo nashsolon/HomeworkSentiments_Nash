@@ -1,0 +1,1 @@
+In this problem we load, filter, and display the web server logs in a formatted way.explore the Loudacre web server log files using key-value Pair RDDs.explore the Loudacre web server log files using key-value Pair RDDs.write a simple SPARK program in Python or Scala that counts the number of JPG requests in the web log data. It is good.

@@ -1,0 +1,1 @@
+hw6 was okay. this week was fall break. So, I didn't really want to spend too much on this homework. It wasn't that hard to be honest. I didn't have to write the standard sum reducer, so that was very neat. There are so many things in a map reduce job that is standard to every job.

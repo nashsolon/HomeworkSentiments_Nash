@@ -1,0 +1,2 @@
+The first part for pig operations has three questions, first one is find the low cost site and second one is the high cost keysets. I consider what is the sample dataset in this question, and hwo to get it. And we use Load \ group\ limit\filter to get what we want.
+The second part for spark, there are 2 questions.  I know RDD and ETL and other operations here.

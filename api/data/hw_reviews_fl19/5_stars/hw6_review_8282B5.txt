@@ -1,0 +1,4 @@
+What did you like/dislike about the assignment and why?
+This assignment combines the code and the concept understanding parts, help me understand the lectures better.
+What is the most important thing you learned and why do you think so?
+The most important thing I learned is how to write the help functions by myself and how to debug in a more efficient way. 

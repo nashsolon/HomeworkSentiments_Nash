@@ -1,0 +1,1 @@
+This homework help us review the concept and formula. I really like the matrix part that let us do the Jaccard Similarity and Cosine Similarity because I feel like I understand the formula better. The part I do not like is the first part. I feel like we need more specification on many questions. If I can do this again, I will try to remember all the formula.

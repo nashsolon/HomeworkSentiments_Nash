@@ -1,0 +1,2 @@
+Homework 8's instruction is really confused. I went to Ta hours to ask about the meaning of the homework, while the TAs are not sure without solution. 
+For this homework, I hope we can have more examples in the slides. And some of the query are duplicated. Maybe it can have more test of using other function.  

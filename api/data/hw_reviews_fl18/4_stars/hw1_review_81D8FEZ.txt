@@ -1,0 +1,9 @@
+First of all, I think Problem 1 helps us to review the fundamental knowledge of big data characteristics, I need to check the definitions of them and think over does it have these characteristics and why, so it really helps me deepen my impression on it.
+
+What’s more, I checked the mentioned book of the second problem on the internet and find the original problem, which helps me know more about this problem and the meaning of it. 
+
+Finally, the article that you recommended us to read related to big data, I found the data-based approach in it, known the limit of this approach and other example of “n-gram”. It broadens my horizon~ But I am from another country it is a little hard for me to understand them all, so thank you for giving the chance to practice my English reading ability, too~
+
+Thank you!
+
+

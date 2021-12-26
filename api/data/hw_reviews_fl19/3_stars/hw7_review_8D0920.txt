@@ -1,0 +1,11 @@
+What I enjoyed about this homework was the implementation side of things,
+and the chance to put some of the things we learned about into actual code.
+I would've liked more algorithmic thinking in some of the problems, because
+one of the things I've disliked is that it seems like a lot of copy and paste
+at points. I also think there's still some unclear wording, like in question 
+3c, it asked "what is the drawback," which is very ambigious and yet I'd
+expect to get points off if I didn't answer this correctly. There are several
+drawbacks to consider from an implementation standpoint, a mapreduce standpoint,
+as well as an accuracy for natural language processing tasks. What interested me
+was this last question because I enjoy nlp applications that significantly speed up
+common tasks, like calculating ngrams.

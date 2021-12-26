@@ -1,0 +1,8 @@
+One of the important things I learned from this homework is how to use different type of input format
+based on the form of the data available to us. Each line in this input file contains a line number and a line of text, 
+separated by a tab. By using the KeyValueInputFormat, we can easily make the line number as the key and the text as
+the value.
+
+One thing I don't like about this assignment is the similarity part since I feel some of the questions are kind of ambiguous.
+Like when we calculate Jaccard Similarity in the new way, we spent a lot of time to find out whether two user's ratings for
+one element should be counted if there are different, but there is no clear explaination in either the slides or the textbook.

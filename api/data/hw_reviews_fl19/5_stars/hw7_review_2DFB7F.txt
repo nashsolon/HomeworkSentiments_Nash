@@ -1,0 +1,8 @@
+• What did you like/dislike about the assignment and why?
+I've learnt how to implement top-N-list, word co-occurrence,and Combiner's effect on top-N-List.
+
+• What surprised you, and why?
+Compared to past homework, this homework is more difficult and time consuming, the good thing is that we're given enough for to finish it.
+
+• Assumingyoucouldstartoveragain(withworkingontheassignment),whatwould you do differently and why?
+Labs are very important, I would go over Lab one more time so I could be more efficient on finishing the homework.

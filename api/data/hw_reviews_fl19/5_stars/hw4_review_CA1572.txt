@@ -1,0 +1,5 @@
+I like the last question much. I hope it can be even discussed in class.
+
+There're some errors in original files. I'm not sure if it's on purpose or it's because of  the different version os Java.
+
+The most important thing I learned in fact is about file reading in Java. I would like some instructions or references for best practices. 

@@ -1,0 +1,1 @@
+ did not enjoy this lab. It was incredibly frustrating because the PageRank part took way too long to run. It made it really frustrating to figure out whether my code was working or not. In the future I would suggest trying to reduce the amount examples in the page rank data.

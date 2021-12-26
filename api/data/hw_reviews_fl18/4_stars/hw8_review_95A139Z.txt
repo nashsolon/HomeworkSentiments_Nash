@@ -1,0 +1,1 @@
+This assignment was cool. I like using pig over java. The language is more intuitive and like sql so it makes life easier. We had some annoyance with the pig local commands but otherwise making the subset and learning about a real application is fun. It my be a useful thing to know in the future.  

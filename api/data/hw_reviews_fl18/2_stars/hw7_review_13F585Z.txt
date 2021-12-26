@@ -1,0 +1,2 @@
+Homework 7 was not my favorite assignment. For question #1, we had no problem writing the MapReduce code to get the necessary information. Where we really had a bad time was in doing problems #2 and #3. The problems were conceptual but looking through the lecture slides, lab slides and textbook we could not find enough information to accurately answer the questions. I feel like if we had more information to go by we could have done a much better job on that part.
+Rating: 2/5

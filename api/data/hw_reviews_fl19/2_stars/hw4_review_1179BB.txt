@@ -1,0 +1,2 @@
+Comparing with former assignment, I do not like this assignment. Firstly, it really needs a lot of time in order to finish this assignment. Secondly, some problem in this homework is quite confusing. 
+In this assignment, I learned how to actually implement Mapper, Driver and Reducer. And I learned how to implement a Partitioner.

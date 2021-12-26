@@ -1,0 +1,1 @@
+I enjoyed doing the homework assignment 6 as it had interesting concepts such as secondary sort and customwritable.These are most expensively used in dealing with real world problems.The thing that surprised me was the question 3 where we have to design mapreduce for cosine similarity.I felt it was challenging and complex.on the whole I liked this assignment.

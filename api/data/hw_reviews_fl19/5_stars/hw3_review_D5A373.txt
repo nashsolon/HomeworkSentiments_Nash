@@ -1,0 +1,2 @@
+I like question 2 for this homework. Before doing this homework, I have no idea with “Skew”. But after reading the book and answering this question, I understand this concept and how to reduce the impact of it. It’s really helpful for learning how the Map-reduce work.
+The most important thing for me is to consider every step of the Map-reduce job. There are a lot of things may help the user improve the performance of their work.

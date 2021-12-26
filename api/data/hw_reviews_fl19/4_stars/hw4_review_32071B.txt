@@ -1,0 +1,3 @@
+I like this assignment a lot, because I like coding! Basically, it's a good practice of using ToolRunner and Partitioner.
+But, one problems is that I fell there are multiply ways to write the code. So, it would be better if the homework tell us the pros and cons of different implementations. Also, some of the code uses deprecated API. Maybe the code could be updated someday.
+Another things I feel strange is the structure of hw4. I feel Problem 1 and 3 should be put together (So as Problem 2 and 4). Because, 1 and 3 are basically one problem.

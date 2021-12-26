@@ -1,0 +1,1 @@
+Homework 4 is the most time consuming and the most difficult homework so far. Because it ask the students to implement mapreduce jobs and add parameters and write code to assign reducers at the same time without enough guids. Also, many java knowledge required in this assignment is not covered in class nor in labs. We spent the whole day to finish this assignment.

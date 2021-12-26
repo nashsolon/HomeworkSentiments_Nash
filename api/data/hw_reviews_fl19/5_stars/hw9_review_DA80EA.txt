@@ -1,0 +1,1 @@
+I really enjoyed this homework assignment as well. I really enjoyed the joining RDDs portion because I found it really interesting how we could combine the two datasets. I did not enjoy writing the spark application because I found that more difficult and the troubleshooting was difficult as well. I eventually was able to get it to work which was good. 

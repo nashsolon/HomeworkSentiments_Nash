@@ -1,0 +1,3 @@
+In this assignment, I liked that we actually had to code implementations of the things we learned about (toolRunner, wordcount mapreduce, etc.). I did not like that we also had a written portion along with the code, it felt pretty unnatural to describe what's happening in the code when we most likely need to understand what we're doing to code it in the first place.
+
+The most important thing I learned was using toolRunner to be able to execute a mapreduce (with adjusting configuration parameters) from the command line. This makes running multiple configured map reduces easier.

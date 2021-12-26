@@ -1,0 +1,1 @@
+What I liked about this assignment is that the problems helped me gain a better understanding of HDFS through analyzing some of its tradeoffs, and MapReduce through working through the steps of the map and reduce phases. It surprises me that the size of the block in HDFS has so many interesting implications that could affect the performance.

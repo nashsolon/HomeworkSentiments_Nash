@@ -1,0 +1,2 @@
+This is my third homework. It mainly discusses about the running of a MapReduce job, the problem of skew and MapReduce Job using YARN. I think the first problem is quite simple, I just literally following the instructions. The second one and the third one require additional readings. The answers cannot be fully searched on the slides which gonna takes some time. 
+In all, I think hw3 can have 4 stars.

@@ -1,0 +1,1 @@
+This homework is extremely hard. Especially the second question. There's no file and code we can take as reference so it's sooo time-wasted and energy consuming. The distributed cache example in slides is written in reducer and refered to another java class so that example is completely useless. We spent around 16 hours on it. Afterall, hw4 is a bad homework.

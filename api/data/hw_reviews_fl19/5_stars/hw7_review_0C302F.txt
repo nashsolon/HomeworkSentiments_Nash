@@ -1,0 +1,1 @@
+This homework was quite fun. The first problem was challenging at first because we ran into errors with long being comparable. We were stuck on it for a while, but eventually got it fixed. I thought the homework was interesting because we were using netflix data. Overall, this homework was challenging but enjoyable to complete.

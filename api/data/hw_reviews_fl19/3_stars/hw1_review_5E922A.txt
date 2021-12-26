@@ -1,0 +1,3 @@
+I thought that there should have been a direct link to the article mentioned in problem 3 inside of the homework document, instead of having to search on Google to find it. Also, it wasn't immediately obvious to me what "MMDS book" stood for. After completing the assignment, I found that both of these things were linked on the course calendar, which will be useful in the future. 
+
+I think that the most important thing that I learned was about Bonferroni's Principle, since it seems like it provides useful context for the way people should search for features in datasets. 

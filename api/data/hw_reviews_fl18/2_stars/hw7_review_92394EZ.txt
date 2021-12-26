@@ -1,0 +1,1 @@
+This homework was not very helpful for learning the material. The length was not bad but the quality of exercises wasn't great either. I understand that this was more of a wrap up homework for java MapReduce but it still wasn't super helpful. I thought that it would have been better if the material covered in the homework was less theoretical. 

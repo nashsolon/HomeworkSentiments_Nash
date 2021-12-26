@@ -1,0 +1,5 @@
+1.I like this assignment because it is really challenging, especially for the coding parts. It provides me with a futher understanding of how MapReducer works and JAVA implementation. 
+
+2.I am suprised that our first coding assignment is really complicated. The question itself is fair but it takes me much time to debug. 
+
+4.I would re-do the lab 3 and review my JAVA programming knowledge because some of the materials/questions in this assignment are really high-level thinking and requires strong base JAVA coding skill.

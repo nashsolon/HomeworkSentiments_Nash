@@ -1,0 +1,2 @@
+Homework 9 was a very reasonable assignment. For questions #1 adn #2, Julia wrote the Spark, and it was a breeze. For question #3, I wrote the Spark program in pyspark. It was pretty simple because the pom.xml and CountJPGs.py file was provided, and I just needed to code the rest. The code only took a couple of lines too. Lastly, problem #4 was conceptual, and did not take a long time.
+Rating: 5/5

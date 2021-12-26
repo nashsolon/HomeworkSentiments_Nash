@@ -1,0 +1,5 @@
+•  What did you like/dislike about the assignment and why?
+I like it very much because this assignment has to do with practical problems, which in my opinion is much more helpful. In details, to implement a practice problem, we need to understand the theoretical part first and deeply. Based on that, we can deal with the problem much easier. In addition, when we are coding, we need to try to figure out the error messages when we run into a bug. This can really help us improve our coding.
+
+•  What surprised you, and why?
+One thing that surprises me is that there is not rule of thumb solution when we are setting the number of reducer. This is a bit disappointing because I am really a person who consider practical tricks important. However, what the lecturer covered in lab session indeed matters to me for the reason that even though it doesn't explicitly point out the number of reducer, it gives me some hint at least. For example, we need to consider data skew issues when configuring this number setting.

@@ -1,0 +1,4 @@
+
+hw 2 reflection
+
+I really liked the assignment 2 as it has got a nice mix of theoritical understanding of concepts and practical application of hadoop distributed file system and mapreduce.I enjoyed learning the mapreduce program and analysing the key value pairs associated with it.On the whole it was a good experience working for assignment 2.

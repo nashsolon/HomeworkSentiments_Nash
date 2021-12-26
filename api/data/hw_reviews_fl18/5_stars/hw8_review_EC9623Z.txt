@@ -1,0 +1,4 @@
+What I love most in this homework is the practical analyis experiences it gave to us. This homework includes two ponents:
+one is the Pig and another one is the Spark. By using them together, we may find the differences between them, which is good.
+However, I think there are some points that can be improved further. For example, if we can get more instances and more details abou the princeples, which is what we should learn
+at WashU because I consider us as creator instead of worker who only knows how to implement them but ignore things behind the scece.

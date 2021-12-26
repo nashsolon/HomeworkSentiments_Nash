@@ -1,0 +1,3 @@
+This homework contained mailny spark, which was really helpful to initiate knowldege of spark. Also I really like when we have to utilize spark commands in python and scala. I was venturing through scala and python. 
+
+What suprsied me is that spark allows hdfs operation with less commands. I loved how spark operated and I think I will venture more about spark.

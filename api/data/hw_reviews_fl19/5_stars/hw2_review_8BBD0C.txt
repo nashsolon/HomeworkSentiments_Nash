@@ -1,0 +1,1 @@
+One of the things I liked about the assignment a lot was the question regarding the hdfs cluster and us having to actually draw the diagram of how things were being stored. I think it was very useful and forced us to understand how eactly things are stored in hdfs. Addtionally i liked the map reduce practice but i wish there was more numbers/input data to praceice with

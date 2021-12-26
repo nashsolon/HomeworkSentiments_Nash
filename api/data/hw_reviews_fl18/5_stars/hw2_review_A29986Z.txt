@@ -1,0 +1,1 @@
+hw2 was a good homework. It helped us understand the trade offs of block size, the advantages and disadvanted of hdfs, etc. It was also great because it helped us understand the architecture of hdfs. I enjoyed drawing out the diagrams. I'm glad we conceptually understand the process of mapping and reducing now so we have a better idea about how to code.

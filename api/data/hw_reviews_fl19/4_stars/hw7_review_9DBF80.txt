@@ -1,0 +1,3 @@
+I like this home work very much. This homework helps me pritice my hadoop skills. It also help me familiar with Hadoop. Also it requires a concrete understanding of map reduce.Also the project is interesting, it let us to track the most popular movies.
+
+The most important thing I learned is the idea of combiner. It help combine the mapper out put so that we need less data to transfer to reduce job. This can helps map reduce job a lot.

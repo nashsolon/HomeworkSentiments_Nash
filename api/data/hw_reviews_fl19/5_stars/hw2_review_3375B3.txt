@@ -1,0 +1,7 @@
+hw2_reflection.txt
+Kenneth McNelly
+457250
+
+I felt hw2 was much smoother than hw1. It was more inline with the slides in lecture and the practice in lab. I also believe that the questions were very clear and constructive. The easily-understandable questions allowed me to move at a much more efficient pase than when they were more open-ended. The homework had a very nice coverage of MapReduce and HDFS, challenging in both practical and definitional knowledge. 
+Through homework 2, I solidified my bigger picture of HDFS and its components. I am also much more confident in stepping through any map reduce fuction that is given to me. 
+I was plesently suprised to not see a Java coding exercise of MapReduce like that of CSE231.  

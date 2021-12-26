@@ -1,0 +1,2 @@
+I thought that the worst part of this homework assignment was that the mapper and reducer output and input computations in the last problem were overly tedious and somewhat confusing because in the slides it indicates that that task should use multiple map jobs, the question seems to imply that you only need one.
+I thought the most useful part of this assignment was the review of concepts from lab 5, because it will be applicable in creating map reduce programs from scratch in the future.

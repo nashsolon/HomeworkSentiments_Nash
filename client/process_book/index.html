@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!--Fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Slab:wght@700&family=Lobster&display=swap" rel="stylesheet" />
+    <!--End Fonts-->
+    <script src="https://kit.fontawesome.com/dbf758a7e5.js" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" type="text/css" href="./public/pb_style.css" />
+
+    <title>Process Book</title>
+</head>
+
+<body>
+    <h1>Process Book</h1>
+    <a id="client-link" href="../../client">Visualization</a>
+
+    <p class="name">Sasha Chackalackal (475454), schackalackal@wustl.edu</p>
+    <p class="name">Nash Solon (477477), i.solon@wustl.edu</p>
+
+    <h2>Overview and Motivation</h2>
+    <p>
+        Homework and take home assignments are essential aspects of academic learning. However, it can be difficult to determine whether or not a certain assignment or homework is effective in teaching the students the material. As a result, many professors use
+        review forms to guage the overall sentiment of a specific assignment.
+    </p>
+    <p>
+        However, sifting through these reviews is tedious and gaining real insights from them can be close to impossible. With some guidance from Professors Neumann and Ottley, we decided that a sentiment analysis dashboard would provide fast and easily digestible
+        bits of information to give teachers and professors a simple overview of how their assignments and homework is affecting students' learning. As we continued our research into the different visualizations we can create using sentiment analysis,
+        we found multiple sources that used powerful sentiment analysis libraries to create informative and interactive visualizations. </p>
+    <p>
+        This background and research provided a strong base for implementing sentiment analysis and visualization in our final project. Professor Neumen gave us access to a large folder of reviews for her class
+        <i>CSE 427S: Cloud Computing with Big Data Applications Homework Sentiment</i>. We used the Python programming language to conduct sentiment analysis on these reviews with both the
+        <strong>Vader Sentiment Analysis</strong> and <strong>Text 2 Emotion</strong> sentiment analysis libraries and our final visualization is a representation of these and their sentiments.
+    </p>
+
+    <h2>Related Work</h2>
+    <p>
+        We developed our sketches based on both our own original ideas and various sentiment dashboards we came across online. Most of our inspiration came from our previous work on assignment 3, where we created a visualization of text data from different English
+        Fairy Tales. For this project, we were excited to experiment with sentiment anaylsis libraries to gain a better understanding of the underlying text, and to develop ways to apply that sentiment analysis to an informative dashboard to help professors.
+    </p>
+
+    <h2>Questions</h2>
+    <ul>
+        <li>
+            Can the instructor identify the students' sentiments about specific homework assignments?
+            <li class="t1">
+                Can they see the extent to which each homework assignment was classified as <strong>positive</strong>, <strong>neutral</strong>, and <strong>negative</strong>?
+            </li>
+            <li class="t1">
+                Can they clearly see the frequency of each star rating <strong> (1,2,3,4,5)</strong> for all homework assignments or individual homework assignments for either semester or for both semesters?
+            </li>
+        </li>
+        <li>
+            Can the instructor not only see the overall sentiments for a specific homework assignment, but also read individual reviews?
+            <li class="t1">Can these reviews be viewed for a specific homework assignment, specific semester, and specific star rating?</li>
+            <li class="t1">As there are many reviews for each assignment, can the instructor easily view many different reviews?
+            </li>
+            <li class="t1">Can the compound sentiment score from <strong>Vader</strong> also be viewed on each review, along with the most predominant emotion assigned by <strong>Text 2 Emotion</strong>?</li>
+        </li>
+    </ul>
+
+    <!-- five random reviews are shown with the selected parameters. More reviews can be viewed by clicking <strong>View More Reviews</strong> at the bottom of the page, or the visible reviews can be re-randomized
+                using the shuffle button (dice). -->
+
+    <h2>Data Acquisition</h2>
+    <p>
+        We were given a large folder of individual reviews by Professor Neumenn, and we used python to convert these into a single CSV file. We then use the sentiment analysis libraries <strong>Vader</strong> and <strong>Text 2 Emotion</strong> to extract
+        sentiment analysis from these reviews, and we imported this data directly into our front-end project.
+        <!--         
+        We already have access to the databases that we are using for our sentiment analysis. In addition, we already constructed our necessary data structures, complete with the
+        quantitative sentiment values and proper javascript structure that we need to create effective visualizations. We ran sentiment analysis through several python libraries and then reformatted the resulting csv inside of a javascript function to
+        prepare our data for d3. In the end, we now have a solid foundation and the appropriate data structure and values for our final design. -->
+    </p>
+    <h2>Exploratory Data Analysis</h2>
+    <p>
+        For our initial design, we plotted our data in a rudimentary stacked bar chart, allowing us to see the breakdown of each category. For example, with the <strong>Vader</strong> library, we managed to collect the positive, negative, and neutral
+        scores for each homework assignment on average throughout each semester. Though this offered interesting insights, we discovered that we needed additional visualizations to properly display the sentiments of the homework reviews. So, we decided
+        to use a secondary sentiment analysis library and also we realized the necessity of viewing individual reviews.
+    </p>
+    <h2>Design Evolution</h2>
+    <h3>Final Proposal Design</h3>
+    <p>
+        Pictured below is our final proposal design. We did not change much about the sketch after the submission of our proposal, as we believed that this would be a viable visualization and Professor Neumenn was in agreement. We decided to begin implementing
+        different aspects of our sketch design to determine which visualizations would work the best with the data that we have. With this template, we began working on piecing our final dashboard together.
+    </p>
+    <img width="450px" height="800px" src="./designs/final_proposal_design.png" />
+
+    <h3>Bar Chart Design</h3>
+    <p>
+        Below is a depiction of our first bar chart design, with which we decided to implement the first visualization for our data. Here, we included tabs at the top of the bar chart. When a user clicks on a different tab, the stacked bar chart changes height
+        and number of assignments according to the specific semester and for all the semesters combined. <strong>Vader</strong> returned a sentiment score with positive, neutral, and negative proportions out of 1 as well as a compound score, which
+        determined whether the review is classified as a positive, neutral, or negative review.
+    </p>
+
+    <img class="bar_chart" src="./designs/bar_chart.png" />
+    <h3>Updated Bar Chart Design</h3>
+    <p>
+        We made some changes to our bar chart design. The overall features are the same except we added a slider graphic below. This allows the user to see compound scores for each homework and easily compare them. The slider chart takes the overall compound
+        ratings provided by the <strong>Vader</strong> analysis and maps each homework onto the real number line to compare the overall sentiments of each homework. Other than that, we stayed relatively true to our original design, but changed
+        the webpage background and slightly changed the color scheme.
+    </p>
+    <img class="updated_bar_chart" src="./designs/updated_barchart.png" />
+
+    <h3>Secondary Bar Chart</h3>
+    <p>We created a secondary stacked bar chart to illustrate the results from the <strong>Text 2 Emotion</strong> sentiment analysis library, shown below. </p>
+    <img width="1000px" height="500px" src="./designs/T2E.png" />
+
+    <h3>Star Histogram Design</h3>
+    <p>
+        Below is a depiction of our first star histogram design. We created this design to display the frequency of each review rating for the homework assignments. The width of each bar is relative to the frequency of a certain rank that a specific homework
+        assignment received. We plan to implement some sort of tab feature similar to the semester tabs as seen in the bar chart design to tab through the homework assignments.
+    </p>
+    <img class="hist_chart" src="./designs/histogram.png" />
+
+    <h3>Final Star Histogram Design</h3>
+    <p>In updating our star histogram design, we decided to leave it mostly unchanged, but edited the color scheme along with the rest of the webpage. We also added the ability to select a specific homework assignment to filter how the star frequencies are
+        displayed, shown below.</p>
+    <img width="800px" height="350px" src="./designs/Final_Star.png" />
+
+    <h3>Initial Reviews Layout</h3>
+    <p>
+        We added this section so that a user can read different reviews. In this version, the reviews only display the first five reviews for a given semester, or for all semesters. However, we plan to implement different features to make this visualization even
+        more effective. </p>
+    <img class="reviews" src="./designs/reviews.png" />
+    <h3>Updated Review Layout</h3>
+    <p>
+        For our final implementation, we updated the reviews layout with a shuffle button, signified by a single die. We also added the ability to filter reviews based on star rating, semester, and/or homework assignment. The compound <strong>Vader</strong>        score is also visible, along with the predominant emotion assigned by <strong>Text 2 Emotion</strong>. The user can also easily view more reviews by selecting the <strong>View More Reviews</strong> button.
+    </p>
+    <img width="700px" height="600px" src="./designs/Final_Reviews.png" />
+    <img src="./designs/MoreReviews.png" />
+
+    <h3>Info Cards</h3>
+    <p>Finally, we added info cards to our stacked bar charts to make it clear to the user their function and how to interpret them, as seen below</p>
+    <img src="./designs/v_info.png" />
+    <img src="./designs/t_info.png" />
+
+    <!-- **COME BACK TO HERE ** -->
+    <h3>Frosted Glass Implementation</h3>
+    <p>
+        As seen above, moving to the final implementation of our project, we altered the design to contain each separate chart in a "frosted-glass" container. Before, our dashboard had little distinction between each visualization, and this updated design offers
+        more clarity here.
+    </p>
+
+
+    <!--IMPLEMENTATION-->
+    <h2>Implementation</h2>
+    <p>
+        Our visualization is intended to give teachers and professors a better understanding of how effective their homework assignments are. As their students provide feedback, they need to understand the aspects of their assignments that are effective in teaching
+        certain material. We want to implement interactive elements into our project to give the user a better understanding of each homework assignment throughout each semester and overall.
+    </p>
+
+    <h3>Interactive Tab</h3>
+    <p>
+        Pictured below is one of the critical interactive elements of our visualization. This tab allows the user to switch between semesters to view the homework assignments for each semester, and to see details about the overall reviews and the sentiments associated
+        with a specific homework assignment. This triggers all visualizations to transition based on the selection.
+    </p>
+    <img src="./designs/sem_select.png" />
+
+    <h3>Collapsed Charts</h3>
+    <p>We also added the ability to collapse either of the bar charts for easier page-wide navigation, as seen below:</p>
+
+    <h3>Collapsed Text 2 Emotion</h3>
+    <img class="frosted-closed" src="./designs/frosted-glass-collapsed.png" />
+
+    <h3>Open Text 2 Emotion</h3>
+    <img class="frosted-open" src="./designs/frosted-glass-open.png" />
+
+    <h3>Review Implementation</h3>
+    <p>Our reviews can also easily be filtered using the semester selector or homework selectors above. The user can easily view different reviews under the same criteria using the shuffle button (die). The user can also view more reviews by selecting the
+        <strong>View More Reviews</strong> button.</p>
+
+    <h2>Evaluation</h2>
+
+    <h3>What Did We Learn</h3>
+    <p>Overall, on average each homework received a generally neutral response. However, there were many cases where students had strong opinions on homework assignments, and this is more visible with our Text 2 Emotion chart, star frequency chart, and individual
+        reviews section.</p>
+    <p>Using our visualization, we realized that a certain response can come from many different causes, and this can vary from student to student. By using our visualization as a whole, a professor can more easily identify negative sentiment towards specific
+        homework assignments and diagnose the reasoning.</p>
+
+    <h3>Did We Answer Our Questions?</h3>
+    <li>
+        <strong>Can the instructor identify the students' sentiments about specific homework assignments?</strong> <i>Answer: Yes, using the provided stacked bar charts, the user can see both the positive/neutral/negative sentiment as well as the associated emotional responses to the different assignments on average.</i>
+        <li class="t1">
+            <strong>Can they see the extent to which each homework assignment was classified as <strong>positive</strong>, <strong>neutral</strong>, and <strong>negative</strong></strong>? <i>Answer: Yes, this is clearly visible with the Vader stacked bar chart.</i>
+        </li>
+        <li class="t1">
+            <strong>Can they clearly see the frequency of each star rating <strong> (1,2,3,4,5)</strong> for all homework assignments or individual homework assignments for either semester or for both semesters?</strong> <i>Answer: Yes, this is visible on the star frequency chart, which can be filtered by homework assignment and by semester.</i>
+        </li>
+    </li>
+    <li>
+        <strong>Can the instructor not only see the overall sentiments for a specific homework assignment, but also read individual reviews?</strong> <i>Answer: Yes, the instructor can easily view individual reviews, and they can also filter the visible
+        reviews by semester, assignment, or assigned star rating.</i>
+        <li class="t1"><strong>Can these reviews be viewed for a specific homework assignment, specific semester, and specific star rating?</strong> <i>Answer: Yes, as discussed above, this functionality is built-in.</i></li>
+        <li class="t1"><strong>As there are many reviews for each assignment, can the instructor easily view many different reviews?</strong> <i>Answer: Yes, using either the View More Reviews button or the shuffle button, the instructor can easily view many different reviews.</i>
+        </li>
+        <li class="t1"><strong>Can the compound sentiment score from <strong>Vader</strong> also be viewed on each review, along with the most predominant emotion assigned by <strong>Text 2 Emotion</strong>?</strong> <i>Answer: Yes, these are clearly visible on each individual review.</i></li>
+    </li>
+
+    <h3>How Well Does Our Visualization Work?</h3>
+    <p>For it's intended purposes, we believe our visualization succeeds; it is much easier to gain a real understanding of the reviews than it would be looking at the individual text files. An instructor could definitely gain useful information from our
+        dashboard and hopefully use that information to improve their course in the future.</p>
+    <p>If we were to work on this further, we would likely experiment with different sentiment analysis libraries to gain unique takeaways from the data, and potentially experiment with different webpage designs for easier usability.</p>
+</body>
+
+</html>

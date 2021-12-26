@@ -1,0 +1,1 @@
+HW8 is a good assignment, it combines the PIG and Spark together, and it improves my understanding of the PIG and Spark operations, I really like this homework, but I think it still need some improvement on the Piazza, I mean the respond spped is too slow, I didn't receive any feedback even after a day, that's the only drawback, thanks!

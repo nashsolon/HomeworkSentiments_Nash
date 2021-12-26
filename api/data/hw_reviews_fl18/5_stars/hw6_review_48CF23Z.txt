@@ -1,0 +1,1 @@
+This time we actually work with a more sounds reasonable real-world work, the recommendation system. Since the recommendation system takes place on our every-day live, I'm happy to get along with it. This week we need to implement the Top-N algorithm, which is a basic one. So I don't think it's hard.

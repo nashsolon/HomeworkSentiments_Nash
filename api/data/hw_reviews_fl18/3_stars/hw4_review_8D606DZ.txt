@@ -1,0 +1,1 @@
+This homework is ok. The toolrunner on HDFS causes a lot of problem for us. We try to seek help from TAs but they cannot solve that either. The knowledge is clear though. I wish the next homework could be easier and more support from the lectures. These code could be kind of tedious. I feel I need to start earlier.

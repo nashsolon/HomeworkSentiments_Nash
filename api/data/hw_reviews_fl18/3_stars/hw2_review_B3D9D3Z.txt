@@ -1,0 +1,1 @@
+this homework covers more on the fundamentals of HDFS and students have to know the materials/how everything work in order to do the homework. I feel comfortable with the later two problems but for the first one, some parts I am not particularly confident on my answer. So I was a little stressed when doing first problem because I feel I am not super familar with the material. 

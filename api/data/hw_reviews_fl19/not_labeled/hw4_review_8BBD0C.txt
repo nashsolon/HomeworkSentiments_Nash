@@ -1,0 +1,2 @@
+Overall i think the the most important thing i learned from this assignment was how to implement the entire process of running a mapreduce job from command line. SPecifically how to use toolrunner to input additional parameters. One thing i did not like was that i felt confused through the assignment not knowing exatly what to do. I think there should have been more instructions regarding the actuall code and where and how to implement it
+

@@ -1,0 +1,3 @@
+Rating: 2
+
+I had a job interview last week which made me start the homework much later than I would have liked. This caused a lot of undue stress combined with the fact that that I had to restart my VM from scratch. I still like the material and found implementing the toolrunner very interesting.

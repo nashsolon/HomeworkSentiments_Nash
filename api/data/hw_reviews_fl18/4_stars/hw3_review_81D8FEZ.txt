@@ -1,0 +1,7 @@
+When I have done the lab2 for preparing the first question, I learned more about the process of MapReduce, and considered more about the results of this process.
+
+The second problem is a little hard for me, I was not sure if I understand the “skew” right for this problem...
+
+The last question helped me to review the last class’s content very well, and knew the knowledge about data locality optimization.
+
+

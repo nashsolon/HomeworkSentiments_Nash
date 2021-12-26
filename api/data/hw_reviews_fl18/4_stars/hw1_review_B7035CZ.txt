@@ -1,0 +1,8 @@
+The first part of this homework tests the contents in the lecture 1, about characteristics of big data, such as amount, size, infinity. I learnt that wikipipedia has millions of English articles and learnt about ZINC database. 
+
+The second part is a probability problem that tests the number of cases of evil-doers in a random case. From that I learnt the large number of "evil" cases even
+if there is no evil-doer.
+
+The third part is a scientific paper that supports unlabeled big data in language recognization.
+
+This homework lets me get deeper ideas into big data, but I also feel it's kind of conceptual and abstract. I expect more coding and practical problem-solving work.

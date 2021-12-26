@@ -1,0 +1,1 @@
+I fairly enjoyed doing this homework because it was a combination of coding practice and solving problems. Problem 2 helped me understand each similarity measures and recap matrix calculation.  What surprised me the most during this lab is how the Jaccard similarity was calculated and how much the result seemed irrelevant with our expectation of similarity. 

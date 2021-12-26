@@ -1,0 +1,2 @@
+I really enjoyed this assignment as it was our first experience really working with MapReduce with minimal hand holding. I definitely felt like I had to figure a lot of things out by myself, which I enjoyed. I believe the most important thing I learned from this assignment was how to implement a MapReduce job using ToolRunner and Partitioner.
+
