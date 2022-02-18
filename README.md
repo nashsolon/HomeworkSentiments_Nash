@@ -1,5 +1,7 @@
 # Homework Sentiment Analysis
 
+cd into client then run `python3 -m http.server`
+
 ## Group:
 
 **Name:** Sasha Chackalackal

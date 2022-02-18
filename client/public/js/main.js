@@ -36,15 +36,16 @@ Promise.all(promises).then((v) => {
     sentimentsChart.update(sentimentsData, 'sentiments');
 
     // * Create the emotionsChart
-    let emotionCols = ['angry', 'fear', 'happy', 'sad', 'surprise'];
-    let emotionLegendLabels = ['angry', 'afraid', 'happy', 'sad', 'surprised']
-    let emotionsChart = new StackedBarChart('#emotionsChart', emotionCols, emotionLegendLabels, 'emotions');
-    let emotionsData = emotionsFromData(reviews_emotions, 'all');
-    emotionsChart.update(emotionsData, 'emotions');
+    // let emotionCols = ['angry', 'fear', 'happy', 'sad', 'surprise'];
+    // let emotionLegendLabels = ['angry', 'afraid', 'happy', 'sad', 'surprised']
+    // let emotionsChart = new StackedBarChart('#emotionsChart', emotionCols, emotionLegendLabels, 'emotions');
+    // let emotionsData = emotionsFromData(reviews_emotions, 'all');
+    // emotionsChart.update(emotionsData, 'emotions');
 
     // * Create the sliderChart
     let sliderChart = new SliderChart();
-    sliderChart.initial(sentimentsData);
+    let sliderInfo = sliderChartInfo(reviews_sentiment, 'all');
+    sliderChart.initial(sliderInfo);
 
     // * Create the SelectHW
     let selectHw = new SelectHW();
@@ -73,7 +74,8 @@ Promise.all(promises).then((v) => {
         emotionsData = emotionsFromData(reviews_emotions, curSem);
         emotionsChart.update(emotionsData, 'emotions')
 
-        sliderChart.transition(sentimentsData);
+        sliderInfo = sliderChartInfo(reviews_sentiment, curSem);
+        sliderChart.transition(sliderInfo);
 
         selectHw.update(Object.keys(sentimentsData));
 

@@ -41,30 +41,6 @@ StackedBarChart.prototype.init = function() {
     }
 
 
-    // leg.append('text')
-    //     .text('positive')
-    //     .attr('class', 'legend-text pos')
-    //     .attr('x', () => vis.svgWidth / 2 - 100)
-    //     .attr('text-anchor', 'middle')
-    //     .attr('y', 15)
-
-    // leg.append('text')
-    //     .text('neutral')
-    //     .attr('class', 'legend-text neu')
-    //     .attr('x', () => vis.svgWidth / 2)
-    //     .attr('text-anchor', 'middle')
-    //     .attr('y', 15)
-
-    // leg.append('text')
-    //     .text('negative')
-    //     .attr('class', 'legend-text neg')
-    //     .attr('x', () => vis.svgWidth / 2 + 100)
-    //     .attr('text-anchor', 'middle')
-    //     .attr('y', 15)
-
-
-
-
     // > END LEGEND < //
     if (vis.cat == 'sentiments') {
         vis.svg = d3.select(vis.container).append('svg')
@@ -82,28 +58,14 @@ StackedBarChart.prototype.init = function() {
 StackedBarChart.prototype.update = function(data, s_or_e) {
     let vis = this;
     // console.log(data);
+    let groups = Object.keys(data);
 
+    // console.log(groups);
 
+    vis.svg.selectAll('g').remove()
 
-    let marginX = 40;
-    let x = d3.scaleLinear()
-        .domain([0, Object.keys(data).length - 1])
-        .range([marginX, vis.svgWidth - marginX]);
-
-    let marginYTop = 10;
-    let marginYBot = 50;
-
-    let y = d3.scaleLinear()
-        .domain([0, 1])
-        // .range([vis.svgHeight - marginY, marginY]);
-        .range([marginYTop, vis.svgHeight - marginYBot])
-
-    let keys = Object.keys(data);
-    // console.log(keys)
-    // console.log(Object.values(data))
-
-    // let sortedKeys = [];
-    let sortedKeys = keys.sort((a, b) => {
+    //Sort the data properly
+    let sortedKeys = groups.sort((a, b) => {
         let an = +a.charAt(2);
         let bn = +b.charAt(2);
         if (isNaN(an))
@@ -118,214 +80,92 @@ StackedBarChart.prototype.update = function(data, s_or_e) {
     let sortedData = []
     for (let s of sortedKeys) {
         // console.log(s);
+        data[s].hw = s;
         sortedData.push(data[s])
     }
-    // console.log(sortedData)
 
-    // console.log(sortedData)
-    let stackedData = d3.stack()
-        .keys(vis.labels)(Object.values(sortedData))
+    //ADD THE X-AXIS
+    var x = d3.scaleBand()
+      .domain(sortedKeys)
+      .range([50, vis.svgWidth - 50])
+      .padding([0.2])
+        vis.svg.append("g")
+        .attr("transform", "translate(0," + (vis.svgHeight - 20) + ")")
+        .call(d3.axisBottom(x).tickSize(0));
 
-    // console.log(stackedData)
+    //ADD THE Y-AXIS
+    let data_arr = Object.keys(data).map((key) => [key, data[key]]);
+    // console.log(data_arr)
+    let max_pos = Math.max.apply(Math, data_arr.map(function(d) { return d[1].pos; }))
+    let max_neg = Math.max.apply(Math, data_arr.map(function(d) { return d[1].neg; }))
+    let max_neu = Math.max.apply(Math, data_arr.map(function(d) { return d[1].neu; }))
+    let max_y = 0
+    if(max_pos > max_neg && max_pos > max_neu){
+        max_y = max_pos;
+    }
+    else if(max_neg > max_pos && max_neg > max_neu){
+        max_y = max_neg;
+    }
+    else{
+        max_y = max_neu;
+    }
+    
+    let yAxis = d3.scaleLinear()
+        .domain([0, max_y])
+        .range([ vis.svgHeight - 20, 0]);
 
-    // let typeToClass = d3.scaleOrdinal()
-    //     .domain()
-
-
-    // let rects = vis.svg.selectAll('rect')
-    //     .data(keys);
-
-    let animTime = 1000;
-
-
-    let text = vis.svg.selectAll('.stacked-bar-label')
-        .data(sortedKeys);
-
-    text
-        .text((d) => d)
-        .transition()
-        .duration(animTime)
-        .style('opacity', 1)
-        .attr('x', (d, i) => x(i));
-
-    text.enter()
-        .append('text')
-        .text((d) => d)
-        .attr('x', (d, i) => x(i))
-        .attr('y', vis.svgHeight - 20)
-        .attr('class', 'stacked-bar-label')
-        .attr('text-anchor', 'middle')
-        .style('opacity', 0)
-        .transition().duration(animTime)
-        .style('opacity', 1);
-
-    text.exit()
-        .remove();
+    let y = d3.scaleLinear()
+        .domain([0, max_y])
+        .range([ vis.svgHeight, 60]);
+        
+    vis.svg.append("g")
+        .attr("transform", "translate(" + (vis.svgWidth - 950)+ ", 0)")
+        .call(d3.axisLeft(yAxis));
 
 
-    vis.svg.selectAll('g')
-        // .style('opacity', 1)
-        // .transition()
-        // .duration(animTime)
-        // .style('opacity', 0)
-        .remove();
+    //ADD THE BARS
+    // console.log(vis.labels);
+    // color palette = one color per subgroup
+    var color = d3.scaleOrdinal()
+        .domain(vis.labels)
+        .range(['#29b674','#559e94','#d44545'])
 
-    let groups = vis.svg.selectAll('g')
-        .data(stackedData)
+    var xSubgroup = d3.scaleBand()
+        .domain(vis.labels)
+        .range([0, x.bandwidth()]) //get width of x's scaleband
+        .padding([0.05])
+    
+    console.log(sortedData)
+    vis.svg.append('g').selectAll('g')
+        .data(sortedData)
         .enter()
-        .append('g')
-        .attr('class', (d, i) => d.key)
-        .style('opacity', 1);
-
-    let rectWidth = 30;
-
-
-    let rects = groups.selectAll('rect')
-        .data((d) => d);
-
-    rects
-        .attr('x', (d, i) => x(i) - rectWidth / 2)
-        .attr('y', (d) => y(d[0]))
-        .attr('height', (d) => y(d[1]) - y(d[0]));
-
-    // * For the id of each rect
-    let counter = 1
-    let arr = []
-    if (s_or_e == 'sentiments') {
-        // console.log('sentiments CHART')
-        arr = ['pos', 'neu', 'neg']
-    } else {
-        arr = ['angry', 'fear', 'happy', 'sad', 'surprise']
-    }
-    // console.log(data)
-
-    let index = 0
-    let num_hws = Object.keys(data).length + 1
-    let ids = []
-
-    for (sentiment of stackedData) {
-        // console.log(sentiment)
-        let i = 0
-        for (let rect of sentiment) {
-            if (counter % num_hws == 0) {
-                // console.log(sortedKeys)
-                index += 1
-                counter += 1
-            }
-            let id = sortedKeys[i] + '_' + arr[index]
-            ids.push(id)
-                // console.log(rect[2])
-            counter += 1
-            i += 1
-        }
-    }
-    // console.log(ids)
-    var tooltip = vis.svg
-        //* Create tooltip and set opacity to 0
-    if (vis.cat == 'sentiments') {
-        tooltip = d3.select("#stacked-bar-svg-sent")
-            .append("text")
-            .attr('class', 'info-text glass-cont opaque')
-            .style("opacity", 0)
-    } else {
-        tooltip = d3.select("#stacked-bar-svg-emote")
-            .append("text")
-            .attr('class', 'info-text glass-cont opaque')
-            .style("opacity", 0)
-    }
-
-    let id_counter = 0
-    rects
-        .enter()
-        .append('rect')
-        .attr('class', 'stacked-bar')
-        // .attr('id', (d) => {
-        //     // console.log(d);
-        // })
-        .attr('x', (d, i) => x(i) - rectWidth / 2)
-        .attr('y', (d) => y(d[0]))
-        .attr('height', (d) => y(d[1]) - y(d[0]))
-        .attr('width', rectWidth)
-        .attr('id', (d) => {
-            let id = ids[id_counter]
-            id_counter += 1
-                // console.log(id)
-            return id
+        .append("g")
+          .attr("transform", function(d) {
+                console.log(d);
+                return "translate(" + x(d.hw) + ",-22)";; 
+            })
+        .selectAll("rect")
+        .data(function(d) { 
+            return vis.labels.map(function(key) { 
+                console.log(d)
+                return {key: key, value: d[key]};
+            
+            }); 
         })
-        .on("mouseover", (e) => {
-            // console.log(e)
-            // console.log(e.target.id)
-            let id = e.target.id;
-            let cur_hw = ''
-            let cur_info = ''
-            let cur_category = id.substring(4, id.length)
-                // console.log(cur_category)
-            for (let [hw, info] of Object.entries(data)) {
-                if (id.includes(hw)) {
-                    cur_hw = hw
-                    cur_info = info
-                        // console.log(cur_info)
-                }
-            }
-
-            let tooltip_score = cur_info[cur_category]
-            tooltip_score = Math.round(100 * (Math.round(tooltip_score * 1000) / 1000))
-            let string = cur_category + ': ' + tooltip_score + '%'
-                // console.log(string)
-
-            tooltip
-                .html(string)
-                .style('opacity', 1)
-                // if(id.includes('pos'))
-                // tooltip
-                //     .html("subgroup: " + subgroupName + "<br>" + "Value: " + subgroupValue)
-                //     .style("opacity", 1)
-        })
-        .on("mousemove", function(e) {
-            // console.log(d3.pointer(e))
-            tooltip
-                .attr("x", (d3.pointer(e)[0]) + 10 + "px") // It is important to put the +90: other wise the tooltip is exactly where the point is an it creates a weird effect
-                .attr("y", (d3.pointer(e)[1]) + (-10) + "px")
-                // console.log('moving the mouse')
-        })
-        .on("mouseout", () => {
-            // console.log('mouseout')
-            tooltip.style('opacity', 0)
-        })
-        .style('opacity', 0)
-        .transition()
-        .duration(animTime)
-        .style('opacity', 1)
-
-
-    // rects.on('mouseover', (e) => {
-    //     console.log(e)
-    // });
+        .enter().append("rect")
+          .attr("x", function(d) { return xSubgroup(d.key); })
+          .attr("y", function(d) {
+              console.log(d);
+            return y(d['value']); })
+          .attr("width", xSubgroup.bandwidth()) //gets width of xSubgroup scaleBand
+          .attr("height", function(d) { 
+            //   console.log(d);
+              return vis.svgHeight - y(d['value']); 
+            })
+          .attr("fill", function(d) { return color(d.key); });
 
 
 
-    // rects
-    //     .update(() => {
-    //         console.log('we updated')
-    //     })
 
-
-    // rects
-
-    // rects.enter()
-    //     .append('rect')
-    //     .attr('x', (d, i) => x(i))
-    //     .attr('y', () => y(0))
-    //     .attr('width', 20)
-    //     .attr('height', y(0))
-    //     .attr('class', 'bar')
-    //     .transition()
-    //     .duration(animTime)
-    //     // .attr('y', () => y(1))
-    //     .attr('height', (d) => {
-    //         console.log(data[d].pos)
-    //         console.log(y(data[d].pos))
-
-    //         return y(data[d].pos);
-    //     });
+    
 }

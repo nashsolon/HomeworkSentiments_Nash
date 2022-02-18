@@ -14,24 +14,76 @@ let sentimentsFromData = (data, sem) => {
         }
         info[d.hw_num].push(thing);
     }
-    let avgs = {};
+
+    let totals = {};
     for (let k of Object.keys(info)) {
-        avgs[k] = { 'neg': 0, 'neu': 0, 'pos': 0, 'compound': 0, 'rating': 0 };
+        totals[k] = { 'neg': 0, 'neu': 0, 'pos': 0, 'compound': 0, 'rating': 0 };
     }
     for (let hw of Object.keys(info)) {
-        for (let col of Object.keys(info[hw][0])) {
             for (let rev of info[hw]) {
-                avgs[hw][col] += !isNaN(rev[col]) ? rev[col] : 0;
+                // console.log('col is ' + col);
+                // totals[hw][col] += !isNaN(rev[col]) ? rev[col] : 0;
+                // console.log('compound score is ' + rev.compound)
+                if(rev.compound >= 0.1){
+                    totals[hw]['pos'] += 1
+                }
+                else if(rev.compound <= -0.1){
+                    totals[hw]['neg'] += 1
+                }
+                else{
+                    totals[hw]['neu'] += 1
+                }
+            }
+        
+    }
+    // console.log(data)
+    // console.log(info)
+    // console.log(totals)
+    // for (let a of Object.keys(avgs)) {
+    //     let t = avgs[a];
+    //     for (let g of Object.keys(t)) {
+    //         t[g] = t[g] / info[a].length;
+    //     }
+    // }
+    // console.log(avgs)
+    return totals;
+}
+
+let sliderChartInfo = (data,sem) => {
+        // console.log(data);
+        sem = sem.toLowerCase();
+        if (sem != 'all') {
+            data = data.filter((d) => {
+                return d.semester == sem;
+            });
+        }
+        let info = {};
+        for (let d of data) {
+            let thing = { 'neg': d.neg, 'neu': d.neu, 'pos': d.pos, 'compound': d.compound, 'rating': d.rating };
+            if (!info[d.hw_num]) {
+                info[d.hw_num] = []
+            }
+            info[d.hw_num].push(thing);
+        }
+        let avgs = {};
+        for (let k of Object.keys(info)) {
+            avgs[k] = { 'neg': 0, 'neu': 0, 'pos': 0, 'compound': 0, 'rating': 0 };
+        }
+        for (let hw of Object.keys(info)) {
+            for (let col of Object.keys(info[hw][0])) {
+                for (let rev of info[hw]) {
+                    avgs[hw][col] += !isNaN(rev[col]) ? rev[col] : 0;
+                }
             }
         }
-    }
-    for (let a of Object.keys(avgs)) {
-        let t = avgs[a];
-        for (let g of Object.keys(t)) {
-            t[g] = t[g] / info[a].length;
+        for (let a of Object.keys(avgs)) {
+            let t = avgs[a];
+            for (let g of Object.keys(t)) {
+                t[g] = t[g] / info[a].length;
+            }
         }
-    }
-    return avgs;
+        return avgs;
+    
 }
 
 let emotionsFromData = (data, sem) => {
